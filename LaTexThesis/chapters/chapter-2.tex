@@ -16,26 +16,30 @@ A single trend line containing all 20 years is unrealistic.  The difference in t
 These are different from the historical eleven elevation bands which were separated by 500 foot intervals.  Some of the upper bands only contained only one site.  After years of collection this one site can describe its own characteristics but it cannot describe characteristics of the elevation band very well.  Elevation is an important factor in water quality and because the upper elevations are most effected by acid rain there needs to be enough sites in each band to make them statistically strong.  Without adding sites the best way to do this is to reorganize the elevation bands.  The dependent variables in this study are as mentioned before pH, ANC, Nitrate, and Sulfate.  %why these variables?( put into the intro)
 Dividing all the data into three different time sets, six elevation bands and studying four different dependents will create 72 different trend lines.
 
-    \subsubsection{Instruments}
-    \begin{itemize}
-    	\item done usisng statistical programs.
-        \item Outliler determination and trend hypothesis.
-        \begin{itemize}
-        	\item Plot pH on y-axis vs. all time.  This visually represents that the slope does not equal zero.  Check outliers in this plot.  If they can be explained then fix or delete them. 
-        	\item Plot pH on y-axis vs. elevation.  Visually check for trend of decreasing pH as elevation increases.
-        	\item Plot pH vs. month.  To check for seasonality.
-        	\item Outliers found include Abrams, Anakeesta sites, and storm flow.  Abrams is consistently found as an out lier within GRSM water quality projects using stream survey data for statistical purposes.  Abrams is located in the Cades Cove area of the park and sits in natural limestone bedrock.  This limestone increases the ANC of the streams so much that many of  the measured Abrams pH values are high enough to be outliers and are thrown out of the data.
-        	\item Water quality at sites 237 and 252 are heavily influenced by Anakeesta geology introduced into the streams through road cuts.
-        	\item Storm flow is also usually seen as an out lier in past GRSM water quality projects.  Storms can bring high intensity rain fall which can very quickly raise the levels of nitrate and sulfate pollution in the streams.  The runoff can also carry any pollutants that have come to rest on vegetation or the ground.  The lowered pH of the streams caused by the storm flow can cause leeching of the surrounding mineral geology in affected areas. Healthy streams can rebound to normal pH values, unhealthy streams can have lowered ANC due to the leaching.  Measurements taken from storm flow can show uncharacteristically low pH values and high amounts of metals.  In this way storm flow is sometimes considered an out lier.  Much of the water quality data has been characterized as base flow and storm flow by Dr.Cai, but not all it.  Water quality data after 2010 has not been characterized.  Dismissing all of  storm flow as an out lier is complicated by this lack of information.  Either; storm flow and base flow would need to be determined for the 2011 and 2012 data,all of the 2011 and 2012 data could be left out, or 2011 and 2012 would need to be characterized as base flow or storm flow.  Throwing out the years 2011 and 2012 would leave the last time set with only two years of data.  The data was compared with and without storm flow observations.  It was determined to manually select out lier storm flow observations.  They can be removed on a case by case basis during the regression procedure.
-	\item review output  for normality, heteroscedasticity, cook's D, DFBETAS, DFFITS.
-	\item Find proposed out lier in original data
-	\item Justify its removal, remove it and run the regression method again
-	\item The outputs will change every time an observation is removed.
-	\end{itemize}
-	\input{FiguresnTables/stepwiseeq}
+\subsubsection{Instruments}
+
+All of the statistical analysis was completed in statistical software.  Initial data cleaning and influential data points were found using JMP 10.  The power analysis was done using G*power and all other statistical analyses was done using SPSS.
+
+Several plots were created in order to reduce the variance of the data before any statistical analysis was attempted.  JMP was chosen for this task based on its ease of use in plotting data.  A plot of pH vs. time visually represents the existence of a positive trend in the pH data from 1993 to 2012.
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=6in]{pHdata}\\
+  \caption{pH plotted vs. Elevation.  With and without outliers.}\label{fig:pHdata}
+\end{figure}
+\autoref{fig:pHdata} shows the pH vs. elevation plot.  It shows two trend lines, one which represents the trend of all of the data points and the other represents the trend after the influential points are removed.  Both of the trends are negative as elevation increases but the trend for all the data is steeper.  pH was plotted against the month that the sample was collected to check for seasonality.  Seasonality was expected and found for pH over one year.  The variance caused by seasonality will be removed with sine and cosine functions. 
+
+Much of the variance in \autoref{fig:pHdata} can be attributed to known influences of the Abrams creek watershed, sites that are affected by Anakeesta geology, and storm flow.  Abrams is a lower elevation, low slope area where the underlying geology is much limestone.  This limestone contributes to high ANC values which in turn keep the pH levels higher than the res of the sites in the survey.  Site numbers 237 and 252 are sites which are down slope of road cuts that have exposed the underlying anakeesta geology to runoff.  The high sulfate? concentration from the anakeesta run into the streams and keep their pH values very low.  Storm flow is also usually seen as an out lier in past GRSM water quality projects.  Storms can bring high intensity rain fall which can very quickly raise the levels of nitrate and sulfate pollution in the streams.  The runoff can also carry any pollutants that have come to rest on vegetation or the ground.  The lowered pH of the streams caused by the storm flow can cause leeching of the surrounding mineral geology in affected areas. Healthy streams can rebound to normal pH values, unhealthy streams can have lowered ANC due to the leaching.  Measurements taken from storm flow can show uncharacteristically low pH values and high amounts of metals.  In this way storm flow is sometimes considered an out lier.  Much of the water quality data has been characterized as base flow and storm flow by Dr.Cai, but not all it.  Water quality data after 2010 has not been characterized.  Dismissing all of  storm flow as an out lier is complicated by this lack of information.  Either; storm flow and base flow would need to be determined for the 2011 and 2012 data,all of the 2011 and 2012 data could be left out, or 2011 and 2012 would need to be characterized as base flow or storm flow.  Throwing out the years 2011 and 2012 would leave the last time set with only two years of data.  The data was compared with and without storm flow observations.  It was determined to manually select out lier storm flow observations.  They can be removed on a case by case basis during the regression procedure.
+\begin{itemize}
+	%\begin{itemize}
+		%\item review output  for normality, heteroscedasticity, cook's D, DFBETAS, DFFITS.
+		%\item Find proposed out lier in original data
+		%\item Justify its removal, remove it and run the regression method again
+		%\item The outputs will change every time an observation is removed.
+	%\end{itemize}
+	\item \input{FiguresnTables/stepwiseeq}
 	\item The variable selected through this process were used to create fixed models to be used while discovering the Julian Date coefficient for each water quality variable in each data set.
 	\item If the step-wise equation had at least one time variable in it(Julian date, $\sin(\theta), \cos(\theta)$) then the rest were added.  This is presented in \autoref{variables}.
-	\item along with the step-wise regression method, another regression analysis was done using only time based variables.  These are the Julian Date, $\sin(\theta)$, and $\cos(\theta)$ time variables.  This method was used to find trends in the water quality variables that are related to time only.		
+	\item along with the step-wise regression method, another regression analysis was done using only time based variables.  These are the Julian Date, $\sin(\theta)$, and 					$\cos(\theta)$ time variables.  This method was used to find trends in the water quality variables that are related to time only.		
         \item IBM's SPSS was used to conduct this trend analysis.
         \item These options were chosen for regression and assumptions for this procedure include.(from notebook and textbook)
 \end{itemize}
