@@ -35,24 +35,16 @@ Storm flow is also usually seen as an out lier in past GRSM water quality projec
  
  Part of the regression procedure includes preparing the data and  identifying influential observations.  The output of a step-wise regression analysis done in SPSS can be configured to complete many different analyses in order to clean the data.  The different tests employed for this paper include tests for normality, heteroscedasticity, cook's D, DFBETAS, and DFFITS.  As observations were identified by cook's d, DFBETAS, and or DFFITS as influential they were then checked in Excel to determine why.  Modification of removal of an influential observation had to be justified or it would remain an outlier.  An example of modification of the data included a pH value that read 16.47 was changed to 6.47.  Another example is that some conductivity values were obvious copies of the ANC column which was right next to it.  These conductivity values were removed.   Some influential observations were not as obvious and if they could not be labeled as storm flow or bad data keeping they would be left in.  After sufficient attention was given to the influential observations the analysis was re-run and more influential observations could be found and attention would need be given to these also.  This process was completed for all four of the dependent variables, (pH , ANC, Nitrate, and Sulfate)
  
- The step-wise varaible selection process requires a list of variables to choose from.  The original list used and the variables chosen are reported in \autoref{variables}.  The variables chosen for this list were chosen from variables available within the stream survey dataset.   The variables selected were used to create the fixed models in \autoref{stepwiseeq}. \input{FiguresnTables/stepwiseeq}
+ The step-wise variable selection process requires a list of variables to choose from.  The original list used and the variables chosen are reported in \autoref{variables}.  The variables chosen for this list were chosen from variables available within the stream survey dataset.   The variables selected were used to create the fixed models in \autoref{stepwiseeq}.  If any of the time variablse were chosen by the step-wise method then the others were added.  This was done to ensure the julian date coefficient was present along with $\sin(\theta)$ and $\cos(\theta)$ for seasonality.
+ \input{FiguresnTables/stepwiseeq}
  %explain time variables from statguide
  The problem with these equations is still the high amount of variation within them while trying to determine a time trend.  All of the equations contain the time variables (julian date, $\sin(\theta)$, and $\cos(\theta)$ along with some other chemical variables.  Because of the difficulty of explaining what the julian date coefficient really means along side all of this other variation a second set of equations was created.  Theses equations contain only the three time variables.
 %outline spss methods
  
 \section{Results}
+In \citet{robinson2008ph} julian date coefficients are are reported for each of the eleven historical elevation classes and across each of the dependent variables (pH, ANC, NO$_3$, and SO$_4$).  Julian date coefficients for this paper were reported in similar tables.  There are 144 different julian date coefficients in two tables.  \autoref{tab:Step-wise julian date} records the julian date coefficients calculated using equations with step-wise variables and \autoref{tab:time vars} records the julian date coefficients for  equations containing only the time variables.
+
 \begin{itemize}
-	\item In \citep{robinson2008ph} table 4 reports julian date coefficients for four water quality variables (pH, ANC, NO$_3$, SO$_4$) by each elevation band.
-	\begin{itemize}
-		\item A similar layout was used in \autoref{tab:Step-wise julian date} and \autoref{tab:time vars}.
-		\item This was done for continuity and ease of comparison.
-	\end{itemize}
-	\item The first trend analysis was completed using the step-wise method for choosing predictors and the results are presented in \autoref{tab:Step-wise julian date}
-	\item The second trend analysis uses only time based variables as predictors and these results are presented in \autoref{tab:time vars}
-	\item Both tables are modeled after table 4 in \citep{robinson2008ph}
-	\item Each table is further divided into three different time sets: 1993-2002, 2003-2008, 2009-2012.
-	\item Each of these time sets are further divided into six elevation bands
-	\item Each of elevation band has the results of four trend lines, one for each of the studied water quality variables (pH, ANC, NO$_3$, SO$_4$).
 	\item Each trend line is represented by its Julian date coefficient, the r$^2$ value for the trend line, and it's statistical significance.
 	\item 2 of the 72 trend lines in \autoref{tab:Step-wise julian date} are insignificant.  In contrast only 20 of the trend lines in \autoref{tab:time vars} are significant.
 	\item Insignificance is determined  by receiving a p-value greater than .05, the $\alpha$ of the trend line.  A p-value greater than .05 rejects the hypothesis that $\beta$ $\neq$ 0.  There is greater than a 5$\%$ chance that $\beta$=0.  There is to much chance of no trend line for the scientific community.
