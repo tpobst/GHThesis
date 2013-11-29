@@ -37,15 +37,45 @@ Storm flow is also usually seen as an out lier in past GRSM water quality projec
  
  The step-wise variable selection process requires a list of variables to choose from.  The original list used and the variables chosen are reported in \autoref{variables}.  The variables chosen for this list were chosen from variables available within the stream survey dataset.   The variables selected were used to create the fixed models in \autoref{stepwiseeq}.  If any of the time variablse were chosen by the step-wise method then the others were added.  This was done to ensure the julian date coefficient was present along with $\sin(\theta)$ and $\cos(\theta)$ for seasonality.
  \input{FiguresnTables/stepwiseeq}
- %explain time variables from statguide
+ %explain time variables from statguide and robinson' s paper, explain logANC and logBC, explain BC
  The problem with these equations is still the high amount of variation within them while trying to determine a time trend.  All of the equations contain the time variables (julian date, $\sin(\theta)$, and $\cos(\theta)$ along with some other chemical variables.  Because of the difficulty of explaining what the julian date coefficient really means along side all of this other variation a second set of equations was created.  Theses equations contain only the three time variables.
 %outline spss methods
  
 \section{Results}
-In \citet{robinson2008ph} julian date coefficients are are reported for each of the eleven historical elevation classes and across each of the dependent variables (pH, ANC, NO$_3$, and SO$_4$).  Julian date coefficients for this paper were reported in similar tables.  There are 144 different julian date coefficients in two tables.  \autoref{tab:Step-wise julian date} records the julian date coefficients calculated using equations with step-wise variables and \autoref{tab:time vars} records the julian date coefficients for  equations containing only the time variables.  Each trend line is represented by its Julian date coefficient, the r$^2$ value for the trend line, and it's statistical significance.
+In \citet{robinson2008ph} julian date coefficients are are reported for each of the eleven historical elevation classes and across each of the dependent variables (pH, ANC, NO$_3$, and SO$_4$).  Julian date coefficients for this paper were reported in similar tables.  There are 144 different julian date coefficients in two tables.  \autoref{tab:Step-wise julian date} records the julian date coefficients calculated using equations with step-wise variables and \autoref{tab:time vars} records the julian date coefficients for  equations containing only the time variables.  Each trend line is represented by its Julian date coefficient, the $r^2$ value for the trend line, and it's statistical significance.
 
 2 of the 72 trend lines in \autoref{tab:Step-wise julian date} are insignificant.  In contrast only 20 of the trend lines in \autoref{tab:time vars} are significant.   Insignificance is determined  by receiving a p-value greater than .05, which is the chosen $\alpha$ of the trend line.  A p-value greater than .05 rejects the hypothesis that $\beta$(the coefficient) $\neq$ 0.  A p-value greater than .05 means that there is greater than a 5$\%$ chance that $\beta$=0.  There is to much chance of no trend line for the scientific community.
-%trends from previous draft
+
+\subsection{Step-wise equations}
+\subsubsection{pH}
+In \autoref{tab:Step-wise julian date} the julian date coefficients for pH show negative time trends in three statistically significant regression lines, all in the time range of 1993-2002.  These lines are in elevation classes 2, 3, and 5.  There is one negative trend in the third time set (2009-2012) and in the fifth elevation class but it is insignificant.   Most of the trend lines report that pH is increasing over time.
+
+\subsubsection{ANC}
+Across time sets and elevation classes trends for ANC fluctuate.  Eleven of the lines are positive and seven are negative.   Two of the three negative trends for ANC in set 2 are smaller in set 3 and one of the negative trends in set 2 becomes positive in set 3.  When comparing time set 2 to set 3 ANC trends are increasing over time. 
+
+\subsubsection{Nitrate}
+Nitrate trends in set 2 are all positive.  In set 3 nitrate has a negative trend value in elevation class 4.  The Nitrate trends for set 1 are half positive and half negative.  But from the years 2003 to 2008 all of the Nitrate slopes are positive.  In set 3 the trend in elevation class 4  have a negative slope. 
+
+\subsubsection{Sulfate}
+ Sulfate has mixed positive and negative trends for set 1 but all positive slopes for set 2.   Half of the sulfate trends in set 3 are negative ( 1, 3, and 6).
+
+\subsection{Time variables}
+In \autoref{tab:time vars} only 20 of the 72 regression lines are significant, those that have acceptable p-values less than .05. 
+
+\subsubsection{pH}
+In set 1 pH has zero significant lines, set 2 and 3 combined are less than half insignificant trend lines.  The insignificance of the trend lines leaves them untrustworthy, but the trends are quite similar to those calculated in \autoref{tab:Step-wise julian date}.
+
+\subsubsection{ANC, Nitrate, and Sulfate}
+Only two of the eighteen trends for ANC are significant.  
+
+
+Half of the trends in the Nitrate sets 1 and 2 are significant. No trend in Nitrate or Sulfate set 3 is significant and only one trend in ANC is significant.
+
+
+\subsubsection{Sulfate}
+
+
+There are only two significant regression lines in for ANC in \autoref{tab:time vars}.  Elevation class 5 in set 1 has a negative slope at -.148, there are no significant lines in set 2 and set 3 elevation class 5 is a positive slope at .891.  Nitrate and sulfate both have negative slopes in set 1 class 1.  These are the only negative slopes for nitrate and sulfate in \autoref{tab:time vars}, both have positive slopes in set 2 at elevation classes 1,2,4 and 6, and neither variable have significant lines in 3.
 %compare to trends from robinson's paper
 
 \section{Discussion}
