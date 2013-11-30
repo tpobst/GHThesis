@@ -11,7 +11,7 @@ Water quality is an ongoing concern for the park.  The acidification of the stre
 Twenty years of data were available for this paper from the years 1993 to 2012.  The data used in these analyses are collected through the park wide stream survey.  Most samples are collected every two months and analyzed in a lab for many water quality variables including pH, ANC, nitrate, sulfate and some metals.  %description of lab process in Intro?
 A single trend line containing all 20 years is unrealistic.  The difference in trends from \citet{robinson2008ph} and \citet{cai2012} suggests an inflection point in the trend line somewhere between 2002 and 2009.  For this reason and also to be able to easier compare results from this paper with those from \citet{robinson2008ph}, who used the years 1993 to 2002, a separate data set will be sectioned off from 1993 to 2002.  A third data set will be created after the year 2008 because this is the year that the Kingston and Bull run power plants installed scrubbers onto their stacks.  The hypothesis being the sulfate concentrations will be noticeably different and this difference could indicate a need for further study.  These three time sets will be analyzed separately. 
 
- Two more factor divisions of the data include dividing the data by elevation classes and and by four dependent variables (pH, ANC, Nitrate, and Sulfate).  The elevation classes used in this paper were set up to contain a minimum number of sites in order that the upper classes would not be too weak to be useful.  The divisions are presented here in \autoref{fig:ElevationBands}.
+ Two more factor divisions of the data include dividing the data by elevation classes and and by four dependent variables (pH, ANC, Nitrate, and Sulfate).  The elevation classes used in this paper were set up to contain a minimum number of sites in order that the upper classes would not be too weak to be useful.  The divisions are presented here in \autoref{tab:ElevationBands}.
 \input{FiguresnTables/elevationbands}
 These are different from the historical eleven elevation bands which were separated by 500 foot intervals.  Some of the upper bands only contained only one site.  After years of collection this one site can describe its own characteristics but it cannot describe characteristics of the elevation band very well.  Elevation is an important factor in water quality and because the upper elevations are most effected by acid rain there needs to be enough sites in each band to make them statistically strong.  Without adding sites the best way to do this is to reorganize the elevation bands.  The dependent variables in this study are as mentioned before pH, ANC, Nitrate, and Sulfate.  %why these variables?( put into the intro)
 Dividing all the data into three different time sets, six elevation bands and studying four different dependents will create 72 different trend lines.
@@ -28,9 +28,8 @@ Several plots were created in order to reduce the variance of the data before an
 \end{figure}
 \autoref{fig:pHdata} shows the pH vs. elevation plot.  It shows two trend lines, one which represents the trend of all of the data points and the other represents the trend after the influential points are removed.  Both of the trends are negative as elevation increases but the trend for all the data is steeper.  pH was plotted against the month that the sample was collected to check for seasonality.  Seasonality was expected and found for pH over one year.  The variance caused by seasonality will be removed with sine and cosine functions. 
 
-Much of the variance in \autoref{fig:pHdata} can be attributed to known influences of the Abrams creek watershed, sites that are affected by anakeesta geology %the map pdf can help identify what anakeesta is
-, and storm flow.  Abrams is a lower elevation, low slope area where the underlying geology is much limestone.  This limestone contributes to high ANC values which in turn keep the pH levels higher than the res of the sites in the survey.  Site numbers 237 and 252 are sites which are down slope of road cuts that have exposed the underlying anakeesta geology to runoff.  The high sulfate? concentration from the anakeesta run into the streams and keep their pH values very low.  
-Storm flow is also usually seen as an out lier in past GRSM water quality projects.  Storms can bring high intensity rain fall which can very quickly raise the levels of nitrate and sulfate pollution in the streams.  The runoff can also carry any pollutants that have previously settled on vegetation or the ground.  The lowered pH of the streams caused by the storm flow can cause leeching of the surrounding mineral geology in affected areas. Healthy streams can rebound to normal pH values, unhealthy streams can have lowered ANC due to the leaching. %get some info from keil's paper
+Much of the variance in \autoref{fig:pHdata} can be attributed to known influences of the Abrams creek watershed, sites that are affected by anakeesta geology, and storm flow.  Abrams is a lower elevation, low slope area where the underlying geology is Cades Sandstone which buffers against acid rain very well.  This sandstone contributes to high ANC values which in turn keep the pH levels higher than the rest of the sites in the survey.  Site numbers 237 and 252 are sites which are down slope of road cuts that have exposed the underlying anakeesta formation  to runoff.  The anakeesta formation contains sufidic slate which can negatively effect streams and keep their pH values very low.  
+Storm flow is also usually seen as an out lier in past GRSM water quality projects.  Storms can bring high intensity rain fall which can very quickly reduce the ANC of streams.  In streams with already low ANC and pH this episodic stream acidification can be harmful to aquatic life \citep{neff2009physiological}  The lowered pH of the streams caused by the storm flow can cause leeching of the surrounding mineral geology in affected areas. Healthy streams can rebound to normal pH values, unhealthy streams can have permanently lowered ANC due to the leaching. %check on facts of  leaching and permanently lowered ANC
  Measurements taken from storm flow can show uncharacteristically low pH values and high amounts of metals.  In this way storm flow is sometimes considered an influential group on the rest of the data, because the measurements are significantly different from the average.  Dr. Cai characterized all of the available water quality data between 1993 and 2010 as storm flow or base flow, this work is summarized in \citet{cai2012}.  Water quality data after 2010 has not been characterized.  If  all storm flow observations are to be dismissed as influential, the years 2011 and 2012 would need to be characterized.  Quick analyses were run to see how influential storm flow was on the data as a whole and it turned out that some were and many were not.  Instead of throwing out all of storm flow observations, storm flow became a reason to throw out influential observations during regression analysis.  They can be removed on a case by case basis during the regression procedure.
  
  Part of the regression procedure includes preparing the data and  identifying influential observations.  The output of a step-wise regression analysis done in SPSS can be configured to complete many different analyses in order to clean the data.  The different tests employed for this paper include tests for normality, heteroscedasticity, cook's D, DFBETAS, and DFFITS.  As observations were identified by cook's d, DFBETAS, and or DFFITS as influential they were then checked in Excel to determine why.  Modification of removal of an influential observation had to be justified or it would remain an outlier.  An example of modification of the data included a pH value that read 16.47 was changed to 6.47.  Another example is that some conductivity values were obvious copies of the ANC column which was right next to it.  These conductivity values were removed.   Some influential observations were not as obvious and if they could not be labeled as storm flow or bad data keeping they would be left in.  After sufficient attention was given to the influential observations the analysis was re-run and more influential observations could be found and attention would need be given to these also.  This process was completed for all four of the dependent variables, (pH , ANC, Nitrate, and Sulfate)
@@ -42,43 +41,50 @@ Storm flow is also usually seen as an out lier in past GRSM water quality projec
 %outline spss methods
  
 \section{Results}
+
 In \citet{robinson2008ph} julian date coefficients are are reported for each of the eleven historical elevation classes and across each of the dependent variables (pH, ANC, NO$_3$, and SO$_4$).  Julian date coefficients for this paper were reported in similar tables.  There are 144 different julian date coefficients in two tables.  \autoref{tab:Step-wise julian date} records the julian date coefficients calculated using equations with step-wise variables and \autoref{tab:time vars} records the julian date coefficients for  equations containing only the time variables.  Each trend line is represented by its Julian date coefficient, the $r^2$ value for the trend line, and it's statistical significance.
 
 2 of the 72 trend lines in \autoref{tab:Step-wise julian date} are insignificant.  In contrast only 20 of the trend lines in \autoref{tab:time vars} are significant.   Insignificance is determined  by receiving a p-value greater than .05, which is the chosen $\alpha$ of the trend line.  A p-value greater than .05 rejects the hypothesis that $\beta$(the coefficient) $\neq$ 0.  A p-value greater than .05 means that there is greater than a 5$\%$ chance that $\beta$=0.  There is to much chance of no trend line for the scientific community.
 
 \subsection{Step-wise equations}
+
 \subsubsection{pH}
+
 In \autoref{tab:Step-wise julian date} the julian date coefficients for pH show negative time trends in three statistically significant regression lines, all in the time range of 1993-2002.  These lines are in elevation classes 2, 3, and 5.  There is one negative trend in the third time set (2009-2012) and in the fifth elevation class but it is insignificant.   Most of the trend lines report that pH is increasing over time.
 
 \subsubsection{ANC}
+
 Across time sets and elevation classes trends for ANC fluctuate.  Eleven of the lines are positive and seven are negative.   Two of the three negative trends for ANC in set 2 are smaller in set 3 and one of the negative trends in set 2 becomes positive in set 3.  When comparing time set 2 to set 3 ANC trends are increasing over time. 
 
 \subsubsection{Nitrate}
+
 Nitrate trends in set 2 are all positive.  In set 3 nitrate has a negative trend value in elevation class 4.  The Nitrate trends for set 1 are half positive and half negative.  But from the years 2003 to 2008 all of the Nitrate slopes are positive.  In set 3 the trend in elevation class 4  have a negative slope. 
 
 \subsubsection{Sulfate}
- Sulfate has mixed positive and negative trends for set 1 but all positive slopes for set 2.   Half of the sulfate trends in set 3 are negative ( 1, 3, and 6).
+
+ Sulfate has mixed positive and negative trends for set 1 but all positive trends for set 2.   Half of the sulfate trends in set 3 are negative ( 1, 3, and 6).
 
 \subsection{Time variables}
+
 In \autoref{tab:time vars} only 20 of the 72 regression lines are significant, those that have acceptable p-values less than .05. 
 
 \subsubsection{pH}
+
 In set 1 pH has zero significant lines, set 2 and 3 combined are less than half insignificant trend lines.  The insignificance of the trend lines leaves them untrustworthy, but the trends are quite similar to those calculated in \autoref{tab:Step-wise julian date}.
 
-\subsubsection{ANC, Nitrate, and Sulfate}
-Only two of the eighteen trends for ANC are significant.  
+\subsubsection{ANC}
 
+There are only two significant regression lines in for ANC in \autoref{tab:time vars}.  Elevation class 5 in set 1 has a negative trend at -.148, there are no significant lines in set 2 and set 3 elevation class 5 is a positive trend at .891.  
 
-Half of the trends in the Nitrate sets 1 and 2 are significant. No trend in Nitrate or Sulfate set 3 is significant and only one trend in ANC is significant.
+\subsubsection{Nitrate and Sulfate}
 
-
-\subsubsection{Sulfate}
-
-
-There are only two significant regression lines in for ANC in \autoref{tab:time vars}.  Elevation class 5 in set 1 has a negative slope at -.148, there are no significant lines in set 2 and set 3 elevation class 5 is a positive slope at .891.  Nitrate and sulfate both have negative slopes in set 1 class 1.  These are the only negative slopes for nitrate and sulfate in \autoref{tab:time vars}, both have positive slopes in set 2 at elevation classes 1,2,4 and 6, and neither variable have significant lines in 3.
+Nitrate and sulfate both have negative trends in set 1 class 1.  These are the only negative slopes for nitrate and sulfate in \autoref{tab:time vars}, both have positive slopes in set 2 at elevation classes 1,2,4 and 6, and neither variable have significant lines in 3.
 %compare to trends from robinson's paper
 
+\subsection{Results by Comparison}
+
 \section{Discussion}
+
 \begin{itemize}
 	\item Why were the trends insignificant?
 	\item Why are the water quality trends trending the way they are at separate time sets ( discuss comparisons between sets in the ANOVA bonferoni section).
