@@ -34,11 +34,11 @@ Storm flow is also usually seen as an out lier in past GRSM water quality projec
  
  Part of the regression procedure includes preparing the data and  identifying influential observations.  The output of a step-wise regression analysis done in SPSS can be configured to complete many different analyses in order to clean the data.  The different tests employed for this paper include tests for normality, heteroscedasticity, cook's D, DFBETAS, and DFFITS.  As observations were identified by cook's d, DFBETAS, and or DFFITS as influential they were then checked in Excel to determine why.  Modification of removal of an influential observation had to be justified or it would remain an outlier.  An example of modification of the data included a pH value that read 16.47 was changed to 6.47.  Another example is that some conductivity values were obvious copies of the ANC column which was right next to it.  These conductivity values were removed.   Some influential observations were not as obvious and if they could not be labeled as storm flow or bad data keeping they would be left in.  After sufficient attention was given to the influential observations the analysis was re-run and more influential observations could be found and attention would need be given to these also.  This process was completed for all four of the dependent variables, (pH , ANC, Nitrate, and Sulfate)
  
- The step-wise variable selection process requires a list of variables to choose from.  The original list used and the variables chosen are reported in \autoref{variables}.  The variables chosen for this list were chosen from variables available within the stream survey dataset.   The variables selected were used to create the fixed models in \autoref{stepwiseeq}.  If any of the time variablse were chosen by the step-wise method then the others were added.  This was done to ensure the julian date coefficient was present along with $\sin(\theta)$ and $\cos(\theta)$ for seasonality.  Many variables are present in the stream survey database but some were derived.  Mathematically seasonality can be modeled with the $\sin(\theta)$ and $\cos(\theta)$ variables as shown in \citet{helsel1992statistical}.  They represent each day of the year as a fraction of the year and place the lowest pH on January 1 and the highest on July 1.  The variables BC (base cations) represent calcium, magnesium, potassium, and sodium.  Correlations were run between each of the proposed variables  and both ANC and BC were found to be better represented as $\log_2(ANC)$ and $\log_2(BC)$.
+ The step-wise variable selection process requires a list of variables to choose from.  The original list used and the variables chosen are reported in \autoref{variables}.  The variables chosen for this list were chosen from variables available within the stream survey dataset.  The step-wise process regulates entry into the equations by the probability of the F statistic.  If this statistic was between .05 and .10 then the variable could stay.   The variables selected were used to create the fixed models in \autoref{stepwiseeq}.  If any of the time variablse were chosen by the step-wise method then the others were added.  This was done to ensure the julian date coefficient was present along with $\sin(\theta)$ and $\cos(\theta)$ for seasonality.  Many variables are present in the stream survey database but some were derived.  Mathematically seasonality can be modeled with the $\sin(\theta)$ and $\cos(\theta)$ variables as shown in \citet{helsel1992statistical}.  They represent each day of the year as a fraction of the year and place the lowest pH on January 1 and the highest on July 1.  The variables BC (base cations) represent calcium, magnesium, potassium, and sodium.  Correlations were run between each of the proposed variables  and both ANC and BC were found to be better represented as $\log_2(ANC)$ and $\log_2(BC)$.
+ 
  \input{FiguresnTables/stepwiseeq}
 
  The problem with these equations is still the high amount of variation within them while trying to determine a time trend.  All of the equations contain the time variables (julian date, $\sin(\theta)$, and $\cos(\theta)$ along with some other chemical variables.  Because of the difficulty of explaining what the julian date coefficient really means along side all of this other variation a second set of equations was created.  Theses equations contain only the three time variables.
-%outline spss methods settings
  
 \section{Results}
 
@@ -48,19 +48,19 @@ In \citet{robinson2008ph} julian date coefficients are are reported for each of 
 
 \subsection{Step-wise equations}
 
-\subsubsection{pH}%how does pH change per 1000 ft.
+\subsubsection{pH}
 
 In \autoref{tab:Step-wise julian date} the julian date coefficients for pH show negative time trends in three statistically significant regression lines, all in the time range of 1993-2002.  These lines are in elevation classes 2, 3, and 5.  There is one negative trend in the third time set (2009-2012) and in the fifth elevation class but it is insignificant.   Most of the trend lines report that pH is increasing over time.
 
-\subsubsection{ANC}%how does ANC change per 1000 ft.
+\subsubsection{ANC}
 
 Across time sets and elevation classes trends for ANC fluctuate.  Eleven of the lines are positive and seven are negative.   Two of the three negative trends for ANC in set 2 are smaller in set 3 and one of the negative trends in set 2 becomes positive in set 3.  When comparing time set 2 to set 3 ANC trends are increasing over time. 
 
-\subsubsection{Nitrate}%how does N change per 1000 ft.
+\subsubsection{Nitrate}
 
 Nitrate trends in set 2 are all positive.  In set 3 nitrate has a negative trend value in elevation class 4.  The Nitrate trends for set 1 are half positive and half negative.  But from the years 2003 to 2008 all of the Nitrate slopes are positive.  In set 3 the trend in elevation class 4  have a negative slope. 
 
-\subsubsection{Sulfate}%how does S change per 1000 ft.
+\subsubsection{Sulfate}
 
  Sulfate has mixed positive and negative trends for set 1 but all positive trends for set 2.   Half of the sulfate trends in set 3 are negative ( 1, 3, and 6).
 
@@ -83,7 +83,7 @@ Nitrate and sulfate both have negative trends in set 1 class 1.  These are the o
 
 \subsection{Results by Comparison}
 
-\section{Discussion}
+\section{Discussion}%it is interesting that the step-wise process did not choose elevation as an independent for pH
 
 \begin{itemize}
 	\item Why were the trends insignificant?
