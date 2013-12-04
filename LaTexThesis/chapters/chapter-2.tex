@@ -36,8 +36,10 @@ Part of the regression process includes preparing the data and identifying influ
  
  The step-wise variable selection process requires a list of variables to choose from.  The original list used and the variables chosen are reported in \autoref{variables}.  The variables chosen for this list were chosen from variables available within the stream survey dataset.  The step-wise process regulates entry into the equations by the probability of the F statistic.  If this statistic were between .05 and .10 then the variable could stay.   The variables selected were used to create the fixed models presented in \autoref{tab:stepwiseeq}.  If any of the time variables were chosen by the step-wise method then the others were added.  This was done to ensure the Julian date coefficient was present along with $\sin(\theta)$ and $\cos(\theta)$ for seasonality.  Many variables are present in the stream survey database, but some were derived.  Mathematically seasonality can be modeled with the $\sin(\theta)$ and $\cos(\theta)$ variables as shown in \citet{helsel1992statistical}.  They represent each day of the year as a fraction of the year and place the lowest pH on January 1 and the highest on July 1.  The variables BC (base cations) represent Ca$^{2+}$, Mg$^{2+}$, K$^+$, and Na$^+$.  Correlations were run between each of the proposed variables  and both ANC and BC were found to be better described as $\log_2(ANC)$ and $\log_2(BC)$.
  
-\input{FiguresnTables/stepwiseeq}
+%\input{FiguresnTables/stepwiseeq}
  The problem with these equations is still the high amount of variation within them while trying to determine a time trend.  All of the equations contain the time variables (julian date, $\sin(\theta)$, and $\cos(\theta)$ along with some other chemical variables.  Because of the difficulty of explaining what the Julian date coefficient really means along side all of this other variation a second set of equations was created.  Theses equations contain only the three time variables.
+ 
+ Elevation was not a significant predictor for any of the dependent water quality variables chosen.  The dependent variables were regressed using simple linear regression against elevation in meters in order to determine their trends by elevation.  These trends encompass all elevations, no elevation bands were employed
  
 \section{Results}
 
@@ -79,47 +81,31 @@ There are only two significant regression lines in for ANC in \autoref{tab:time 
 
 NO$_3^-$ and SO$_4^{2-}$ both had degrading trends in set 1 class 1. These are the only negative trends they exhibit in \autoref{tab:time vars}.  Both have positive trends in set 2 at elevation classes 1,2,4 and 6, and neither variable have significant lines in 3.
 
-\subsection{Results by Comparison}
+\subsection{Elevation trends}
+\input{FiguresnTables/Elevationtrends}
+The aim of \autoref{Water quality per elevation} is to calculate the change in water quality values for every 1000 meters of elevation.  All of the pH and ANC values decrease as elevation increases and all of the  NO$_3^-$ , SO$_4^{2-}$ , and base cations dependents increase as elevation increases.  Except for the base cations every value in the per 1000m trend column decrease for the water quality dependents as the table moves forward in time sets.
 
-\subsubsection{\citep{robinson2008ph}}
+\subsection{Results by Comparison}
 
 In comparing table 4 from \citet{robinson2008ph} with \autoref{tab:Step-wise julian date} from this study it needs to be noted that the elevation classes are different and the data sets have slightly changed throughout the years. The largest difference is the reduction of 90 sites to 43. Abrams was not included in this analysis which would affect differences in the old elevation classes from \citet{robinson2008ph} of 1,2, and 3 with elevation class 1 with this study. Two sites (237, 252) that are in the new elevation class 6 were left out of the statistical analysis as influential observations. These correspond to historic elevation class 9.
 
 One interesting comparison were between table 4 of Robinson 08 and set 1 of this study. All of the pH trends presented in table 4 of Robinson 08 are negative which is what led to the findings in \citet{robinson2008ph} that pH is dropping and can drop to harmful levels in the future. However, only half the time trend trends for set 1 for pH found in this study were negative in \autoref{tab:Step-wise julian date} and none of the trend lines for pH in \autoref{tab:time vars} are significant. All of the rest of the pH trends for Julian date for both \autoref{tab:Step-wise julian date} and \autoref{tab:time vars} are positive when they are significant.
 
-\subsubsection{\citep{cai2012}}
 \paragraph{pH and ANC}
-\begin{itemize}	
-	\item stream pH and ANC significantly decreased at -0.32 pH units and -35.73 $\mu$eq L$^{-1}$ per 1000-ft gain
-\end{itemize}
+For a data set of 92 sites within the time frame of 1993 to 2009 \citet{cai2012} reports a decrease for pH and ANC of -0.32 pH units and -35.73 $\mu$eq L$^{-1}$ per 1000-ft elevation gain or 302-m elevation gain.  These values are close to those found in this study for the years of 2009-2012, but the values in set 1 and 2 are much steeper.  In set 3 pH is significantly lower with a trend of -.0286 pH units per 1000-m gain and ANC is a little bit lower with a trend of -35.689 $\mu$eq L$^{-1}$ per 1000-m gain(\autoref{Water quality per elevation}).  
+
 \paragraph{Nitrate and Sulfate}
-\begin{itemize}
-	\item Sulfate declines with elevation but was insignificant
-	\item interestingly nitrate exhibited a significant increase with elevation
-	\item 56 out of 92 sites observed no NO$_3^-$ time trends
-	\item the two sites with the highest sulfate trends were high elevation sites
-	\item the site with increasing nitrate trends were low elevation sites
-	\item data suggested that pH increases from lower to higher elevation from decreasing BC corresponding with increasing nitrate.% using the descriptive data what do nitrate and sulfate concentrations look like over elevation	
-\end{itemize}
-\paragraph{Sulfate only}
-\begin{itemize}
-	\item \citet{weathers2006} reports increased sulfate deposition as elevation increases 
-	\item Biotics effects report did not show this
-	\item sulfate remains absorbed to soil particles as long sulfate concentrations are high and pH is low
-\end{itemize}
-%compare to biotics effects report
+The positive SO$_4^{2-}$ trends seem to decrease by 2 $\mu$eq L$^{-1}$ between set 1 and set 2 in \autoref{Water quality per elevation} and then by 6  $\mu$eq L$^{-1}$ between set 2 and 3.  In contrast an insignificant negative trend with elevation was found in \citet{cai2012} for the years 1993 to 2009.  NO$_3^-$ follows a similar pattern as SO$_4^{2-}$ in \autoref{Water quality per elevation} which is also in agreement with findings in \citet{weathers2006}.  As the trends for  NO$_3^-$ and SO$_4^{2-}$ decrease over the time sets the base cations increase by 2 $\mu$eq L$^{-1}$ between set 1 and set 2 and then by almost 5 $\mu$eq L$^{-1}$ between set 2 and set 3.
 
 \section{Discussion}
 
-It is interesting that the step-wise process did not choose elevation or trend as an independent variable for any of the dependent variables. \autoref{fig:pHdata} clearly shows a degrading trends for pH while increasing the elevation. Individual elevation classes might be to small to show a significant elevation trend.  Increasing acidification with increased elevation was observed in \citet{cai2012} will analyzing the entire 1993 to 2009 dataset available.
+It is interesting that the step-wise process did not choose elevation as an independent variable for any of the dependent variables. \autoref{fig:pHdata} clearly shows a degrading trends for pH while increasing the elevation. Individual elevation classes might be to small to show a significant elevation trend.  Increasing acidification with increased elevation was observed in \citet{cai2012} will analyzing the entire 1993 to 2009 dataset available.  This suggests that there is an elevation trend it is just not as important as other factors when studying acidification in the GRSM.
 
-A trend in time is also clearly evident with a simple plot of pH and time but the mostly insignificant trends of \autoref{tab:time vars} suggest otherwise. The three time variables alone are not enough to describe the dependent variables.
+A trend in time is also clearly evident with a simple plot of pH and time but the mostly insignificant trends of \autoref{tab:time vars} suggest otherwise. The three time variables alone are not enough to describe the dependent variables.  \citet{robinson2008ph} found that pH was decreasing over time when looking at stream survey data between 1993 to 2002, although this study found that most of the trends in that period are negative, the trends for 2009 to 2012 are all positive as well as the trends for 2003 to 2008.  This is in agreement with values reported in \citet{cai2012}.  The differences between the results in \citet{robinson2008ph} and those in \autoref{tab:Step-wise julian date} and \autoref{tab:time vars} imply that water quality is worse in the past but is getting better.  Both \citet{robinson2008ph} and \citet{cai2012} used more than double the sites of this study and \citet{robinson2008ph} allowed Abrams to stay in the data.  The differences in the data can account for differences in the results but it is safe to say that water quality in the park is getting healthier.
 
-The differences between the results in \citet{robinson2008ph} and those in \autoref{tab:Step-wise julian date} and \autoref{tab:time vars} imply that water quality is worse when dealing with 90 sites.%discuss comparison with robinson 08, discuss predictions, expand on differences between data sets
+SO$_4^{2-}$ has more degrading trends for the years 2009 to 2012 than in any other time set. This is not surprising based on the values shown in \autoref{fig:sulfateemissions} in which SO$_4^{2-}$ concentrations at the high elevation site Noland begin to drop along with emissions from Kingston and Bull run power plants.  It is surprising that \cite{cai2012} found an insignificant but negative trend in SO$_4^{2-}$ as elevation increases while this study shows only increasing elevation trends for all time sets.  When looking at a graph of SO$_4^{2-}$ vs. elevation there are many higher elevation outliers present, these outliers make the difference in findings.%graphs?
 
-SO$_4^{2-}$ has more degrading trends for the years 2009 to 2012 than in any other time set. This is not surprising based on the values shown in \autoref{fig:sulfateemissions} in which SO$_4^{2-}$ concentrations at the high elevation site Noland begin to drop along with emissions from Kingston and Bull run power plants.
+Water quality is increasing.  pH and ANC are rising and the pollutants NO$_3^-$ and SO$_4^{2-}$ are decreasing.  The concerns of lowering pH raised in \citet{robinson2008ph} are now not as important as those for SO$_4^{2-}$ desorption raised in \citet{cai2012}.  The lack of elevation trend in SO$_4^{2-}$ was attributed to high elevation soil adsorption of depositional SO$_4^{2-}$ and a statement was made that SO$_4^{2-}$ remains absorbed to soil particles as long as soil water chemistry remains high in SO$_4^{2-}$ concentration and low in pH \citep{cai2011long}.  The elevation trend for SO$_4^{2-}$ through time is decreasing but most of the mean SO$_4^{2-}$ concentrations for SO$_4^{2-}$  listed in \autoref{tab:Descriptive Statistics} are increasing through time while pH increases.
 
-Water quality trends will continue to get better than trends before 2008 because pollution is better regulated.%maybe add some info about the future of EPA regulations
-
-The accuracy and usefulness of this trend analysis, %is precise
-	
+The accuracy and usefulness of this trend analysis, %is precise, if a time trend or an elevational trend is looked for it can be found.
+The Mann-Kendal test for trends would be much more robust \citep{helsel1992statistical}.	
