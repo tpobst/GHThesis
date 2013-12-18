@@ -1,22 +1,41 @@
 \chapter{Trend Analysis}\label{ch:TA}
 The quality of water in the GRSM is an ongoing concern for the park, as the acidification of the streams can have significant negative effects on wildlife and vegetation.
 In order to support their mission of monitoring the water quality of the GRSM, a stream survey program collects water samples from all over the park.
-These samples are then analyalyzed for indicators of the health of the water.
+These samples are then analyzed for indicators of the health of the water.
 A brief introduction to trend analysis is provided in \autoref{sec:TAInto}.
 The methods utilized for trend analysis will be detailed in \autoref{sec:TAMethods}, with application of these methods in \autoref{sec:TADiscussion}.
 
 \section{Introduction}
 \label{sec:TAIntro}
 
-In order to ascertain whether the water quality is increase on decreasing in the GRSM, a temporal trend analysis is necessary in which the water quality data is analyazed for possible trends.
+In order to ascertain whether the water quality is increase on decreasing in the GRSM, a temporal trend analysis is necessary in which the water quality data is analyzed for possible trends.
 Several authors have previously published work in this area.
 \citet{robinson2008ph} completed a trend analysis on the stream survey data in 2002 using step-wise multiple linear regression in order to determine if time was a significant predictor of pH, ANC, sulfate, or nitrate and found that between 74 \% to 24\% of the data could be explained by the four predictors.
 This was repeated again in \citep{cai2012}. 
-This statistical procedure is used to discover sudden and gradual trends over time. 
+
+Linear regression, in which an independent variable is modeled by a predictor variable, assume that the independent variable can be modeled as a linear combination of the a predictor variable to a normally distributed random error term.
+Multiple linear regression extends linear regression to express  a single predictor variable as a linear combination of a vector of independent variables with a matrix of coefficients and a vector of error terms.
+Given a vector of time series indicators of stream health, $\overrightarrow{x(t)} = \left \langle ANC(t), SO_{4}^{2+}(t),\cdots) \right \rangle$, a linear regression model of independent variable $\overrightarrow{\text{pH}(t)}$ can then be expressed as \eqref{eqn:TALinearReg}, where $\beta$ is a matrix of regression coefficients to within an error term $\epsilon$.
+\begin{align}
+	\overrightarrow{\text{pH}(t)} &= \overrightarrow{x(t)}^\top \beta+\epsilon(t)
+	\label{eqn:TALinearReg}
+\end{align}
+
+% Is there any physical basis for the predictor variables, or any of the variables / assumptions of multiple linear regression
+% It is expected that VARIABLE explain the pH based on the following physics . . .
+Linear regression models assume that the variance of each predictor is constant, and the predictor vectors are independent.
+These conditions are satisfied in the modeling of stream water quality due to \textbf{CAN YOU JUSTIFY THE ASSUMPTIONS?}.
+
+Multiple linear regression models often have an excessive amount of predictor variables, some of which do not have an impact on the model.
+Step-wise multiple linear regression is a semi-automated process of building a statically valid model by successively adding or removing variables based on the t-statistics.
+Generally, this involves a forward selection criteria in which variables are added to the model if they provide a statistical improvement to the model, and a backwards selection in which variables that have been added but are no longer statistically meaningful due to the addition of other variables are removed.
+Several statistical packages are then available which automate this process.
+
 
 \section{Methods}
 \label{sec:TAMethods}
 
+Several statical packages are available for the 
 Trend analysis is a great way to characterize the park's water quality using data collected through the stream survey.
 It is used to state the condition of the parks water bodies while trying to predict where the water quality is headed in the future. 
 
