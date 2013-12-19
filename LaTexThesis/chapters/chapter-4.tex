@@ -31,25 +31,15 @@ This output then has to be manipulated in excel in order to determine a number o
 \subsubsection{Post hoc}
 
 The most popular power analysis methods originate from Jacob Cohen who outlined his approach in " A Power Primer" \citep{cohen1992power}.
-Cohen displayed many
-
-\begin{itemize}
-	\item Data compiled in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} give the inputs required for a post hoc power analysis on th previously created trend lines.
-	\item required inputs for G*power include, ES(Effect Size), $\alpha$(alpha), number of observations, and number of predictors.
-	\begin{itemize}
-		\item ES is calculated in G*power by the Cohen method stated in \citep{cohen1992power} "A Power Primer".
-		\item Alpha refers to the $\alpha$ of the trend lines (.05).
-		\item Number of observations is given in trend line output from SPSS.
-		\item Number of predictors is also stated in trend line output.
-	\end{itemize}
-	\item The calculate button will calculate the power
-	\begin{itemize}
-		\item This is all that is needed for a post hoc analysis.  It answers the question "What was the power of the survey ?" or "How strong are the trend lines that were computed?"
-	\end{itemize}
-	\item The calculated powers are reported along side their trend line inputs in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
-\end{itemize}
-
-
+Cohen displayed ways to calculate the power for eight different tests the last of which is the F test for multiple and multiple partial correlation.
+The different tests are represented by their differences in calculating ES.
+Effect size is the only input that needs to be calculated before the analysis can be completed.
+The equation for the ES of a regression model presented by Cohen is equal to the correlation coefficient divided by one minus the correlation coefficient.
+This equation can be described as the ratio of explained to unexplained variation for the regression model.
+For the post hoc analysis this equation will be used to calculate an specific ES for each model presented in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} which correspond to the models in \autoref{ch:TA}.
+ This calculation is calculated in G*power after inputing the correlation coefficient.
+G*power uses ES along with the $\alpha$ used for the regression model, the number observations, and number of predictors in the model to output the power of the F test.
+This number will be between 0 and 1.00 and will be the power acquired by the models using past data.
 
 \subsubsection{A priori}
 \begin{itemize}
