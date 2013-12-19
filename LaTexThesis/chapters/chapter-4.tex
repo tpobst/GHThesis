@@ -1,30 +1,38 @@
 \chapter{Power Analysis} \label{ch:poweranslysis}
 \section{Methods}
 \subsection{Introduction}
-\begin{itemize}
-	\item Statistics come with an inherent amount of error.
-	\item The trend lines created in the trend analysis chapter have a defined error called type II error or $\beta$.
-	%add a small table of error types
-	\item $\beta$ describes failure to reject a false null hypothesis or failure to detect a trend in the data when there really is one.
-	\item $\beta$ is usually described in terms of probability and it's opposite is called power(1-$\beta$)
-	\item The power of a statistical test describes the probability that the test is true.
-	\item The statistical test is the hypothesis test which tests if the coefficients of a regression line are zero.  So whether or not a trend exists.
-	\item The power of the trend lines will state the "truth" of the slope of the trend.  A trend lilne with a power of 1.00 means that there is a 100$\%$ chance that the calculated slope is not zero.
-	\item Using the earlier calculated trend lives as input, the power of each regression line was calculated with the help of G*power.  An a priori analysis was calculated to help determine the number of samples needed for desired levels of power.
-\end{itemize}
+The statistics preformed in \autoref{ch:TA} come with an inherent amount of error.  
+This error in trend analysis is defined as type II or $\beta$ and can be seen in \autoref{tab:HypothesisTests}.
+\input{FiguresnTables/HypothesisTests}
+The trend analysis tests the hypothesis that a trend exists in the data.
+The null hypothesis is that there is no trend or the coefficient is zero.
+In simpler terms this means that the hypothesis for the trend analysis is that there is a positive julian date coefficient for each dataset and the null hypothesis is that there is not one.
+$\beta$ describes the failure to reject a false null hypothesis or in the case of this paper a failure to detect a trend in the data when there really is one.
+The opposite of $\beta$ is the probability that a trend will be detected when it exists and is called the power of the test.
+A trend line with a power of 1.00 means that there is a 100$\%$ chance that the calculated slope is not zero.
+The post hoc power of all 144 regression lines from \autoref{ch:TA} were calculated with the help of the statistical program G*power.  
+An a priori power analysis can be used to help plan for the future by choosing a desired power and planning around it.
+This analysis was also completed in G*power.
+
+
 \subsection{Body}
-\begin{itemize}
-	\item The objectives of the power analysis are to determine the power of the trend lines calculated from past observations and to determine an adaquate number of samples needed for different levels of power for the future.
-	\item The inputs needed in the G*power program for a post hoc analysis are: number of observations (N), adjusted r$^2$, number of predictors, and Effect size.  N and adj.r$^2$ are  outputs from the trend analysis and effect size is calculated using G*power.  These values are reported in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
-	\item A post hoc analysis of the trend line data from \autoref{tab:TVposthoc} is not useful.  This is because most of the lines have terribly low r$^2$ values and are insignificant trend lines.  The power of an insignificant trend line is also insignificant.
-	\item Post hoc analysis and a priori were  run on both methods for trend lines
-	\item G*power is a free power analysis program written by four germen psychology professors.
-	\item It runs the gamut in power analysis options and uses methods stated in \citep{cohen1992power}.
-	\item G*power was used to calculate powers in the post hoc analysis and sample sizes for the a priori analysis.
-	\item Excel was used along with results provided by G*power to create scenarios to finish up the a priori analysis.
-\end{itemize}
+The objectives of the power analysis are two fold.
+It will calculate the power of each trend line and also give a more efficient sample size for desired powers.
+The statistical program G*power requires four inputs total.  
+Three of the these inputs are passed from the output of the trend analysis: number of observations (N), adjusted r$^2$ and number of predictors.
+The fourth input is ES or effect size which is calculated by G*power before the analysis.
+G*power is a free power analysis program written by four germen psychology professors.
+It can compute both post hoc and a priori analysis for many different statistical tests.
+A post hoc analysis was preformed for both julian date coefficient tables from \autoref{ch:TA},  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
+In contrast to the post hoc analysis the a priori analysis only needs to be calculated for each of the four dependent variables.
+This output then has to be manipulated in excel in order to determine a number of sites per elevation bands.
+
 \subsection{Procedures}
 \subsubsection{Post hoc}
+
+The most popular power analysis methods originate from Jacob Cohen who outlined his approach in " A Power Primer" \citep{cohen1992power}.
+Cohen displayed many
+
 \begin{itemize}
 	\item Data compiled in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} give the inputs required for a post hoc power analysis on th previously created trend lines.
 	\item required inputs for G*power include, ES(Effect Size), $\alpha$(alpha), number of observations, and number of predictors.
@@ -40,6 +48,9 @@
 	\end{itemize}
 	\item The calculated powers are reported along side their trend line inputs in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
 \end{itemize}
+
+
+
 \subsubsection{A priori}
 \begin{itemize}
 	\item The a priori analysis can help survey planners to create a sampling survey that will produce trend lines with certain ES values and powers.
@@ -57,8 +68,10 @@
 		\input{FiguresnTables/sytaapeighty}%needs to be cleaned up
 	\item \autoref{sytaapeighty} is needed to calculate number of samples needed per elevation band to achieve a power of .80.  This number of samples can then be further divided to get a number of sites needed to achieve a power of .80.  If a trend line with a power of .80 is desired after one year ,for all water quality variables to be satisfied, 110 samples need to be collected.  If four years are waited then only 28 samples need to be collected per year.
 	\item  To create this final table the number of samples per elevation  band was subtracted from the number of samples to achieve a power of .80 which gives us the number of samples needed in addition to what is currently collected to receive a power of .80.  These results are organized into samples needed per elevation band to achieve a power of .80 and seperated by years depending of how many years of data go into the trend lines.
-
 \end{itemize}
+
+
+
 \section{Results}
 \subsection{Post hoc}
 \begin{itemize}

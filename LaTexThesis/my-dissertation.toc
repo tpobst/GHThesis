@@ -1,0 +1,27 @@
+\contentsline {chapter}{List of Tables}{ix}{section*.13}
+\contentsline {chapter}{List of Figures}{x}{section*.15}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Disclaimer}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Getting started}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}References}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Theorem environments}{5}{section.1.4}
+\contentsline {section}{\numberline {1.5}Figures}{6}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Single figures}{6}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Multipart figures}{7}{subsection.1.5.2}
+\contentsline {chapter}{\numberline {2}Trend Analsysis}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Methods}{8}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Introduction}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Body}{8}{subsection.2.1.2}
+\contentsline {subsubsection}{Data}{9}{section*.22}
+\contentsline {subsubsection}{Instruments}{9}{section*.23}
+\contentsline {chapter}{\numberline {3}Means Comparison}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Methods}{11}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{11}{subsection.3.1.1}
+\contentsline {subsubsection}{Instruments}{12}{section*.25}
+\contentsline {subsection}{\numberline {3.1.2}Bonferoni Introduction}{12}{subsection.3.1.2}
+\contentsline {subsubsection}{instruments}{12}{section*.26}
+\contentsline {chapter}{\numberline {4}Conclusions}{13}{chapter.4}
+\contentsline {chapter}{Bibliography}{14}{section*.27}
+\contentsline {chapter}{\numberline {A}Site Data}{17}{appendix.A}
+\contentsline {section}{\numberline {A.1}}{17}{section.A.1}
+\contentsline {chapter}{Vita}{20}{section*.31}

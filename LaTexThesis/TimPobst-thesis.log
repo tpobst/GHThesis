@@ -1,0 +1,2134 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  18 DEC 2013 19:28
+entering extended mode
+**D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
+(D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(D:\GitHub\GHThesis\LaTexThesis\utthesis.cls
+utthesis.cls
+ver 1.0.0
+Created by Tony Saad
+March 30, 2010
+Some parts and settings of this class are based on the template provided by Dav
+id L. Page.
+Document Class: utthesis 
+(D:\MikTeX\tex\latex\base\report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(D:\MikTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (D:\MikTeX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+For additional information on amsmath, use the `?' option.
+(D:\MikTeX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\MikTeX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(D:\MikTeX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(D:\MikTeX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(D:\MikTeX\tex\latex\amscls\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(D:\MikTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(D:\MikTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(D:\MikTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(D:\MikTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(D:\MikTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\MikTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks26
+
+(D:\MikTeX\tex\latex\geometry\geometry.cfg))
+(D:\MikTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(D:\MikTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+(D:\MikTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(D:\MikTeX\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(D:\MikTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen120
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
+
+(D:\MikTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count105
+
+(D:\MikTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 4319.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+
+(D:\MikTeX\tex\latex\hyperref\backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+(D:\MikTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count106
+
+(D:\MikTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen121
+\Fld@menulength=\count107
+\Field@Width=\dimen122
+\Fld@charsize=\dimen123
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count108
+\c@Item=\count109
+\c@Hfootnote=\count110
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(D:\MikTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
+\Hy@SectionHShift=\skip49
+)
+(D:\MikTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+ (D:\MikTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+ (D:\MikTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count113
+))
+\c@theorem=\count114
+\c@corollary=\count115
+\c@lemma=\count116
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 149.
+
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 149.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 149.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 149.
+Package hyperref Info: Option `colorlinks' set `true' on input line 149.
+)
+(D:\MikTeX\tex\latex\nomencl\nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen124
+\nom@tempdim=\dimen125
+\nomitemsep=\skip50
+) (D:\MikTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count117
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+) (D:\MikTeX\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count118
+)
+(D:\MikTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\MikTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(D:\MikTeX\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip53
+\f@ncyO@elh=\skip54
+\f@ncyO@erh=\skip55
+\f@ncyO@olh=\skip56
+\f@ncyO@orh=\skip57
+\f@ncyO@elf=\skip58
+\f@ncyO@erf=\skip59
+\f@ncyO@olf=\skip60
+\f@ncyO@orf=\skip61
+)
+(D:\MikTeX\tex\latex\srcltx\srcltx.sty
+Package: srcltx 2006/11/12 v1.6 Source specials for inverse search in DVI files
+
+ (D:\MikTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\src@lastline=\count119
+\src@new@everypar=\toks29
+\src@new@output=\toks30
+)
+(D:\MikTeX\tex\latex\ltxmisc\relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+(D:\MikTeX\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count120
+\@cmidlb=\count121
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count122
+\@lastruleclass=\count123
+\@thisrulewidth=\dimen140
+)
+(D:\MikTeX\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(D:\MikTeX\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+)
+
+Package caption Warning: Configuration file caption.cfg not found on input line
+ 293.
+See the caption package documentation for explanation.
+
+\c@ContinuedFloat=\count124
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+) (D:\MikTeX\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count125
+\sf@farskip=\skip62
+\sf@captopadj=\dimen148
+\sf@capskip=\skip63
+\sf@nearskip=\skip64
+
+
+Package subfig Warning: Configuration file subfig.cfg not found on input line 2
+97.
+
+\c@subfigure=\count126
+\c@subfigure@save=\count127
+\c@lofdepth=\count128
+\c@subtable=\count129
+\c@subtable@save=\count130
+\c@lotdepth=\count131
+\sf@top=\skip65
+\sf@bottom=\skip66
+) (D:\MikTeX\tex\latex\jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(D:\MikTeX\tex\latex\rotfloat\rotfloat.sty
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+
+(D:\MikTeX\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count132
+\rotFPtop=\skip67
+\rotFPbot=\skip68
+\rot@float@box=\box30
+\rot@mess@toks=\toks31
+)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+)
+(D:\MikTeX\tex\latex\pgfplots\pgfplots.sty
+(D:\MikTeX\tex\generic\pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2013/10/03 v1.9 Data Visualization (1.9)
+
+(D:\MikTeX\tex\latex\pgf\frontendlayer\tikz.sty
+(D:\MikTeX\tex\latex\pgf\basiclayer\pgf.sty
+(D:\MikTeX\tex\latex\pgf\utilities\pgfrcs.sty
+(D:\MikTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks32
+)
+(D:\MikTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box31
+
+(D:\MikTeX\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+Package srcltx Info: Expanded filename `pgfrcs.code.tex' to `pgfrcs.code.tex' o
+n input line 13.
+
+:<+ pgfrcs.code.tex
+(D:\MikTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+)
+:<-
+)
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+ (D:\MikTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+(D:\MikTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+Package srcltx Info: Expanded filename `pgfsys.code.tex' to `pgfsys.code.tex' o
+n input line 12.
+
+:<+ pgfsys.code.tex
+(D:\MikTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(D:\MikTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(D:\MikTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen149
+\pgf@y=\dimen150
+\pgf@xa=\dimen151
+\pgf@ya=\dimen152
+\pgf@xb=\dimen153
+\pgf@yb=\dimen154
+\pgf@xc=\dimen155
+\pgf@yc=\dimen156
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count133
+\c@pgf@countb=\count134
+\c@pgf@countc=\count135
+\c@pgf@countd=\count136
+
+(D:\MikTeX\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(D:\MikTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(D:\MikTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+:<-
+Package srcltx Info: Expanded filename `pgfsyssoftpath.code.tex' to `pgfsyssoft
+path.code.tex' on input line 13.
+:<+ pgfsyssoftpath.code.tex
+(D:\MikTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count137
+\pgfsyssoftpath@bigbuffer@items=\count138
+)
+:<-
+Package srcltx Info: Expanded filename `pgfsysprotocol.code.tex' to `pgfsysprot
+ocol.code.tex' on input line 14.
+:<+ pgfsysprotocol.code.tex
+(D:\MikTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)
+:<-
+) (D:\MikTeX\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(D:\MikTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+Package srcltx Info: Expanded filename `pgfcore.code.tex' to `pgfcore.code.tex'
+ on input line 17.
+
+:<+ pgfcore.code.tex
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(D:\MikTeX\tex\generic\pgf\math\pgfmath.code.tex
+(D:\MikTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+(D:\MikTeX\tex\generic\pgf\math\pgfmathutil.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count139
+\pgfmath@box=\box32
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)))
+(D:\MikTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count140
+))
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count141
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen176
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count142
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box36
+))
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(D:\MikTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+))
+:<-
+) (D:\MikTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box37
+)
+(D:\MikTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(D:\MikTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(D:\MikTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(D:\MikTeX\tex\latex\pgf\utilities\pgffor.sty
+(D:\MikTeX\tex\latex\pgf\utilities\pgfkeys.sty
+Package srcltx Info: Expanded filename `pgfkeys.code.tex' to `pgfkeys.code.tex'
+ on input line 10.
+
+:<+ pgfkeys.code.tex
+(D:\MikTeX\tex\generic\pgf\utilities\pgfkeys.code.tex)
+:<-
+)
+Package srcltx Info: Expanded filename `pgffor.code.tex' to `pgffor.code.tex' o
+n input line 13.
+
+:<+ pgffor.code.tex
+(D:\MikTeX\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+)
+:<-
+)
+Package srcltx Info: Expanded filename `tikz.code.tex' to `tikz.code.tex' on in
+put line 13.
+
+:<+ tikz.code.tex
+(D:\MikTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(D:\MikTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count143
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikzleveldistance=\dimen190
+\tikzsiblingdistance=\dimen191
+\tikz@figbox=\box38
+\tikz@tempbox=\box39
+\tikztreelevel=\count144
+\tikznumberofchildren=\count145
+\tikznumberofcurrentchild=\count146
+\tikz@fig@count=\count147
+
+(D:\MikTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count148
+\pgfmatrixcurrentcolumn=\count149
+\pgf@matrix@numberofcolumns=\count150
+)
+\tikz@expandcount=\count151
+
+(D:\MikTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code
+.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))
+:<-
+) (D:\MikTeX\tex\generic\pgfplots\pgfplots.code.tex
+(D:\MikTeX\tex\generic\pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen192
+\c@pgfplots@coordindex=\count152
+\c@pgfplots@scanlineindex=\count153
+
+(D:\MikTeX\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex))
+(D:\MikTeX\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.t
+ex
+Package pgfplots: loading complementary code for your PGF version...
+
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_misc.code.tex
+)
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfkeys.code.
+tex
+\pgfkeys@pathtoks=\toks44
+\pgfkeys@temptoks=\toks45
+
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfkeysfilter
+ed.code.tex
+\pgfkeys@tmptoks=\toks46
+))
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count154
+)
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgflibraryplo
+thandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2012/09/11 v2.10 (rcs-revision 1.17)
+\pgf@plot@mark@count=\count155
+\pgfplotmarksize=\dimen193
+)
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgflibraryfpu
+.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfcorescopes
+.code.tex
+File: pgfcorescopes.code.tex 2012/11/30  (rcs-revision 1.38)
+\pgfpic=\box40
+\pgf@hbox=\box41
+\pgf@layerbox@main=\box42
+\pgf@picture@serial@count=\count156
+)
+(D:\MikTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfcorelayers
+.code.tex
+File: pgfcorelayers.code.tex 2012/11/07  (rcs-revision 1.5)
+)) (D:\MikTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+(D:\MikTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+) (D:\MikTeX\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count157
+)
+(D:\MikTeX\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count158
+\t@pgfplotstable@a=\toks47
+)
+(D:\MikTeX\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+(D:\MikTeX\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex))
+(D:\MikTeX\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count159
+
+(D:\MikTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
+x.def))) (D:\MikTeX\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+(D:\MikTeX\tex\generic\pgfplots\util\pgfplotscolor.code.tex))
+(D:\MikTeX\tex\generic\pgfplots\pgfplotsstackedplots.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+(D:\MikTeX\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex))
+(D:\MikTeX\tex\generic\pgfplots\pgfplots.scaling.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\pgfplots.errorbars.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\pgfplots.markers.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\pgfplotsticks.code.tex)
+(D:\MikTeX\tex\generic\pgfplots\pgfplots.paths.code.tex)
+(D:\MikTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.
+code.tex (D:\MikTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen194
+\pgfdecoratedremainingdistance=\dimen195
+\pgfdecoratedinputsegmentcompleteddistance=\dimen196
+\pgfdecoratedinputsegmentremainingdistance=\dimen197
+\pgf@decorate@distancetomove=\dimen198
+\pgf@decorate@repeatstate=\count160
+\pgfdecorationsegmentamplitude=\dimen199
+\pgfdecorationsegmentlength=\dimen200
+)
+\tikz@lib@dec@box=\box43
+)
+(D:\MikTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.
+pathmorphing.code.tex
+(D:\MikTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorp
+hing.code.tex))
+(D:\MikTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.
+pathreplacing.code.tex
+(D:\MikTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathrepl
+acing.code.tex))
+\pgfplots@numplots=\count161
+\pgfplots@xmin@reg=\dimen201
+\pgfplots@xmax@reg=\dimen202
+\pgfplots@ymin@reg=\dimen203
+\pgfplots@ymax@reg=\dimen204
+\pgfplots@zmin@reg=\dimen205
+\pgfplots@zmax@reg=\dimen206
+)
+(D:\MikTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.co
+de.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+ (D:\MikTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2010/10/15 v2.10 (rcs-revision 1.12)
+)))
+(D:\MikTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen207
+\extrarowheight=\dimen208
+\NC@list=\toks48
+\extratabsurround=\skip69
+\backup@length=\skip70
+)
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/dedication.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgements.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/quote.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/abstract.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/nomenclature.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.aux
+
+LaTeX Warning: Label `fig:pHdata' multiply defined.
+
+) (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux)
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux
+
+LaTeX Warning: Label `tab:Site Data' multiply defined.
+
+) (D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* vratio: 1:1
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 623.32875pt, 99.37125pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=623.32875pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box44
+Package backref Info: ** backref set up for natbib ** on input line 65.
+Package hyperref Info: Link coloring ON on input line 65.
+(D:\MikTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(D:\MikTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count162
+)
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
+
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.out)
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.out)
+\@outlinefile=\write4
+
+(D:\MikTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count163
+\scratchdimen=\dimen209
+\scratchbox=\box45
+\nofMPsegments=\count164
+\nofMParguments=\count165
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count166
+\MPscratchDim=\dimen210
+\MPnumerator=\count167
+\makeMPintoPDFobject=\count168
+\everyMPtoPDFconversion=\toks50
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.9} into y
+our preamble.
+ on input line 65.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 68.
+(D:\MikTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 68.
+ (D:\MikTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 68.
+
+(D:\MikTeX\tex\latex\jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+Non-PDF special ignored!
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+[2] [3
+
+
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
+ (D:\MikTeX\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+ [2
+
+
+]
+:<+ front-matter/dedication.tex
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/dedication.tex) [3
+
+
+
+
+
+]
+:<-
+:<+ front-matter/acknowledgements.tex
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgements.tex) [4
+
+
+
+
+
+
+]
+:<-
+:<+ front-matter/quote.tex
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/quote.tex) [5
+
+
+
+
+
+
+]
+:<-
+:<+ front-matter/abstract.tex
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/abstract.tex) [6
+
+
+
+
+
+
+]
+:<-
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.toc [7
+
+
+
+
+] [8])
+\tf@toc=\write5
+ [9]
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.lot [10
+
+
+
+])
+\tf@lot=\write6
+ [11]
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.lof)
+\tf@lof=\write7
+\@nomenclaturefile=\write8
+
+Writing nomenclature file TimPobst-thesis.nlo
+[12
+
+
+
+]
+No file TimPobst-thesis.nls.
+:<+ front-matter/nomenclature.tex
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/nomenclature.tex)
+:<-
+:<+ chapters/chapter-1.tex
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.tex
+Chapter 1.
+<figures/pdf/pHdata.pdf, id=451, 794.97pt x 614.295pt>
+File: figures/pdf/pHdata.pdf Graphic file (type pdf)
+
+<use figures/pdf/pHdata.pdf>
+Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 6.
+(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
+
+Overfull \hbox (78.90524pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Acid rain is believed to negatively affect The Great Smokey 
+Mountain National Park.[] 
+ []
+
+[1
+
+
+
+
+
+
+
+
+ <D:/GitHub/GHThesis/LaTexThesis/figures/pdf/pHdata.pdf>]
+Overfull \hbox (2857.65662pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Acid Deposition, more commonly known as Acid Rain, is a cons
+tant problem for the industrialized world. The amount of pollutants released in
+to the atmosphere has risen since the industrial revolution.  The processes tha
+t industrial plants utilize excess sulfur oxides (SOx) and nitrogen oxides (NOx
+) into the atmosphere. This effluent production of chemicals creates problems f
+or the world's environmental systems including acid deposition and other effect
+s that can harm our health, our surface waters, our soils, and our structures.[
+] 
+ []
+
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+
+Overfull \hbox (4710.15753pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Acid Deposition occurs when the emissions of sulfur oxides (
+SOx), and nitrogen oxides (NOx) react within the atmosphere and then the consti
+tuents and their newly created chemicals are deposited on the earths surface.  
+Acid Deposition has similar characteristics of regular precipitation but it has
+ lower average pH of less than 4.5.  These pollutants can come down to ground i
+n three ways: wet deposition (rain and snow), dry deposition (gases and particl
+es), and fog or cloud deposition (occult).  Once the acid deposition constituen
+ts have entered in the environment they react with the surface waters, in the s
+oil, and on man-made structures (Calvert, 1983).  This begins to acidify the su
+rface waters which can harm any life forms that interact with it, it can acidif
+y the soils and harm the plants, and it can degrade buildings.[] 
+ []
+
+
+Overfull \hbox (2493.33144pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Acid deposition greatly impacts surface water and the surrou
+nding environment. The added pollutants affects the alkalinity of water, or its
+ ability to buffer a change in acidity,  and results in a pH change.  As the pH
+ level lowers, the ability of surface waters to sustain aquatic life also decli
+ne, this is called acidification. And while many factors affect the ability for
+ the survival of aquatic life, acidification can be directly related to a lot o
+f species survival.[] 
+ []
+
+
+Overfull \hbox (3468.98192pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Acidification of bodies of water can be either chronic or ep
+isodic. Chronic acidification occurs when the body of water has constant low ac
+id neutralizing capability (ANC); which creates a large area of  nearly un-inha
+bitable water where aquatic life would struggle to survive. Episodic acidificat
+ion describes a rapid increase of acidity. Drastic acidification episodes resul
+t in large surges of nitrates and/or sulfates in surface waters. Episodes often
+ occur during snow melts or heavy rains and are detrimental to aquatic life dur
+ing the vulnerable early phases of life. (http://www.epa.gov/acidrain/effects/s
+urface_water.html).[] 
+ []
+
+
+Overfull \hbox (12669.73647pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 The Great Smoky Mountains National Park (GRSM) is located in
+ the southern Appalachians straddling eastern Tennessee and western North Carol
+ina.  While the second largest National Park in the eastern United States, comp
+rising more than 220,000 hectares, it is the most-visited National Park with ap
+proximately 10 million visitors, twice the number of visitors to any other Nati
+onal Park, each year(Moore, 2001).  Furthermore GRSM is the largest undisturbed
+ deciduous or coniferous forest-dominated area in the eastern United States (De
+lcourt and Delcourt, 1991).  The park is home to about 100 species of native tr
+ees, with the majority of the park is forest and nearly a quarter of that is ol
+d growth.  There are over 1,500 flowering plant species located in the GRSM alo
+ng with 200 species of birds, 66 types of mammals, 50 native fish species, 39 k
+inds of reptiles, and 43 species of amphibians,  not to mention insects.  In re
+cognition of the park's unique natural resources, the United Nations has design
+ated GRSM as an International Biosphere Reserve, which are established to show 
+a balance between people and nature (http://www.nps.gov/grsm/naturescience/inde
+x.htm). GRSM streams support a great number of fish species, amphibians, and be
+nthic invertebrates; five streams in the GRSM have been designated as an Outsta
+nding National Resource Waters (Neff, 2009).  The National Park Service (NPS) w
+ishes to conserve the biodiversity of the park.Acid deposition negatively affec
+ts the 3,000 km of streams present in the GRSM and that impacts every living th
+ing in the park which rely on the water quality in the park.  A literature revi
+ew in (Neff 2007) approximates a pH of 6 for biological effects and a pH of 5 f
+or mortality in trout for the park.  Exact threshold values are difficult to fi
+nd because of the large number of influential factors such as species, age, egg
+ versus fry versus adult, background water quality, exposure duration, etc.  Wh
+ile pH levels from 5 to 6 can be toxic in the presence of aluminum and can be h
+armful to eggs and fry in very soft waters in the lower end of the range.(Robin
+son 08).[] 
+ []
+
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+
+Overfull \hbox (12342.4613pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 In order to monitor acid deposition the park has a program c
+alled the Inventory and Monitoring program.  An aspect of this program is a hig
+h elevation site, Noland Divide Watershed.  NDW is a small, 17.4 ha, watershed 
+about 2 km east of Clingmans Dome, which is the second highest peak in the east
+ern US.  NDW contains sites to measure wet and dry deposition as well as "grab"
+ samples to study in the lab.  This site is a continuation of the Integrated Fo
+rest Study (IFS) and was taken over by the park in 1991.  The IFS observed and 
+quantified atmospheric deposition and nutrient cycling in forested watersheds. 
+ The study demonstrated the upper elevations of the GRSM receive some of the hi
+ghest loading rates of acidifying nitrogen and sulphur species in North America
+ (Johnson and Lindberg, 1992).   The park wide Stream Survey is also part of th
+e IFS and focuses on the park as a whole, this water quality monitoring network
+ uses stream survey samples collected throughout the year in order to quantify 
+water quality in the park.  Currently, samples are collected from 32 sites ever
+y two months and an additional 11 samples are collected twice per year.  These 
+samples cover streams from 6 GRSM stream systems.  Every sample collected inclu
+ding NDW is processed in the lab for conductivity, pH, ANC, Chloride, Nitrate, 
+Sulfate, Phosphate, Ammonium, Sodium, Potassium, Magnesium, Calcium, Aluminum, 
+Copper, Iron, Manganese, Silicon, and Zinc.  Information leading to a bettering
+ understanding of water quality conditions per watershed characteristics aids G
+RSM resource staff in managing the Parks natural resources.  Other than chemist
+ry the acidity of the park streams can be affected by geographical attributes s
+uch as geology and elevation. Stream acidification is more pronounced in higher
+ elevation watersheds with underlying base-poor geology (Herligy et al. 1991, H
+yer et al. 1995; Wigington et al. 1996a,b).  The acidification patterns along a
+n elevational gradient occur throughout the Appalachian region similar to the d
+ata collected in the GRSM streams.[] 
+ []
+
+
+Overfull \hbox (653.18053pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 This figure shows all pH data from 1993 to 2012 vs. Elevatio
+n (m).  The red trend line includes abrams,  sites 237 and 252.  These outliers
+ are removed for the blue trend line.[] 
+ []
+
+
+Overfull \hbox (7340.70883pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Figure 1 is a graph of all measured pH values for Stream Sur
+vey between the years of 1993 and 2012 graphed against the elevations they were
+ collected.  Two notable figures are here, one that contains all pH data from 1
+993 to 2012 and another that has removed the outliers Abrams stream system alon
+g with sites 252 and 237.  The steeper sloped line represents the data set that
+ still contains Abrams, sites 237, and 252.  This graph clearly illustrates pH 
+trending downwards as elevation increases.  Increases in sulfate or nitrate in 
+runoff and streams through acid deposition can cause an increase leaching of ba
+se cations, hydrogen ion, aluminum, and decreased ANC (Sullivan, 2004).  Leache
+d aluminum can end up in streams and is toxic to fish (Driscoll 2003).  Rainfal
+l and fog in the GRSM affect elevations above 4000 feet first higher elevations
+ have steeper slopes which correlate to both thinner soils and base poor geolog
+y.  All these factors contribute to lower pH in higher elevations.  Neff et al.
+ (2013) observed this trend, but found other basin factors correlate to chronic
+ and episodic acidification.  Other basins factors include drainage area size, 
+vegetation, and soil properties, which factors all are change within an elevati
+onal gradient.[] 
+ []
+
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ú in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ù in font cmtt12!
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+Missing character: There is no Œ in font cmtt12!
+Missing character: There is no º in font cmtt12!
+Missing character: There is no Œ in font cmtt12!
+Missing character: There is no º in font cmtt12!
+
+Overfull \hbox (9007.95966pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 In support of GRSM natural resource management, stream water
+ quality has been monitored since 1993, and this long-term dataset was recently
+ statistically analyzed and commonly referred to as the Biotic Effects Report (
+Cai et al. 2013).  In this report, elevation was found to be a dominant driver 
+for predicting water quality among the parks stream.  Overall, results in this 
+report found that stream pH and ANC decreased at -.32 units and -35.73 eq L-1 r
+espectively, per 1,000-ft elevation gain.  Conductivity, chloride, and base cat
+ions were also found to significantly decrease with elevation gain.  Sulfate sh
+owed no significant trend with elevation, however nitrate was found to signific
+antly increase with elevation gain.  The GRSM 2011 Annual Water Quality Report 
+compared pH trend lines representing the current 43 sites from 1993-2010 with 2
+011.  The data showed lines of similar slopes with different intercepts, which 
+was interpreted to mean increasing pH at all elevations in GRSM streams.  Acid 
+deposition increases with elevation in the GRSM and the higher elevation stream
+s would experience increased sulfate, and prolonged acidification if soil desor
+ption becomes a dominant geochemical watershed process which could occur if pH 
+increased to 6.0 and sulfate dropped below 50 eq L-1.  From a management perspe
+ctive, the Biotic Effects Report contains limitations in the analyses to assess
+ long-term changes because locations sampled have changed over time and most cu
+rrent sample locations are at lower elevations.[] 
+ []
+
+
+Overfull \hbox (1400.3559pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 Table 1 shows the current historical elevation classes with 
+the number of sites they include and the percent of sites in each band.  Althou
+gh there were limitations, the biotic effects report provided essential informa
+tion on how to improve future water quality and biological monitoring programs.
+[] 
+ []
+
+
+Overfull \hbox (5160.93275pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 The National Park Service is currently developing a Vital Si
+gn Monitoring Program for a number of national parks around the country, which 
+includes the GRSM (Annual Administrative Report For Inventories and Vital Signs
+ Monitoring FY 2010).  The goal of the GRSM Vital Sign Monitoring Program is to
+ assess long-term changes in ecosystem health, including both terrestrial and a
+quatic environments. In addition, the program will integrate these environments
+ and and include existing data on basin factors associated with water quality. 
+  Although it is widely recognized that elevational gradient is important, a qu
+estion about what elevation ranges are changing versus those that are not needs
+ to be quantified in order to design an effective sampling program.  In additio
+n, data must be collected at a set frequency to provide sufficient statistical 
+power to make valid interpretations of change over time.[] 
+ []
+
+
+Overfull \hbox (523.50546pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 \item  characterize time trends in stream pH and acidic anio
+ns among elevation ranges in order to assess whether conditions are improving o
+r degrading, and[] 
+ []
+
+Missing character: There is no ‚ in font cmtt12!
+Missing character: There is no Ä in font cmtt12!
+Missing character: There is no ô in font cmtt12!
+
+Overfull \hbox (1826.4311pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 \item characterize sampling variance based on available wate
+r quality data, within the context of time and elevation, to support developmen
+t of the GRSMs Vital Signs Monitoring Program.  In addition to supporting this 
+Program, a cost analysis of selected water quality sampling schemes will be sum
+marized.  The format of this thesis will follow these two objectives.[] 
+ []
+
+
+Overfull \hbox (955.75568pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 \item Has stream pH and acid anion concentrations changed am
+ong three time periods (1993-2002, 2003-2008, and 2009-2012), and among six ele
+vation ranges (1000-2000ft, 2000-2500ft, 2500-3000ft, 3000-3500ft,3500-4500ft, 
+4500<)?[] 
+ []
+
+
+Overfull \hbox (381.4804pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 \item What is the statistical power for water quality parame
+ters based on frequency and elevational location based on historic data?[] 
+ []
+
+[2]
+Overfull \hbox (745.80557pt too wide) in paragraph at lines 45--45
+[]\OT1/cmtt/m/n/12 The thesis is organized into two separate chapters following
+ the two above research questions. Each chapter will follow the technical forma
+t of introduction, methods, results, and discussion.[] 
+ []
+
+) [3]
+:<-
+:<+ chapters/chapter-2.tex
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.tex
+Chapter 2.
+[4
+
+
+
+
+]
+Package srcltx Info: Expanded filename `FiguresnTables/elevationbands' to `Figu
+resnTables/elevationbands.tex' on input line 16.
+
+:<+ FiguresnTables/elevationbands.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationbands.tex)
+:<-
+[5]
+File: figures/pdf/pHdata.pdf Graphic file (type pdf)
+ <use figures/pdf/pHdata.pdf>
+Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 27.
+(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
+ [6] [7] [8] [9]
+Package srcltx Info: Expanded filename `FiguresnTables/stepwiseeq' to `Figuresn
+Tables/stepwiseeq.tex' on input line 42.
+
+:<+ FiguresnTables/stepwiseeq.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/stepwiseeq.tex
+Underfull \hbox (badness 2326) in paragraph at lines 9--9
+[]|$\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12  \OML/cmm/m/it/12 :\OT1/cmr/m/n/12 295 \O
+MS/cmsy/m/n/12  [][]\OT1/cmr/m/n/12 ) + (\OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 3\O
+ML/cmm/m/it/12 :\OT1/cmr/m/n/12 183 \OMS/cmsy/m/n/12  []\OT1/cmr/m/n/12 ) +$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+$\OT1/cmr/m/n/12 (2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 19 \OMS/cmsy/m/n/12  []\O
+T1/cmr/m/n/12 ) + (\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 923 \OMS/cmsy/m/n/12 $
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+$[]\OT1/cmr/m/n/12 ) + (\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 120 \OMS/cmsy/m/n/12 
+$
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 9--9
+$[]\OT1/cmr/m/n/12 ) + (\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 051 \OMS/cmsy/m/n/12 
+ []\OT1/cmr/m/n/12 ) + (\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 047 \OMS/cmsy/m/n/12
+ $
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+$\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr
+/m/n/12 229 \OMS/cmsy/m/n/12  []\OT1/cmr/m/n/12 ) + (1\OML/cmm/m/it/12 :\OT1/c
+mr/m/n/12 033 \OMS/cmsy/m/n/12 $
+ []
+
+
+Overfull \hbox (5.80103pt too wide) in paragraph at lines 3--14
+[][]
+ []
+
+)
+:<-
+[10] [11] [12]
+Package srcltx Info: Expanded filename `FiguresnTables/Elevationtrends' to `Fig
+uresnTables/Elevationtrends.tex' on input line 88.
+
+:<+ FiguresnTables/Elevationtrends.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/Elevationtrends.tex)
+:<-
+[13] [14] [15]) [16] [17]
+:<-
+:<+ chapters/chapter-3.tex
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.tex
+Chapter 3.
+
+
+pdfTeX warning: pdflatex.EXE (file D:/GitHub/GHThesis/LaTexThesis/figures/pdf/S
+ulfateEmissions.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<figures/pdf/SulfateEmissions.pdf, id=648, 794.97pt x 614.295pt>
+File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
+
+<use figures/pdf/SulfateEmissions.pdf>
+Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 10
+.
+(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18
+
+
+
+
+] [19 <D:/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateEmissions.pdf>]
+Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
+bles/Bontable.tex' on input line 44.
+
+:<+ FiguresnTables/Bontable.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/Bontable.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]|\OT1/cmr/m/n/12 Elevation
+ []
+
+)
+:<-
+[20]
+
+Package caption Warning: \label without proper \caption on input line 9.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:ANOVApH1' on page 21 undefined on input line 48.
+
+
+Package caption Warning: \label without proper \caption on input line 64.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:ANOVASO46' on page 21 undefined on input line 48.
+
+
+[21]) [22]
+:<-
+:<+ chapters/chapter-4.tex
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
+Chapter 4.
+Package srcltx Info: Expanded filename `FiguresnTables/HypothesisTests' to `Fig
+uresnTables/HypothesisTests.tex' on input line 6.
+:<+ FiguresnTables/HypothesisTests.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/HypothesisTests.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\OT1/cmr/m/n/12 Correct de-ci-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\OT1/cmr/m/n/12 Type II er-ror
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/12 Type I er-ror Prob
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]|\OT1/cmr/m/n/12 Correct de-ci-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 Prob (cor-rect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 de-ci-sion) = 1-$\OML/cmm/m/it/12 $
+ []
+
+)
+:<-
+[23
+
+
+
+
+] [24] [25]
+Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
+snTables/aprioritable.tex' on input line 64.
+
+:<+ FiguresnTables/aprioritable.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritable.tex)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
+snTables/sytaapeighty.tex' on input line 68.
+:<+ FiguresnTables/sytaapeighty.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeighty.tex)
+:<-
+[26] [27] [28]
+Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
+uresnTables/currentyrsto.80.tex' on input line 96.
+
+:<+ FiguresnTables/currentyrsto.80.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/currentyrsto.80.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/12 Elevation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/12 Current
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/12 ANC
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/12 114, 481, 482, 149,
+ []
+
+
+Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--15
+[][]
+ []
+
+)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
+nTables/WQapsenario.tex' on input line 100.
+:<+ FiguresnTables/WQapsenario.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/WQapsenario.tex)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/TVapsenario' to `Figures
+nTables/TVapsenario.tex' on input line 101.
+:<+ FiguresnTables/TVapsenario.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario.tex)
+:<-
+[29]
+
+LaTeX Warning: Reference `WQapsenario' on page 30 undefined on input line 102.
+
+
+LaTeX Warning: Reference `TVapsenario' on page 30 undefined on input line 102.
+
+
+LaTeX Warning: Reference `WQapsenario' on page 30 undefined on input line 103.
+
+
+LaTeX Warning: Reference `TVapsenario' on page 30 undefined on input line 104.
+
+
+LaTeX Warning: Reference `WQapsenario' on page 30 undefined on input line 104.
+
+[30] [31] [32]) [33]
+:<-
+:<+ TimPobst-thesis.bbl
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.brf)
+\tf@brf=\write9
+ [34
+
+
+
+] [35
+
+]
+Underfull \hbox (badness 1087) in paragraph at lines 63--63
+\OT1/cmr/m/n/12 mod-el-ing of at-mo-spheric de-po-si-tion in moun-tain-ous land
+-scapes.  \OT1/cmr/m/it/12 Eco-log-i-cal
+ []
+
+)
+:<-
+[36] [37]
+:<+ back-matter/appendix-1.tex
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
+Appendix A.
+Package srcltx Info: Expanded filename `FiguresnTables/SiteData1' to `FiguresnT
+ables/SiteData1.tex' on input line 5.
+:<+ FiguresnTables/SiteData1.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/SiteData1.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/SiteData2' to `FiguresnT
+ables/SiteData2.tex' on input line 8.
+:<+ FiguresnTables/SiteData2.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/SiteData2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/10 Site
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/10 Elevation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/10 Elevation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/10 Historical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 El-e-va-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/10 New
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 el-e-va-tion
+ []
+
+
+Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
+[]  
+ []
+
+)
+:<-
+[38
+
+
+
+] [39] [40]
+Appendix B.
+Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
+guresnTables/DescriptiveStats.tex' on input line 12.
+:<+ FiguresnTables/DescriptiveStats.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/DescriptiveStats.tex
+Overfull \hbox (5.60725pt too wide) in paragraph at lines 8--9
+[]|\OT1/cmr/m/n/8 1993-
+ []
+
+
+Overfull \hbox (2.77388pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/8 2002| 
+ []
+
+
+Overfull \hbox (5.60725pt too wide) in paragraph at lines 15--16
+[]|\OT1/cmr/m/n/8 2003-
+ []
+
+
+Overfull \hbox (2.77388pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/8 2008| 
+ []
+
+
+Overfull \hbox (1.3572pt too wide) in paragraph at lines 22--23
+[]|\OT1/cmr/m/n/8 209-
+ []
+
+
+Overfull \hbox (2.77388pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/8 2012| 
+ []
+
+
+Overfull \hbox (56.22632pt too wide) in paragraph at lines 3--32
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+:<-
+[41
+
+] [42]
+Appendix C.
+Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
+ables/variables.tex' on input line 16.
+:<+ FiguresnTables/variables.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.tex)
+:<-
+[43
+
+]
+Appendix D.
+Package srcltx Info: Expanded filename `FiguresnTables/SWjuliandate' to `Figure
+snTables/SWjuliandate.tex' on input line 21.
+:<+ FiguresnTables/SWjuliandate.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/SWjuliandate.tex
+Overfull \hbox (5.13503pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Time
+ []
+
+
+Overfull \hbox (6.36998pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Elevation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Elevation
+ []
+
+
+Overfull \hbox (1.53241pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Number
+ []
+
+Missing character: There is no ¬ in font cmr8!
+Missing character: There is no µ in font cmr8!
+
+Overfull \hbox (40.64685pt too wide) in paragraph at lines 3--65
+[][]
+ []
+
+
+LaTeX Warning: Float too large for page by 23.81535pt on input line 65.
+
+)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/TVjuliandate' to `Figure
+snTables/TVjuliandate.tex' on input line 24.
+:<+ FiguresnTables/TVjuliandate.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVjuliandate.tex
+Overfull \hbox (5.13503pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Time
+ []
+
+
+Overfull \hbox (6.36998pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Elevation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Elevation
+ []
+
+
+Overfull \hbox (1.53241pt too wide) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/8 Number
+ []
+
+Missing character: There is no ¬ in font cmr8!
+Missing character: There is no µ in font cmr8!
+
+Overfull \hbox (40.64685pt too wide) in paragraph at lines 3--63
+[][]
+ []
+
+
+LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
+
+)
+:<-
+[44
+
+] [45] [46]
+Appendix E.
+[47
+
+]
+Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
+les/ANOVApH.tex' on input line 29.
+
+:<+ FiguresnTables/ANOVApH.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVApH.tex
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+$[]$   $[]$
+ []
+
+)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/ANOVAANC' to `FiguresnTa
+bles/ANOVAANC.tex' on input line 32.
+:<+ FiguresnTables/ANOVAANC.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVAANC.tex
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+$[]$   $[]$
+ []
+
+)
+:<-
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--33
+
+ []
+
+[48]
+Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
+snTables/ANOVANitrate.tex' on input line 35.
+
+:<+ FiguresnTables/ANOVANitrate.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVANitrate.tex
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+$[]$   $[]$
+ []
+
+)
+:<-
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--36
+
+ []
+
+[49]
+Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
+snTables/ANOVASulfate.tex' on input line 38.
+
+:<+ FiguresnTables/ANOVASulfate.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVASulfate.tex
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 2--67
+$[]$   $[]$
+ []
+
+)
+:<-
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--39
+
+ []
+
+[50] [51]
+Appendix F.
+Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
+ables/SWposthoc.tex' on input line 43.
+:<+ FiguresnTables/SWposthoc.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/SWposthoc.tex
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]|\OT1/cmr/m/n/10 1993-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]|\OT1/cmr/m/n/10 2003-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]|\OT1/cmr/m/n/10 2009-
+ []
+
+
+Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
+[][]
+ []
+
+)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/TVposthoc' to `FiguresnT
+ables/TVposthoc.tex' on input line 47.
+:<+ FiguresnTables/TVposthoc.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVposthoc.tex
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Adjusted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Effect
+ []
+
+
+Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Actual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]|\OT1/cmr/m/n/10 1993-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]|\OT1/cmr/m/n/10 2003-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]|\OT1/cmr/m/n/10 2009-
+ []
+
+
+Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
+[][]
+ []
+
+)
+:<-
+[52
+
+] [53] [54]
+Appendix G.
+Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
+snTables/pHPowerGraph.tex' on input line 53.
+:<+ FiguresnTables/pHPowerGraph.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/pHPowerGraph.tex)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/ANCnNitratepowergraph' t
+o `FiguresnTables/ANCnNitratepowergraph.tex' on input line 55.
+:<+ FiguresnTables/ANCnNitratepowergraph.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANCnNitratepowergraph.tex)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/Sulfatepowergraph' to `F
+iguresnTables/Sulfatepowergraph.tex' on input line 57.
+:<+ FiguresnTables/Sulfatepowergraph.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/Sulfatepowergraph.tex)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/TVpowergraph' to `Figure
+snTables/TVpowergraph.tex' on input line 59.
+:<+ FiguresnTables/TVpowergraph.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergraph.tex)
+:<-
+) [55
+
+] [56] [57] [58] [59]
+:<-
+:<+ back-matter/vita.tex
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex) [60
+
+
+
+
+
+
+]
+:<-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+(D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/dedication.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgements.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/quote.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/abstract.aux)
+(D:\GitHub\GHThesis\LaTexThesis\front-matter/nomenclature.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux)
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux)
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
+(rerunfilecheck)             Checksum: DAE5232A9869F32D619D24AD3001BB0F;3862.
+Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 683813589A80E2DC1346F0A4284B19FC;2391.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
+ ) 
+Here is how much of TeX's memory you used:
+ 25992 strings out of 493921
+ 562213 string characters out of 3154506
+ 807423 words of memory out of 3000000
+ 28398 multiletter control sequences out of 15000+200000
+ 14530 words of font info for 58 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 64i,19n,100p,2211b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx8.pf
+b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MikTeX/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/M
+ikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTeX/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/M
+ikTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on TimPobst-thesis.pdf (74 pages, 627592 bytes).
+PDF statistics:
+ 1058 PDF objects out of 1200 (max. 8388607)
+ 229 named destinations out of 1000 (max. 500000)
+ 519 words of extra memory for PDF output out of 10000 (max. 10000000)
+

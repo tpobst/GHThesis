@@ -1,11 +1,13 @@
 \begin{table}[htbp]
-\caption{Hypothesis tests from Statistical Methods in Water Resources by theUSGS}
-\begin{tabular}{llllllll}
-
- &  & Unknown True Situation &  &  &  &  &  \\ 
- &  & H0 is true & H0 is false &  &  &  &  \\ 
-Decision & Fail to Reject H0 & Correct decision Prob(correct decision) = 1 ? alpha & Type II error Prob(Type II error) = beta &  &  &  &  \\ 
- & Reject H0 & Type I error Prob (Type I error) = alpha Significance level & Correct decision Prob (correct decision) = 1-beta Power &  &  &  &  \\ 
+\centering
+\caption{Hypothesis tests from Statistical Methods in Water Resources by theUSGS  \citep{helsel1992statistical}.}
+\begin{tabular}{l|p{4cm}|p{3.8cm}}
+\toprule
+                                   & H$_0$ is true                                                                                          & H$_0$0 is false                                                                                     \\
+\midrule
+Fail to Reject H$_0$  &Correct decision Prob(correct decision) = 1 -$\alpha$                             & Type II error Prob(Type II error) = $\beta$                                         \\ \cline{2-3} \noalign{\smallskip}
+ Reject H$_0$            & Type I error Prob (Type I error) = $\alpha$ \textbf{Significance level} &Correct decision Prob (correct decision) = 1-$\beta$ \textbf{Power}  \\ 
+\bottomrule
 \end{tabular}
-\label{HypothesisTests}
-\end{table}
+\label{tab:HypothesisTests}
+\end{table}                            
