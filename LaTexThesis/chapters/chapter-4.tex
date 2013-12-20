@@ -14,7 +14,6 @@ The post hoc power of all 144 regression lines from \autoref{ch:TA} were calcula
 An a priori power analysis can be used to help plan for the future by choosing a desired power and planning around it.
 This analysis was also completed in G*power.
 
-
 \subsection{Body}
 The objectives of the power analysis are two fold.
 It will calculate the power of each trend line and also give a more efficient sample size for desired powers.
@@ -37,11 +36,25 @@ Effect size is the only input that needs to be calculated before the analysis ca
 The equation for the ES of a regression model presented by Cohen is equal to the correlation coefficient divided by one minus the correlation coefficient.
 This equation can be described as the ratio of explained to unexplained variation for the regression model.
 For the post hoc analysis this equation will be used to calculate an specific ES for each model presented in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} which correspond to the models in \autoref{ch:TA}.
- This calculation is calculated in G*power after inputing the correlation coefficient.
+This calculation is completed in G*power after inputing the correlation coefficient.
 G*power uses ES along with the $\alpha$ used for the regression model, the number observations, and number of predictors in the model to output the power of the F test.
-This number will be between 0 and 1.00 and will be the power acquired by the models using past data.
+This power will be between 0 and 1.00 and will be the power acquired by the models using past data and a calculated ES.
 
 \subsubsection{A priori}
+
+The a priori analysis is more conditional than the straight forward calculations for the post hoc analysis.
+Instead of outputting a power value like the post hoc analysis, G* power will output a value for the number of observations. 
+The inputs for this analysis are $\alpha$, desired power, number of predictors and ES.
+All of these inputs can be changed for one reason or another.
+The inputs chosen for the a priori analysis must be chosen with the future test in mind.
+For this analysis the assumption was made that the same trend analysis as the one completed in \autoref{ch:TA} would be attempted in the future.
+Based on this assumption the same step-wise equations constructed in \autoref{tab:stepwiseeq} can be used to help chose the number of predictors and $\alpha$.
+Choosing an ES value and desired power will be a matter of convention.
+For each of the eight tests described in \citet{cohen1992power}, Cohen has stated small, medium, and large ES values.
+Concerning the multiple and multiple partial correlation test he decided on .02, .15, and .35 respectively.
+
+
+
 \begin{itemize}
 	\item The a priori analysis can help survey planners to create a sampling survey that will produce trend lines with certain ES values and powers.
 	\item There are two objectives to this analysis which are to create "power graphs", which are plots of power vs. sample size.  The other is to plan out an actual scenario for which samples can be added or subtracted to elevation bands for a desired power of .80 and an ES of .15.
