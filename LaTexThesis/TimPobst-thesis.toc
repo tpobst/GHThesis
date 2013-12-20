@@ -1,32 +1,32 @@
-\contentsline {chapter}{List of Tables}{x}{section*.13}
-\contentsline {chapter}{List of Figures}{xii}{section*.15}
+\contentsline {chapter}{List of Tables}{viii}{section*.9}
+\contentsline {chapter}{List of Figures}{x}{section*.11}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Trend Analysis}{4}{chapter.2}
 \contentsline {section}{\numberline {2.1}Methods}{4}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Introduction}{4}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Body}{5}{subsection.2.1.2}
-\contentsline {subsubsection}{Instruments}{6}{section*.20}
+\contentsline {subsubsection}{Instruments}{6}{section*.16}
 \contentsline {section}{\numberline {2.2}Results}{11}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Step-wise Julian date coefficients}{11}{subsection.2.2.1}
-\contentsline {subsubsection}{pH}{11}{section*.23}
-\contentsline {subsubsection}{ANC}{12}{section*.24}
-\contentsline {subsubsection}{Nitrate}{12}{section*.25}
-\contentsline {subsubsection}{Sulfate}{12}{section*.26}
+\contentsline {subsubsection}{pH}{11}{section*.19}
+\contentsline {subsubsection}{ANC}{12}{section*.20}
+\contentsline {subsubsection}{Nitrate}{12}{section*.21}
+\contentsline {subsubsection}{Sulfate}{12}{section*.22}
 \contentsline {subsection}{\numberline {2.2.2}Julian date coefficients from time variables only}{12}{subsection.2.2.2}
-\contentsline {subsubsection}{pH}{12}{section*.27}
-\contentsline {subsubsection}{ANC}{13}{section*.28}
-\contentsline {subsubsection}{Nitrate and Sulfate}{13}{section*.29}
+\contentsline {subsubsection}{pH}{12}{section*.23}
+\contentsline {subsubsection}{ANC}{13}{section*.24}
+\contentsline {subsubsection}{Nitrate and Sulfate}{13}{section*.25}
 \contentsline {subsection}{\numberline {2.2.3}Elevation trends}{13}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {2.2.4}Results by Comparison}{13}{subsection.2.2.4}
-\contentsline {paragraph}{pH and ANC}{14}{section*.31}
-\contentsline {paragraph}{Nitrate and Sulfate}{15}{section*.32}
+\contentsline {paragraph}{pH and ANC}{14}{section*.27}
+\contentsline {paragraph}{Nitrate and Sulfate}{15}{section*.28}
 \contentsline {section}{\numberline {2.3}Discussion}{15}{section.2.3}
 \contentsline {chapter}{\numberline {3}Means Comparison}{18}{chapter.3}
 \contentsline {section}{\numberline {3.1}Methods}{18}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Introduction}{18}{subsection.3.1.1}
-\contentsline {subsubsection}{Instruments}{19}{section*.34}
+\contentsline {subsubsection}{Instruments}{19}{section*.30}
 \contentsline {subsection}{\numberline {3.1.2}Bonferoni Introduction}{20}{subsection.3.1.2}
-\contentsline {subsubsection}{instruments}{20}{section*.35}
+\contentsline {subsubsection}{instruments}{20}{section*.31}
 \contentsline {section}{\numberline {3.2}Results}{20}{section.3.2}
 \contentsline {section}{\numberline {3.3}Discussion}{21}{section.3.3}
 \contentsline {chapter}{\numberline {4}Power Analysis}{23}{chapter.4}
@@ -34,37 +34,37 @@
 \contentsline {subsection}{\numberline {4.1.1}Introduction}{23}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Body}{24}{subsection.4.1.2}
 \contentsline {subsection}{\numberline {4.1.3}Procedures}{24}{subsection.4.1.3}
-\contentsline {subsubsection}{Post hoc}{24}{section*.38}
-\contentsline {subsubsection}{A priori}{25}{section*.39}
-\contentsline {section}{\numberline {4.2}Results}{28}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Post hoc}{28}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}A priori}{29}{subsection.4.2.2}
-\contentsline {subsubsection}{Power graphs}{29}{section*.42}
-\contentsline {subsubsection}{Planning with power analysis}{29}{section*.43}
-\contentsline {section}{\numberline {4.3}Discussion}{31}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Post hoc}{31}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}A priori}{32}{subsection.4.3.2}
-\contentsline {chapter}{Bibliography}{34}{section*.47}
-\contentsline {chapter}{\numberline {A}}{38}{appendix.A}
-\contentsline {section}{\numberline {A.1}Site Data}{38}{section.A.1}
-\contentsline {section}{\numberline {A.2}Site data}{38}{section.A.2}
-\contentsline {chapter}{\numberline {B}Descriptive Statistics}{41}{appendix.B}
-\contentsline {chapter}{\numberline {C}Variable selection}{43}{appendix.C}
-\contentsline {chapter}{\numberline {D}Julian Date Coefficients}{44}{appendix.D}
-\contentsline {section}{\numberline {D.1}Step-wise Method}{44}{section.D.1}
-\contentsline {section}{\numberline {D.2}Temporal Variables}{44}{section.D.2}
-\contentsline {chapter}{\numberline {E}ANOVA/Bonferoni}{47}{appendix.E}
-\contentsline {section}{\numberline {E.1}pH}{48}{section.E.1}
-\contentsline {section}{\numberline {E.2}ANC}{49}{section.E.2}
-\contentsline {section}{\numberline {E.3}Nitrate}{50}{section.E.3}
-\contentsline {section}{\numberline {E.4}Sulfate}{51}{section.E.4}
-\contentsline {chapter}{\numberline {F}Post Hoc Power Analsysis}{52}{appendix.F}
-\contentsline {section}{\numberline {F.1}Step-Wise Variables}{52}{section.F.1}
-\contentsline {section}{\numberline {F.2}Temperol variables}{52}{section.F.2}
-\contentsline {chapter}{\numberline {G}A priori analysis}{55}{appendix.G}
-\contentsline {section}{\numberline {G.1}Power graphs}{55}{section.G.1}
-\contentsline {subsection}{\numberline {G.1.1}pH}{55}{subsection.G.1.1}
-\contentsline {subsection}{\numberline {G.1.2}ANC and Nitrate}{55}{subsection.G.1.2}
-\contentsline {subsection}{\numberline {G.1.3}Sulfate}{55}{subsection.G.1.3}
-\contentsline {subsection}{\numberline {G.1.4}Time Variables}{55}{subsection.G.1.4}
-\contentsline {chapter}{Vita}{60}{section*.85}
+\contentsline {subsubsection}{Post hoc}{24}{section*.34}
+\contentsline {subsubsection}{A priori}{25}{section*.35}
+\contentsline {section}{\numberline {4.2}Results}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Post hoc}{29}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}A priori}{30}{subsection.4.2.2}
+\contentsline {subsubsection}{Power graphs}{30}{section*.39}
+\contentsline {subsubsection}{Planning with power analysis}{31}{section*.40}
+\contentsline {section}{\numberline {4.3}Discussion}{33}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Post hoc}{33}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}A priori}{33}{subsection.4.3.2}
+\contentsline {chapter}{Bibliography}{35}{section*.44}
+\contentsline {chapter}{\numberline {A}}{39}{appendix.A}
+\contentsline {section}{\numberline {A.1}Site Data}{39}{section.A.1}
+\contentsline {section}{\numberline {A.2}Site data}{39}{section.A.2}
+\contentsline {chapter}{\numberline {B}Descriptive Statistics}{42}{appendix.B}
+\contentsline {chapter}{\numberline {C}Variable selection}{44}{appendix.C}
+\contentsline {chapter}{\numberline {D}Julian Date Coefficients}{45}{appendix.D}
+\contentsline {section}{\numberline {D.1}Step-wise Method}{45}{section.D.1}
+\contentsline {section}{\numberline {D.2}Temporal Variables}{45}{section.D.2}
+\contentsline {chapter}{\numberline {E}ANOVA/Bonferoni}{48}{appendix.E}
+\contentsline {section}{\numberline {E.1}pH}{49}{section.E.1}
+\contentsline {section}{\numberline {E.2}ANC}{50}{section.E.2}
+\contentsline {section}{\numberline {E.3}Nitrate}{51}{section.E.3}
+\contentsline {section}{\numberline {E.4}Sulfate}{52}{section.E.4}
+\contentsline {chapter}{\numberline {F}Post Hoc Power Analsysis}{53}{appendix.F}
+\contentsline {section}{\numberline {F.1}Step-Wise Variables}{53}{section.F.1}
+\contentsline {section}{\numberline {F.2}Temperol variables}{53}{section.F.2}
+\contentsline {chapter}{\numberline {G}A priori analysis}{56}{appendix.G}
+\contentsline {section}{\numberline {G.1}Power graphs}{56}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}pH}{56}{subsection.G.1.1}
+\contentsline {subsection}{\numberline {G.1.2}ANC and Nitrate}{56}{subsection.G.1.2}
+\contentsline {subsection}{\numberline {G.1.3}Sulfate}{56}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Time Variables}{56}{subsection.G.1.4}
+\contentsline {chapter}{Vita}{61}{section*.82}

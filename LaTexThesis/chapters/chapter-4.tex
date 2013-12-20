@@ -13,7 +13,7 @@ A trend line with a power of 1.00 means that there is a 100$\%$ chance that the 
 The post hoc power of all 144 regression lines from \autoref{ch:TA} were calculated with the help of the statistical program G*power.  
 An a priori power analysis can be used to help plan for the future by choosing a desired power and planning around it.
 This analysis was also completed in G*power.
-
+% explain ES up here somewhere Cohen thinks of ES values as chances to find a significant result.
 \subsection{Body}
 The objectives of the power analysis are two fold.
 It will calculate the power of each trend line and also give a more efficient sample size for desired powers.
@@ -25,7 +25,7 @@ It can compute both post hoc and a priori analysis for many different statistica
 A post hoc analysis was preformed for both julian date coefficient tables from \autoref{ch:TA},  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
 In contrast to the post hoc analysis the a priori analysis only needs to be calculated for each of the four dependent variables.
 This output then has to be manipulated in excel in order to determine a number of sites per elevation bands.
-
+%add something about calculating sites per elevation band for a desired power
 \subsection{Procedures}
 \subsubsection{Post hoc}
 
@@ -44,14 +44,45 @@ This power will be between 0 and 1.00 and will be the power acquired by the mode
 
 The a priori analysis is more conditional than the straight forward calculations for the post hoc analysis.
 Instead of outputting a power value like the post hoc analysis, G* power will output a value for the number of observations. 
-The inputs for this analysis are $\alpha$, desired power, number of predictors and ES.
-All of these inputs can be changed for one reason or another.
-The inputs chosen for the a priori analysis must be chosen with the future test in mind.
+The inputs for this analysis are $\alpha$, desired power, number of predictors, and ES.
+All of these inputs can be changed or manipulated based on the desired outcome.
 For this analysis the assumption was made that the same trend analysis as the one completed in \autoref{ch:TA} would be attempted in the future.
 Based on this assumption the same step-wise equations constructed in \autoref{tab:stepwiseeq} can be used to help chose the number of predictors and $\alpha$.
+
+The most encompassing way to present an a priori analysis is through a power graph.
+The power graphs plot power on the y-axis and number of observations on the x-axis.
+Using this as a tool a planner can choose a desired power and get the corresponding number of observations.
+
 Choosing an ES value and desired power will be a matter of convention.
-For each of the eight tests described in \citet{cohen1992power}, Cohen has stated small, medium, and large ES values.
+To make choosing the ES value easier Cohen has stated small, medium, and large ES values for each of the eight tests described in \citet{cohen1992power}.
 Concerning the multiple and multiple partial correlation test he decided on .02, .15, and .35 respectively.
+All of these ES values can be graphed in the power graphs by plotting different ES values as curves on the same plot.
+Even though all powers and all ES values can be plotted at once, some times it is useful to choose specific values.
+An ES value of .15 was settled upon after the power graphs for all three conventions per dependent variable were made.
+.02 was too small, requiring very high values for numbers of observations to reach a decent power.\
+ES values of .35 can acquire small numbers for numbers of observations thus achieving a decent power level easier.
+But .15 is less than half of .35 so it minimizes the chances for insignificant results and the numbers of observations are reasonable to reach higher powers.
+If no argument can be made for any other desired power then Cohen suggests .80.
+This is chosen for its reasonable ratio of Type I error to Type II error which reflects their importance.
+If the power is .80 then $\beta=.20$ and $\alpha=.05$ and this makes the Type II error four times as likely as Type I error \citep{cohen1992statistical}.
+These choices are presented in \autoref{tab:APN}.
+\input{FiguresnTables/aprioritable}
+
+The a priori power analysis can be used to calculate a number of sites per elevation band for the stream survey in the GRSM.
+First, samples per year per elevation band are counted for the 2012 year and will be represented by n.
+Next the results from \autoref{tab:APN} are divided by samples per year per elevation band to get the number of years it will take at the 2012 sampling rate to reach a power of .80.
+\begin{equation}
+	yrs. = {N \over n}
+\end{equation}
+But, in order to get to the number of sites per elevation band required to reach a power of .80, the years will have to be held constant.
+If the future trend analysis is to be completed using the equation with only time variables then 77 samples will need to be collected in one year to reach a power of .80 according to \autoref{tab:APN}.
+But if the future trend analysis is to be completed using the step-wise equations from \autoref{tab:stepwiseeq} then at least 109 samples will need to be collected in one year to satisfy the requirements for ANC and NO$_3$.
+For the step-wise equations N will be rounded up to 110.
+\input{FiguresnTables/sytaapeighty}
+These are presented in \autoref{tab:sytaapeighty}, which has been calculated out to four years.
+So that instead of completing the trend analysis after one year, you could wait four years and only need to collect 28 samples per year.
+
+
 
 
 
@@ -64,7 +95,7 @@ Concerning the multiple and multiple partial correlation test he decided on .02,
 	\item ES and power can be chosen or kept constant based on reports by Cohen.
 	\item Cohen's standardizations
 	\item While the "power graphs" are useful in planning for the future of the stream survey, it can be shown that if ES and power are chosen, exact numbers of samples and sites can be added and subtracted from elevation bands.
-	\input{FiguresnTables/aprioritable}%needs to be cleaned up
+	%\input{FiguresnTables/aprioritable}%needs to be cleaned up
 	\item The rest was done in excel
 	\item This calculated number of observations can be divided by the number of samples collected in one year to get the number of years required to reach a power of .80.
 	\item The analysis can be further conducted by calculating the number of samples per year to achieve a power of .80.  For this calculation all water quality variables were given the highest number of samples of 110 and 77 was used for the trends using only time variables.
