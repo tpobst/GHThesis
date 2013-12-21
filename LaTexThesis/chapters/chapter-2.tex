@@ -37,25 +37,26 @@ Several statistical packages are then available which automate this process.
 
 A general, stepwise multiple linear regression is then applied to the stream water quality in the Smokies.
 
-It is expected that different elevation bands will require different regression coefficient matrices due to the differences in geology that accompany the elevation bands.
+In order to avoid the tendency of linear regression to over predict the data the complete data set was divided into smaller subsets.
+It is expected that different elevation bands will require different regression coefficient matrices due to the differences in geology that accompany the elevation bands because upper elevations are more effected by acid rain \citep{weathers2006}. 
+\textbf{Isn't this a chicken and the egg problem? The acid rain has  greater effect because of the geometry}
+Upper elevation sites also need to be sampled at a higher rate in order to ensure that the data in the band is statistically sound  \citep{weathers2006}.
 Previous researchers used an artificial clustering in 500 meter increments, while elsewhere in this work (\autoref{sec:ClusteringSection}) a statically relevant clustering.
 However, this attempt was futile, so a banded artificial clustering was employed.
 
-% Something about the clustering elevation bands
-Several statical packages are available for the 
-Trend analysis is a great way to characterize the park's water quality using data collected through the stream survey.
+The elevation classes used in this paper were set up to include a minimum number of sites in order that the upper classes would not be too weak to be useful. 
+These are different from the historic eleven elevation bands which were separated by arbitrary 500 foot intervals. Some of the upper bands only contained one site. 
+The more sites you have the closer you get to fully describing the water quality and after years of collection this one site can describe its own features but it cannot describe characteristics of the elevation band very well. 
+The divisions are presented here in \autoref{tab:ElevationBands}.
+\input{FiguresnTables/elevationbands}
 
+
+Without adding sites, the best way to do this is to reorganize the elevation bands. 
+Dividing all the data into three different time sets, six elevation bands and studying four different dependents will create 72 different trend lines.
+Two more factor divisions of the data include dividing the data by elevation classes and four dependent variables (pH, ANC, NO$_3^-$, and SO$_4^{2-}$). 
 
 The trend analysis will use stream survey data from 1993 to 2012 using the statistical programs JMP and SPSS for analysis.
 
-\subsection{Body}
-
-
-
-    
-The data used in these analyses are collected through the park wide stream survey. 
-
-.
 
 Twenty years of data were available for this paper from the years 1993 to 2012. 
 A single trend line containing all 20 years is unrealistic because it will not show why there is a difference in the previous trend analyses or if there was a change in trend after 2008. 
@@ -64,16 +65,7 @@ A third data set will be created after the year 2008 because this is the year th
 The hypothesis being the SO$_4^{2-}$ concentrations will be noticeably different, and this difference could indicate a need for further study. 
 These three time sets will be analyzed separately.
 
-\input{FiguresnTables/elevationbands}
-Two more factor divisions of the data include dividing the data by elevation classes and four dependent variables (pH, ANC, NO$_3^-$, and SO$_4^{2-}$) %why these variables?( put into the intro)
-. 
-The elevation classes used in this paper were set up to include a minimum number of sites in order that the upper classes would not be too weak to be useful. 
-The divisions are presented here in \autoref{tab:ElevationBands}.  
-These are different from the historic eleven elevation bands which were separated by arbitrary 500 foot intervals. Some of the upper bands only contained one site. 
-The more sites you have the closer you get to fully describing the water quality and after years of collection this one site can describe its own features but it cannot describe characteristics of the elevation band very well. 
-Elevation is an important part in water quality and because the upper elevations are most effected by acid rain there needs to be enough sites in each band to make them statistically sound \citep{weathers2006}. 
-Without adding sites, the best way to do this is to reorganize the elevation bands. 
-Dividing all the data into three different time sets, six elevation bands and studying four different dependents will create 72 different trend lines.
+
 
 \subsubsection{Instruments}
 
