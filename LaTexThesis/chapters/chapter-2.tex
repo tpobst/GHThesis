@@ -1,8 +1,8 @@
 \chapter{Trend Analysis}\label{ch:TA}
 The quality of water in the GRSM is an ongoing concern for the park, as the acidification of the streams can have significant negative effects on wildlife and vegetation.
 In order to support their mission of monitoring the water quality of the GRSM, a stream survey program collects water samples from all over the park.
-These samples are then analyzed for indicators of the health of the water.
-A brief introduction to trend analysis is provided in \autoref{sec:TAInto}.
+These samples are then analyzed for indicators of the health of the water, while trying to predict where the water quality is headed in the future. 
+A brief introduction to trend analysis is provided in \autoref{sec:TAIntro}.
 The methods utilized for trend analysis will be detailed in \autoref{sec:TAMethods}, with application of these methods in \autoref{sec:TADiscussion}.
 
 \section{Introduction}
@@ -35,22 +35,27 @@ Several statistical packages are then available which automate this process.
 \section{Methods}
 \label{sec:TAMethods}
 
+A general, stepwise multiple linear regression is then applied to the stream water quality in the Smokies.
+
+It is expected that different elevation bands will require different regression coefficient matrices due to the differences in geology that accompany the elevation bands.
+Previous researchers used an artificial clustering in 500 meter increments, while elsewhere in this work (\autoref{sec:ClusteringSection}) a statically relevant clustering.
+However, this attempt was futile, so a banded artificial clustering was employed.
+
+% Something about the clustering elevation bands
 Several statical packages are available for the 
 Trend analysis is a great way to characterize the park's water quality using data collected through the stream survey.
-It is used to state the condition of the parks water bodies while trying to predict where the water quality is headed in the future. 
+
 
 The trend analysis will use stream survey data from 1993 to 2012 using the statistical programs JMP and SPSS for analysis.
 
 \subsection{Body}
 
 
-Of the ten elevation bands analyzed in \citet{robinson2008ph} six had negative Julian date coefficients and the other four had no trend. Of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and 2 showed a decrease\citep{cai2012}. 
+
     
 The data used in these analyses are collected through the park wide stream survey. 
-The stream survey includes six stream systems and five of them are collected every two months and analyzed in a lab for many water quality variables including pH, ANC, NO$_3^-$, SO$_4^{2-}$ and some metals.  %description of lab process in Intro?
-The stream survey water quality data includes measurements for pH, ANC, conductivity, acid anions (CL$^-$,SO$_4^{2-}$,NO$_3^-$, ammonia (NH$_4^+$), the base cations (Ca$^{2+}$, Mg$^{2+}$, K$^+$, and Na$^+$), dissolved metals (Al, Cu, Fe, Mn, Si and Zn).  
-A ManTech$^{TM}$ autotitrator was used for pH, ANC, and conductivity.  
-A Dionex$^{TM}$ ion chromatograph (IC) was used for the analysis of CL$^-$, SO$_4^{2-}$, NO$_3^-$, and NH$_4^+$.  A Thermo-Scientific$^{TM}$ Inductively Coupled Plasma - Atomic Emission Spectrometry (ICP-AES) was used for the study of Ca$^{2+}$, Mg$^{2+}$, Na$^+$, K$^+$, Al, Cu, Fe, Mn, Si and Zn.
+
+.
 
 Twenty years of data were available for this paper from the years 1993 to 2012. 
 A single trend line containing all 20 years is unrealistic because it will not show why there is a difference in the previous trend analyses or if there was a change in trend after 2008. 
@@ -247,6 +252,9 @@ A trend in time is also clearly evident with a simple plot of pH vs. time but th
 The differences between the results in \citet{robinson2008ph} and those in \autoref{tab:Step-wise julian date} and \autoref{tab:time vars} imply that water quality is worse in the past but is getting better.  
 Both \citet{robinson2008ph} and \citet{cai2012} used more than double the sites of this study and \citet{robinson2008ph} allowed Abrams to stay in the data.  
 The differences in the data can account for differences in the results but it is safe to say that water quality in the park is getting healthier.
+
+Of the ten elevation bands analyzed in \citet{robinson2008ph} six had negative Julian date coefficients and the other four had no trend.
+Of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and 2 showed a decrease\citep{cai2012}. 
 
 SO$_4^{2-}$ has more decreasing trends for the years 2009 to 2012 than in any other time set. 
 This is not surprising based on the values shown in \autoref{fig:sulfateemissions} in which SO$_4^{2-}$ concentrations at the high elevation site Noland begin to drop along with emissions from Kingston and Bull run power plants. 
