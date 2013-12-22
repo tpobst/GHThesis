@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  20 DEC 2013 17:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  22 DEC 2013 00:43
 entering extended mode
 **D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -844,11 +844,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 LaTeX Warning: Label `fig:pHdata' multiply defined.
 
 ) (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.aux)
-(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux
-
-LaTeX Warning: Label `tab:sytaapeighty' multiply defined.
-
-) (D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux)
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux
 
 LaTeX Warning: Label `tab:Site Data' multiply defined.
 
@@ -1038,7 +1035,7 @@ No file TimPobst-thesis.nls.
 :<+ chapters/chapter-1.tex
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.tex
 Chapter 1.
-<figures/pdf/pHdata.pdf, id=431, 794.97pt x 614.295pt>
+<figures/pdf/pHdata.pdf, id=432, 794.97pt x 614.295pt>
 File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 
 <use figures/pdf/pHdata.pdf>
@@ -1503,19 +1500,15 @@ snTables/sytaapeighty.tex' on input line 81.
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeighty.tex)
 :<-
 [27]
-Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
-snTables/sytaapeighty.tex' on input line 102.
+Package srcltx Info: Expanded filename `FiguresnTables/powergraphtable' to `Fig
+uresnTables/powergraphtable.tex' on input line 122.
 
-:<+ FiguresnTables/sytaapeighty.tex
-(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeighty.tex)
+:<+ FiguresnTables/powergraphtable.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/powergraphtable.tex)
 :<-
-
-LaTeX Warning: Reference `sytaapeighty' on page 28 undefined on input line 103.
-
-
-[28] [29]
+[28]
 Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
-uresnTables/currentyrsto.80.tex' on input line 130.
+uresnTables/currentyrsto.80.tex' on input line 129.
 
 :<+ FiguresnTables/currentyrsto.80.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/currentyrsto.80.tex
@@ -1545,47 +1538,29 @@ Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--15
 
 )
 :<-
-[30]
-
-LaTeX Warning: Reference `APN' on page 31 undefined on input line 132.
-
+[29]
 Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
-nTables/WQapsenario.tex' on input line 134.
+nTables/WQapsenario.tex' on input line 133.
+
 :<+ FiguresnTables/WQapsenario.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/WQapsenario.tex)
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/TVapsenario' to `Figures
-nTables/TVapsenario.tex' on input line 135.
+nTables/TVapsenario.tex' on input line 134.
 :<+ FiguresnTables/TVapsenario.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario.tex)
 :<-
-
-LaTeX Warning: Reference `WQapsenario' on page 31 undefined on input line 136.
-
-
-LaTeX Warning: Reference `TVapsenario' on page 31 undefined on input line 136.
-
-[31]
-
-LaTeX Warning: Reference `WQapsenario' on page 32 undefined on input line 137.
-
-
-LaTeX Warning: Reference `TVapsenario' on page 32 undefined on input line 138.
-
-
-LaTeX Warning: Reference `WQapsenario' on page 32 undefined on input line 138.
-
-[32] [33]) [34]
+[30] [31] [32]) [33]
 :<-
 :<+ TimPobst-thesis.bbl
 (D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
 (D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.brf)
 \tf@brf=\write9
- [35
+ [34
 
 
 
-] [36
+] [35
 
 ]
 Underfull \hbox (badness 1087) in paragraph at lines 62--62
@@ -1595,7 +1570,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 62--62
 
 )
 :<-
-[37] [38]
+[36] [37]
 :<+ back-matter/appendix-1.tex
 (D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
 Appendix A.
@@ -1653,11 +1628,11 @@ Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
 
 )
 :<-
-[39
+[38
 
 
 
-] [40] [41]
+] [39] [40]
 Appendix B.
 Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
 guresnTables/DescriptiveStats.tex' on input line 12.
@@ -1702,16 +1677,16 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 :<-
-[42
+[41
 
-] [43]
+] [42]
 Appendix C.
 Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
 ables/variables.tex' on input line 16.
 :<+ FiguresnTables/variables.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.tex)
 :<-
-[44
+[43
 
 ]
 Appendix D.
@@ -1785,11 +1760,11 @@ LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
 
 )
 :<-
-[45
+[44
 
-] [46] [47]
+] [45] [46]
 Appendix E.
-[48
+[47
 
 ]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
@@ -1828,7 +1803,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--33
 
  []
 
-[49]
+[48]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
 snTables/ANOVANitrate.tex' on input line 35.
 
@@ -1850,7 +1825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-[50]
+[49]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
 snTables/ANOVASulfate.tex' on input line 38.
 
@@ -1872,7 +1847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--39
 
  []
 
-[51] [52]
+[50] [51]
 Appendix F.
 Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
 ables/SWposthoc.tex' on input line 43.
@@ -2044,9 +2019,9 @@ Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
 
 )
 :<-
-[53
+[52
 
-] [54] [55]
+] [53] [54]
 Appendix G.
 Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
 snTables/pHPowerGraph.tex' on input line 53.
@@ -2068,12 +2043,12 @@ snTables/TVpowergraph.tex' on input line 59.
 :<+ FiguresnTables/TVpowergraph.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergraph.tex)
 :<-
-) [56
+) [55
 
-] [57] [58] [59] [60]
+] [56] [57] [58] [59]
 :<-
 :<+ back-matter/vita.tex
-(D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex) [61
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex) [60
 
 
 
@@ -2099,7 +2074,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
 (rerunfilecheck)             Checksum: FA148FFA6056F72C689990712707DCE5;3764.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 282304EED6696B9D1A39E5BF2AE65050;2395.
+(rerunfilecheck)             Checksum: E4D45ED887D81C50790F4AFCE225413D;2341.
 
 
 LaTeX Warning: There were undefined references.
@@ -2110,10 +2085,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 25975 strings out of 493921
- 561622 string characters out of 3154506
- 806278 words of memory out of 3000000
- 28397 multiletter control sequences out of 15000+200000
+ 25974 strings out of 493921
+ 561640 string characters out of 3154506
+ 806320 words of memory out of 3000000
+ 28394 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  64i,19n,100p,2211b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2128,9 +2103,9 @@ c/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/M
 ikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTeX/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/M
 ikTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (73 pages, 631435 bytes).
+Output written on TimPobst-thesis.pdf (72 pages, 632813 bytes).
 PDF statistics:
- 1048 PDF objects out of 1200 (max. 8388607)
- 224 named destinations out of 1000 (max. 500000)
+ 1051 PDF objects out of 1200 (max. 8388607)
+ 225 named destinations out of 1000 (max. 500000)
  503 words of extra memory for PDF output out of 10000 (max. 10000000)
 

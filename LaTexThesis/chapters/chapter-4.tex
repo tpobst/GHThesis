@@ -59,7 +59,7 @@ Concerning the multiple and multiple partial correlation test he decided on .02,
 All of these ES values can be graphed in the power graphs by plotting different ES values as curves on the same plot.
 Even though all powers and all ES values can be plotted at once, some times it is useful to choose specific values.
 An ES value of .15 was settled upon after the power graphs for all three conventions per dependent variable were made.
-.02 was too small, requiring very high values for numbers of observations to reach a decent power.\
+.02 was too small, requiring very high values for numbers of observations to reach a decent power.
 ES values of .35 can acquire small numbers for numbers of observations thus achieving a decent power level easier.
 But .15 is less than half of .35 so it minimizes the chances for insignificant results and the numbers of observations are reasonable to reach higher powers.
 If no argument can be made for any other desired power then Cohen suggests .80.
@@ -68,78 +68,79 @@ If the power is .80 then $\beta=.20$ and $\alpha=.05$ and this makes the Type II
 These choices are presented in \autoref{tab:APN}.
 \input{FiguresnTables/aprioritable}
 
-The a priori power analysis can be used to calculate a number of sites per elevation band for the stream survey in the GRSM.
+The a priori power analysis can be manipulated to calculate a number of sites per elevation band for the stream survey in the GRSM.
 First, samples per year per elevation band are counted for the 2012 year and will be represented by n.
 Next the results from \autoref{tab:APN} are divided by samples per year per elevation band to get the number of years it will take at the 2012 sampling rate to reach a power of .80.
 \begin{equation}
-	yrs. = {N \over n}
+	yrs. = {N_a \over n}
 \end{equation}
 But, in order to get to the number of sites per elevation band required to reach a power of .80, the years will have to be held constant.
 If the future trend analysis is to be completed using the equation with only time variables then 77 samples will need to be collected in one year to reach a power of .80 according to \autoref{tab:APN}.
 But if the future trend analysis is to be completed using the step-wise equations from \autoref{tab:stepwiseeq} then at least 109 samples will need to be collected in one year to satisfy the requirements for ANC and NO$_3$.
-For the step-wise equations N will be rounded up to 110.
+For the step-wise equations N will be rounded up to 110 and labeled $N_b$.
 \input{FiguresnTables/sytaapeighty}
 These are presented in \autoref{tab:sytaapeighty}, which has been calculated out to four years.
-So that instead of completing the trend analysis after one year, you could wait four years and only need to collect 28 samples per year.
-
-
-
-
-
-\begin{itemize}
-	\item The a priori analysis can help survey planners to create a sampling survey that will produce trend lines with certain ES values and powers.
-	\item There are two objectives to this analysis which are to create "power graphs", which are plots of power vs. sample size.  The other is to plan out an actual scenario for which samples can be added or subtracted to elevation bands for a desired power of .80 and an ES of .15.
-	\item The power graphs are created in G*power using the "x-y plot for a range of values" button next to the "calculate" button.
-	\item They-axis has the power values while the x-axis contains the number of observations or samples.  The power will increase with number of samples until it reaches 100.
-	\item Four power graphs were created, one for each water quality variable.  If ES and power are set to .15 and .80 respectively for every presumed trend line then the only variable is number of predictors.  The number of predictors is set for each water quality variable (pH, ANC, NO$_3$,SO$_4$).  Taken from the earlier step-wise selection method (link to step-wise table).  Therefore only one "power graph" is needed for every trend line in each variable.
-	\item ES and power can be chosen or kept constant based on reports by Cohen.
-	\item Cohen's standardizations
-	\item While the "power graphs" are useful in planning for the future of the stream survey, it can be shown that if ES and power are chosen, exact numbers of samples and sites can be added and subtracted from elevation bands.
-	%\input{FiguresnTables/aprioritable}%needs to be cleaned up
-	\item The rest was done in excel
-	\item This calculated number of observations can be divided by the number of samples collected in one year to get the number of years required to reach a power of .80.
-	\item The analysis can be further conducted by calculating the number of samples per year to achieve a power of .80.  For this calculation all water quality variables were given the highest number of samples of 110 and 77 was used for the trends using only time variables.
-		\input{FiguresnTables/sytaapeighty}%needs to be cleaned up
-	\item \autoref{sytaapeighty} is needed to calculate number of samples needed per elevation band to achieve a power of .80.  This number of samples can then be further divided to get a number of sites needed to achieve a power of .80.  If a trend line with a power of .80 is desired after one year ,for all water quality variables to be satisfied, 110 samples need to be collected.  If four years are waited then only 28 samples need to be collected per year.
-	\item  To create this final table the number of samples per elevation  band was subtracted from the number of samples to achieve a power of .80 which gives us the number of samples needed in addition to what is currently collected to receive a power of .80.  These results are organized into samples needed per elevation band to achieve a power of .80 and seperated by years depending of how many years of data go into the trend lines.
-\end{itemize}
-
-
+So that instead of completing the trend analysis after one year, one could wait four years and only need to collect 28 samples per year.
+Subtracting the number of samples collected in one year per elevation band in 2012 from the number of samples needed to be collected per year to reach a power of .80 will provide the number of samples needed per elevation band to receive a power of .80 ($N_c$).
+\begin{equation}
+	N_c={N_b - n}
+\end{equation}
+To get an estimation for the number of sites needed per elevation band to achieve a power of .80, the number of samples needed per elevation band to receive a power of .80 ($N_c$) were divided by six which is number of times each site is sampled per year.
+\begin{equation}
+	\#Sites = {N_c \over 6}
+\end{equation}
 
 \section{Results}
-\subsection{Post hoc}
-\begin{itemize}
-	\item A post hoc power analysis was conducted for each of the two methods of trend analysis.
-	\item \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} record the results of the post hoc analysis on the trend lines with variables created through the step-wise method and the trend lines created using only time variables respectively.  Included in these tables are the number of samples and r$^2$ variables from the trend analysis and effect size and power from the post hoc analysis.
-	\item \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} are broken into the four analyzed water quality variables (pH, ANC, NO$_3$,SO$_4$) and divided into the tree time sets (93-02, 03-08, 09-12), and then further divided into the six elevation classes.
-	\item use results from previous draft
-	\item any similar power analysis?
-\end{itemize}
+\subsection{Post hoc}%Most ES values are larger than .35, wtf!
+The results of the post hoc analysis on both trend analyses are reported in  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
+The tables of results are broken into the four analyzed water quality variables (pH, ANC, NO$_3$, SO$_4$) and divided into the tree time sets (93-02, 03-08, 09-12), and then further divided into the six elevation classes.
+Each regression line computed in \autoref{ch:TA} are represented by their number of observations, the adjusted $r^2$, the calculated ES, and finally their actual power.
+Of the 72 lines evaluated for power in \autoref{tab:SWposthoc} only eight of them were less than 1.00.
+Two of the trend lines in \autoref{tab:SWposthoc} were insignificant.
+The trend line in Nitrate set 3 class 5 was insignificant and the adjusted $r^2$ was negative and therefore the power could not be found.
+The trend line in pH set 3 class 5 was also insignificant and received the lowest actual power of .28.
+Of the 72 lines evaluated for power in \autoref{tab:TVposthoc} 52 of the them were insignificant.
+So already before the post hoc analysis is completed the trend analysis says the regression lines might not even have a trend, and power is the probability of finding a trend if there is one.
+By convention insignificant trends are ignored and their powers will be ignored here as well.
+20 of the trend lines are significant and their powers range from .26 to 1.00.
+11 of the 20 significant trend lines are above a power of .80 and 2 are .99 or greater.
+
 \subsection{A priori}
 \subsubsection{Power graphs}
-\begin{itemize}
-	\item The results of the a priori power analysis will be the most important for planning.
-	\item The usual output is the "power graph" which plots power on the y-axis and total sample size on the x-axis.
-	\item G*power outputs some very nice power graphs. The power graphs created from the a priori power analysis are presented in \autoref{fig:pHPowerGraph}, \autoref{fig:ANCnNPowerGraph}, \autoref{fig:SulfatePowerGraph}, and \autoref{fig:TVPowerGraph}.
-	\item There were four power graphs created, three for the water quality variables and one for the time variables.  ANC and Nitrate both have the same number of predictors from the step-wise variable selection method and therefore create the same power graph. 
-	\item each graph contains 3 lines representing 3 different ES choices: .15, .25, and .35.  These were chosen to mimic the choices of small, medium, and large effects standardized by Cohen in \citep{cohen1992power}.  Limitations of the G*power program left the best choices to be .15, .25, and .35.   A small effect of .02 was ignored because preliminary graph results showed it to be  not useful.	
-\end{itemize}
-\subsubsection{Planning with power analysis}
+The traditional presentation for an a priori power analysis is the power graph.
+This graph plots power on the y-axis and number of observations on the x-axis.
+Each plotted curve represents an ES of either .15 or .35.
+Four graphs were drawn for the five dependent variables (pH, ANC, NO$_3$, SO$_4$, and Time)
+The only real variation between the graphs are the number of variables which are taken from \autoref{tab:stepwiseeq}.
+Because the ANC and NO$_3$ equations contain the same number of variables, they are represented by the same graph.
+The curve will start at (0,0) and asymptotically approach a power of 1.00.
+All of the power graphs created by the a priori analysis follow this pattern.
+In fact they are all very similar.
+The curves are all the same, its their placement on the graphs that change.
+The power graphs for pH, ANC and NO$_3$, SO$_4$, and Time are plotted in \autoref{fig:pHPowerGraph}, \autoref{fig:ANCnNPowerGraph}, \autoref{fig:SulfatePowerGraph}, and\autoref{fig:TVPowerGraph}.
+\autoref{powergraphtable} was created for easier comparison.
+\input{FiguresnTables/powergraphtable}
+This table shows the sample size values for both ES curves at a power of .80.
+Again all are similar except for the time graph, which has at least half as many variables in its time trend equation.
+
+\subsubsection{A priori manipulation}
 \begin{itemize}
 	\item Using the ability of the a priori power analysis to compute a number of samples needed for a certain power, a scenario was played out to see how many sites needed to be added or could be removed from an elevation band in the stream survey.
 	\input{FiguresnTables/currentyrsto.80}%needs to be cleaned
 	\item This scenario was followed through with both methods of trend lines.
-	\item \autoref{currentyrsto.80} records the six elevation bands along with the site numbers that belong to them.  In the column labeled ,current n per year, the amount of samples collected per elevation band in the year 2012 was tabulated.  The values in the remaining columns were calculated by dividing the number of samples given in \autoref{APN} by the current samples per year column in \autoref{currentyrsto.80}.
+	\item \autoref{tab:currentyrsto.80} records the six elevation bands along with the site numbers that belong to them.  In the column labeled ,current n per year, the amount of samples collected per elevation band in the year 2012 was tabulated.  The values in the remaining columns were calculated by dividing the number of samples given in \autoref{tab:APN} by the current samples per year column in \autoref{tab:currentyrsto.80}.
 	\item Looking at the table there are 26  samples collected in elevation band one in one year.  In order to compute a trend line that receives a power of .80 with pH as the dependent  samples would need to be collected for 3.77 years before the trend line is computed.   The larges is elevation class for a trend line in ANC or NO$_3$ which requires 9.08 years.
 	\input{FiguresnTables/WQapsenario}%needs to be cleaned
 	\input{FiguresnTables/TVapsenario}
-	\item The left side of both \autoref{WQapsenario} and \autoref{TVapsenario} show how many more samples are required to get a trend line with a power of .80. 
-	\item  In \autoref{WQapsenario} for elevation class 3, 48 more samples need to be collected if a trend line with a power of .80 is to be created after one year.  But if a trend line can wait to be created after two years, then there is a surplus of seven samples per year.  If four years can be waited there is a surplus of 35 samples which on the right side of the table translates into a surplus of 6 whole site locations per year.
-	\item \autoref{TVapsenario} works the same way as \autoref{WQapsenario} but of course it uses different variables for the trend lines.
+	\item The left side of both \autoref{tab:WQapsenario} and \autoref{tab:TVapsenario} show how many more samples are required to get a trend line with a power of .80. 
+	\item  In \autoref{tab:WQapsenario} for elevation class 3, 48 more samples need to be collected if a trend line with a power of .80 is to be created after one year.  But if a trend line can wait to be created after two years, then there is a surplus of seven samples per year.  If four years can be waited there is a surplus of 35 samples which on the right side of the table translates into a surplus of 6 whole site locations per year.
+	\item \autoref{tab:TVapsenario} works the same way as \autoref{tab:WQapsenario} but of course it uses different variables for the trend lines.
 	\item results from previous draft
 	\item any other papers like this?
 \end{itemize}
+
 \section{Discussion}
+
 \subsection{Post hoc}
 \begin{itemize}
 	\item The results presented in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} show how the calculated power is highly affected by number of observations more than anything else.
@@ -147,12 +148,12 @@ So that instead of completing the trend analysis after one year, you could wait 
 	\item \autoref{tab:TVposthoc} show the effect of the ES on power.  Other than these lines being insignificant, many of the ES values are small according to Cohen and when compared to \autoref{tab:SWposthoc}.  Low ES values and low observations create low powers.  Low ES values com from low r$^2$ values.  The low r$^2$ values can be blamed for the insignificance of the lines and the poor powers. 
 	\item Some lines are just not well described by Julian Date,$\sin$($\theta$), and $\cos$($\theta$) only.
 \end{itemize}
+
 \subsection{A priori}
 \begin{itemize}
 	\item How can these results be used?
 	\item How can these results be manipulated?	
 	\item The results in \autoref{tab:WQapsenario} and \autoref{tab:TVapsenario} can help with both of the problems of The park wanting a cheaper survey and researchers wanting more high elevation sites.
-	
 	\item The table can be used to re-organize sites across bands.
 	\begin{itemize}
 		\item In the current SS scheme there is a surplus of sites in lower elevation bands and a deficit for sites in higher elevations.
