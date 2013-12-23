@@ -41,8 +41,8 @@
 \contentsline {subsection}{\numberline {4.2.2}A priori}{29}{subsection.4.2.2}
 \contentsline {subsubsection}{Power graphs}{29}{section*.38}
 \contentsline {subsubsection}{A priori manipulation}{29}{section*.40}
-\contentsline {section}{\numberline {4.3}Discussion}{31}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Post hoc}{31}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.3}Discussion}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Post hoc}{32}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}A priori}{32}{subsection.4.3.2}
 \contentsline {chapter}{Bibliography}{34}{section*.44}
 \contentsline {chapter}{\numberline {A}}{38}{appendix.A}
