@@ -14,17 +14,17 @@
 \contentsline {table}{\numberline {4.6}{\ignorespaces Necesary sites scenario for water quality variables\relax }}{30}{table.caption.42}
 \contentsline {table}{\numberline {4.7}{\ignorespaces Necesary sites scenario for time variables\relax }}{31}{table.caption.43}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces GRSM Stream Survey site descriptions\relax }}{39}{table.caption.46}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Site Data\relax }}{40}{table.caption.47}
+\contentsline {table}{\numberline {A.1}{\ignorespaces GRSM Stream Survey site descriptions\relax }}{40}{table.caption.48}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Site Data\relax }}{41}{table.caption.49}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {B.1}{\ignorespaces Descriptive statistics of Water Quality in the GRSM\relax }}{42}{table.caption.48}
+\contentsline {table}{\numberline {B.1}{\ignorespaces Descriptive statistics of Water Quality in the GRSM\relax }}{43}{table.caption.50}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {C.1}{\ignorespaces List of variables used for step-wise variable selection. X's for variables selected by the step-wise method, O's if variable was added after the step-wise process.\relax }}{43}{table.caption.49}
+\contentsline {table}{\numberline {C.1}{\ignorespaces List of variables used for step-wise variable selection. X's for variables selected by the step-wise method, O's if variable was added after the step-wise process.\relax }}{44}{table.caption.51}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {D.1}{\ignorespaces Time trend results for specific elevation classes using variables from step-wise regression. \textbf {Bold} results are insignificant.\relax }}{45}{table.caption.50}
-\contentsline {table}{\numberline {D.2}{\ignorespaces Time trend results for specific elevation classes using julian date, cosine($\theta $), and sine($\theta $) only. \textbf {Bold} results are insignificant.\relax }}{46}{table.caption.51}
+\contentsline {table}{\numberline {D.1}{\ignorespaces Time trend results for specific elevation classes using variables from step-wise regression. \textbf {Bold} results are insignificant.\relax }}{46}{table.caption.52}
+\contentsline {table}{\numberline {D.2}{\ignorespaces Time trend results for specific elevation classes using julian date, cosine($\theta $), and sine($\theta $) only. \textbf {Bold} results are insignificant.\relax }}{47}{table.caption.53}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {F.1}{\ignorespaces Post hoc power analysis using G*power and a calculated ES, alpha is .05. \textbf {Bold} results are insignificant.\relax }}{53}{table.caption.76}
-\contentsline {table}{\numberline {F.2}{\ignorespaces Post hoc power analysis using G*power a calculated ES, an alpha of .05 with the variables: sine($\theta $), cosine($\theta $), and julian date only. \textbf {Bold} results are insignificant.\relax }}{54}{table.caption.77}
+\contentsline {table}{\numberline {F.1}{\ignorespaces Post hoc power analysis using G*power and a calculated ES, alpha is .05. \textbf {Bold} results are insignificant.\relax }}{54}{table.caption.78}
+\contentsline {table}{\numberline {F.2}{\ignorespaces Post hoc power analysis using G*power a calculated ES, an alpha of .05 with the variables: sine($\theta $), cosine($\theta $), and julian date only. \textbf {Bold} results are insignificant.\relax }}{55}{table.caption.79}
 \addvspace {10\p@ }

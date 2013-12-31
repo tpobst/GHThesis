@@ -43,28 +43,30 @@
 \contentsline {subsubsection}{A priori manipulation}{29}{section*.40}
 \contentsline {section}{\numberline {4.3}Discussion}{32}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Post hoc}{32}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}A priori}{32}{subsection.4.3.2}
-\contentsline {chapter}{Bibliography}{34}{section*.44}
-\contentsline {chapter}{\numberline {A}}{38}{appendix.A}
-\contentsline {section}{\numberline {A.1}Site Data}{38}{section.A.1}
-\contentsline {section}{\numberline {A.2}Site data}{38}{section.A.2}
-\contentsline {chapter}{\numberline {B}Descriptive Statistics}{41}{appendix.B}
-\contentsline {chapter}{\numberline {C}Variable selection}{43}{appendix.C}
-\contentsline {chapter}{\numberline {D}Julian Date Coefficients}{44}{appendix.D}
-\contentsline {section}{\numberline {D.1}Step-wise Method}{44}{section.D.1}
-\contentsline {section}{\numberline {D.2}Temporal Variables}{44}{section.D.2}
-\contentsline {chapter}{\numberline {E}ANOVA/Bonferoni}{47}{appendix.E}
-\contentsline {section}{\numberline {E.1}pH}{48}{section.E.1}
-\contentsline {section}{\numberline {E.2}ANC}{49}{section.E.2}
-\contentsline {section}{\numberline {E.3}Nitrate}{50}{section.E.3}
-\contentsline {section}{\numberline {E.4}Sulfate}{51}{section.E.4}
-\contentsline {chapter}{\numberline {F}Post Hoc Power Analsysis}{52}{appendix.F}
-\contentsline {section}{\numberline {F.1}Step-Wise Variables}{52}{section.F.1}
-\contentsline {section}{\numberline {F.2}Temperol variables}{52}{section.F.2}
-\contentsline {chapter}{\numberline {G}A priori analysis}{55}{appendix.G}
-\contentsline {section}{\numberline {G.1}Power graphs}{55}{section.G.1}
-\contentsline {subsection}{\numberline {G.1.1}pH}{55}{subsection.G.1.1}
-\contentsline {subsection}{\numberline {G.1.2}ANC and Nitrate}{55}{subsection.G.1.2}
-\contentsline {subsection}{\numberline {G.1.3}Sulfate}{55}{subsection.G.1.3}
-\contentsline {subsection}{\numberline {G.1.4}Time Variables}{55}{subsection.G.1.4}
-\contentsline {chapter}{Vita}{60}{section*.82}
+\contentsline {subsubsection}{Step-wise equations}{32}{section*.44}
+\contentsline {subsubsection}{Time variable based equations}{32}{section*.45}
+\contentsline {subsection}{\numberline {4.3.2}A priori}{33}{subsection.4.3.2}
+\contentsline {chapter}{Bibliography}{35}{section*.46}
+\contentsline {chapter}{\numberline {A}}{39}{appendix.A}
+\contentsline {section}{\numberline {A.1}Site Data}{39}{section.A.1}
+\contentsline {section}{\numberline {A.2}Site data}{39}{section.A.2}
+\contentsline {chapter}{\numberline {B}Descriptive Statistics}{42}{appendix.B}
+\contentsline {chapter}{\numberline {C}Variable selection}{44}{appendix.C}
+\contentsline {chapter}{\numberline {D}Julian Date Coefficients}{45}{appendix.D}
+\contentsline {section}{\numberline {D.1}Step-wise Method}{45}{section.D.1}
+\contentsline {section}{\numberline {D.2}Temporal Variables}{45}{section.D.2}
+\contentsline {chapter}{\numberline {E}ANOVA/Bonferoni}{48}{appendix.E}
+\contentsline {section}{\numberline {E.1}pH}{49}{section.E.1}
+\contentsline {section}{\numberline {E.2}ANC}{50}{section.E.2}
+\contentsline {section}{\numberline {E.3}Nitrate}{51}{section.E.3}
+\contentsline {section}{\numberline {E.4}Sulfate}{52}{section.E.4}
+\contentsline {chapter}{\numberline {F}Post Hoc Power Analsysis}{53}{appendix.F}
+\contentsline {section}{\numberline {F.1}Step-Wise Variables}{53}{section.F.1}
+\contentsline {section}{\numberline {F.2}Temperol variables}{53}{section.F.2}
+\contentsline {chapter}{\numberline {G}A priori analysis}{56}{appendix.G}
+\contentsline {section}{\numberline {G.1}Power graphs}{56}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}pH}{56}{subsection.G.1.1}
+\contentsline {subsection}{\numberline {G.1.2}ANC and Nitrate}{56}{subsection.G.1.2}
+\contentsline {subsection}{\numberline {G.1.3}Sulfate}{56}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Time Variables}{56}{subsection.G.1.4}
+\contentsline {chapter}{Vita}{61}{section*.84}

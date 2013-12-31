@@ -91,13 +91,13 @@ To get an estimation for the number of sites needed per elevation band to achiev
 \end{equation}
 
 \section{Results}
-\subsection{Post hoc}%Most ES values are larger than .35, wtf!
+\subsection{Post hoc}
 The results of the post hoc analysis on both trend analyses are reported in  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
 The tables of results are broken into the four analyzed water quality variables (pH, ANC, NO$_3$, SO$_4$) and divided into the tree time sets (93-02, 03-08, 09-12), and then further divided into the six elevation classes.
 Each regression line computed in \autoref{ch:TA} are represented by their number of observations, the adjusted $r^2$, the calculated ES, and finally their actual power.
 Of the 72 lines evaluated for power in \autoref{tab:SWposthoc} only eight of them were less than 1.00.
-Two of the trend lines in \autoref{tab:SWposthoc} were insignificant.
-The trend line in Nitrate set 3 class 5 was insignificant and the adjusted $r^2$ was negative and therefore the power could not be found.
+Only two of the trend lines in \autoref{tab:SWposthoc} were insignificant.
+The trend line analyzed in Nitrate set 3 class 5 was insignificant but the adjusted $r^2$ was negative and therefore the power could not be found.
 The trend line in pH set 3 class 5 was also insignificant and received the lowest actual power of .28.
 Of the 72 lines evaluated for power in \autoref{tab:TVposthoc} 52 of the them were insignificant.
 So already before the post hoc analysis is completed the trend analysis says the regression lines might not even have a trend, and power is the probability of finding a trend if there is one.
@@ -136,56 +136,60 @@ This is because it only contains two sites.
 \input{FiguresnTables/WQapsenario}%needs to be cleaned
 \input{FiguresnTables/TVapsenario}
 Tables \autoref{tab:WQapsenario} and \autoref{tab:TVapsenario} correspond to the two trend analysis completed in \autoref{ch:TA}.
-Each broken down into two sides, the left sides contains number of samples while the right side contains number of sites.
-Each side is divided by grouped by elevation band and calculated out to four years.
-The \autoref{eq:Nc} is used to calculate the number of samples required and these numbers are divided by six to get the right side.
+Each table is  broken down into two sides, the left side contains number of samples while the right side contains number of sites.
+Each side is grouped by elevation band and calculated out to four years.
+\autoref{eq:Nc} is used to calculate the number of samples required and these numbers are divided by six to get the right side of the tables.
 Each elevation band is evaluated to determine the number of observations required to achieve a power of .80 with an ES of .15 for a trend analysis using the same equations as \autoref{tab:stepwiseeq}.
 The different columns tell how many years will be needed before the trend analysis can be completed.
 In \autoref{tab:WQapsenario} for elevation class 3, 48 more samples need to be collected if a trend line for the water quality dependents with a power of .80 is to be created after one year.  
 But if a trend line can wait to be created after two years, then there is a surplus of seven samples per year.  
 If four years can be waited there is a surplus of 35 samples which on the right side of the table translates into a surplus of 6 whole site locations per year.
 \autoref{tab:TVapsenario} works the same way as \autoref{tab:WQapsenario} but of course it uses different variables for the trend lines.
-results from previous draft
-any other papers like this?
 
 \section{Discussion}
 
 \subsection{Post hoc}
-\begin{itemize}
-	\item The results presented in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc} show how the calculated power is highly affected by number of observations more than anything else.
-	\item In \autoref{tab:SWposthoc}, even when the r$^2$ and ES values are relatively low if the N is greater than 100 then the power is excellent.
-	\item \autoref{tab:TVposthoc} show the effect of the ES on power.  Other than these lines being insignificant, many of the ES values are small according to Cohen and when compared to \autoref{tab:SWposthoc}.  Low ES values and low observations create low powers.  Low ES values com from low r$^2$ values.  The low r$^2$ values can be blamed for the insignificance of the lines and the poor powers. 
-	\item Some lines are just not well described by Julian Date,$\sin$($\theta$), and $\cos$($\theta$) only.
-\end{itemize}
+\subsubsection{Step-wise equations}
+By reviewing the results of the post hoc analysis after an a priori analysis has been completed using the same regression equations it is easier to see why the results were outstanding for the step-wise equations and awful for the time based equations.
+Knowing that an a priori analysis on the step-wise equations will give the number of observations for a power of .80 and an ES of .15 to be about 110 from \autoref{tab:APN}.
+It can easily be seen that as the number of observations in \autoref{tab:SWposthoc} deviate from 110 the power declines.
+And because the ES is a ratio of the adjusted r$^2$ it declines with the as the r$^2$ does.
+But for a calculated ES of .15 the adjusted r$^2$ doesn't need to be very high.
+The analyzed trend line for pH in time set 3 elevation class 5 has an adjusted r$^2$ of .158 and the ES is .19.
+The large conventional ES given by Cohen is .35 and only 3 of the trend lines analyzed here were below that, all in pH.
+Assuming that a power of .80 and an ES of .15 is ideal, then this post hoc analysis uses to many observations.
+One way to have less observations would be to use fewer years in the analysis.
+Another way would be to use less sites in the survey.
+\subsubsection{Time variable based equations}
+The differences in powers between the two post hoc analysis can not be the number of observations because the number of observations used in \autoref{tab:SWposthoc} are the same as those \autoref{tab:TVposthoc}.
+The differences are between the adjusted r$^2$, which are very low for \autoref{tab:TVposthoc}, and leads to the low ES values.
+Overlooking the fact that most of the regression models for the time variable analysis are insignificant, most of the powers calculated in \autoref{tab:SWposthoc} are not terrible.
+Of the 20 significant lines eleven have a power equal to or above .80.
 
 \subsection{A priori}%it is good that the water quality power graphs are similar because they will all be contained in the same survey.
-\begin{itemize}
-	\item How can these results be used?
-	\item How can these results be manipulated?	
-	\item The results in \autoref{tab:WQapsenario} and \autoref{tab:TVapsenario} can help with both of the problems of The park wanting a cheaper survey and researchers wanting more high elevation sites.
-	\item The table can be used to re-organize sites across bands.
-	\begin{itemize}
-		\item In the current SS scheme there is a surplus of sites in lower elevation bands and a deficit for sites in higher elevations.
-		\item Looking at the right side of \autoref{tab:WQapsenario}, if trends are desired after four years of data with a power of .80 and an ES of .15, seven sites may be taken from elevation bands 2 and 3 and 5 would need to be added to elevation bands 4,5, and 6.
-		\item After this re-arrangement two sites may be completely discontinued.
-		\item This saves time, effort, and money, but it is a very specific scenario.		
-	\end{itemize}
-	\item The downside of an a priori power analysis is that once you pick all the variables that go into it, you can' t change them in the future
-	\begin{itemize}
-		\item Variables that can change include how you divide the sites into elevation bands
-		\item Trend line creation (alpha, variable selection)
-		\item Power analysis ( power, and ES)
-	\end{itemize}
-	\item If during the hypothetical situation in which four years are waited to do another trend analysis, a better model is found, then the survey would need to be re-evaluated to reflect the new model.
-	\begin{itemize}
-		\item the model could require a different number of sites
-	\end{itemize}
-	\item Choices for power and ES could change
-	\item planning with the a priori power analysis requires guessing the trends for the future.  % Thesis Conclusion?
-	\item This guess will probably be based on the past , such as this one.
-	\item This guess assumes that trends of the past will continue into the future
-	\item The ANOVA/Bonferoni and the comparison between \citep{robinson2008ph} and the current trends shows that this is difficult.
-	\item better understanding is needed
-	\item At the end of the day the trends are positive!
-\end{itemize}
-	
+The proper results for the a priori power analysis are \autoref{tab:APN} and the \hyperref[ch:APA]{power graphs}.
+The power graphs themselves show every possible power and the number of observations needed to achieve it.
+But they are based on the specific step-wise equations that were created using this specific dataset.
+Because the step-wise process uses the data to create the equations, every time new data is added the equations could change.
+The a priori analysis assumes that these same equations, with the same number of variables, will be used to detect trends in the future.
+But if data is added and the step-wise process is used again then the equations may change.
+A more static set of equations would ease this pressure.
+
+These power graphs can still be used by managers and planners as an educated guess.
+After the number of observations for a desired power is determined from the graphs the observations can be placed into the survey in a logical manner in order for better efficiency.
+Each chosen power and ES value can represent a different scenario.
+One such scenario was carried out for a power of .80 and an ES of .15.
+Although any value in the power graphs can be chosen these values were chosen as the most efficient. 
+
+% INTRO there are two concerns with the survey from a management perspective: lack of money, lack of higher elevation sites.  
+The results of this scenario can solve two concerns of the survey: the alway present money problem, and the more scientific problem of a lack of high elevation sites.
+The greatest results presented in \autoref{tab:WQapsenario} ,which is the table corresponding to the step-wise equations, are those results in the last column.
+This column states that if the trend analysis is completed after four years of collecting data then two sites can be removed from the survey.
+And assuming that cost of the survey is related to the number of sites, then removing sites will save money.
+But removing two sites is just the outcome of a redistribution suggested by the scenario.
+In fact one site should be removed from elevation class two and six from class three.
+One site each need to be added to classes five and six and three should be added to class six.
+There are too many sites in the lower elevation classes of two and three and not enough sites in the higher elevation classes of four, five, and six.
+
+% Thesis Conclusion? If the survey is changed based on the a priori analysis (sites are removed), the assumed equations may no longer apply because they were created containing the sites that were removed..	
+%The ANOVA/Bonferoni and the comparison between \citep{robinson2008ph} and the current trends shows that this is difficult.
