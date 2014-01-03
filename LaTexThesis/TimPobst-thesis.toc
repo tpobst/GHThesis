@@ -26,7 +26,7 @@
 \contentsline {subsection}{\numberline {3.1.1}Introduction}{18}{subsection.3.1.1}
 \contentsline {subsubsection}{Instruments}{19}{section*.30}
 \contentsline {section}{\numberline {3.2}Results}{20}{section.3.2}
-\contentsline {section}{\numberline {3.3}Discussion}{21}{section.3.3}
+\contentsline {section}{\numberline {3.3}Discussion}{22}{section.3.3}
 \contentsline {chapter}{\numberline {4}Power Analysis}{23}{chapter.4}
 \contentsline {section}{\numberline {4.1}Methods}{23}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Introduction}{23}{subsection.4.1.1}

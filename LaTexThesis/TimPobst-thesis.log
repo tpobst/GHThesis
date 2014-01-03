@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  2 JAN 2014 01:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  3 JAN 2014 00:24
 entering extended mode
 **D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -2058,7 +2058,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 408BD95A158E5A085B3661E1FFC797F0;3681.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 6719D2C4EDAA2B4E7021B0DE58E712B3;2383.
+(rerunfilecheck)             Checksum: F5A08AD8E8812E563567F9C1BA910E64;2383.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2068,7 +2068,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
 Here is how much of TeX's memory you used:
  25986 strings out of 493921
  561735 string characters out of 3154506
- 806642 words of memory out of 3000000
+ 806650 words of memory out of 3000000
  28404 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2084,7 +2084,7 @@ c/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/M
 ikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTeX/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/M
 ikTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (73 pages, 636934 bytes).
+Output written on TimPobst-thesis.pdf (73 pages, 637961 bytes).
 PDF statistics:
  1062 PDF objects out of 1200 (max. 8388607)
  227 named destinations out of 1000 (max. 500000)
