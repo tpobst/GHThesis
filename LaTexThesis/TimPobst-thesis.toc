@@ -27,44 +27,44 @@
 \contentsline {subsubsection}{Instruments}{19}{section*.30}
 \contentsline {section}{\numberline {3.2}Results}{20}{section.3.2}
 \contentsline {section}{\numberline {3.3}Discussion}{22}{section.3.3}
-\contentsline {chapter}{\numberline {4}Power Analysis}{23}{chapter.4}
-\contentsline {section}{\numberline {4.1}Methods}{23}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Introduction}{23}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Body}{24}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Procedures}{24}{subsection.4.1.3}
-\contentsline {subsubsection}{Post hoc}{24}{section*.33}
-\contentsline {subsubsection}{A priori}{25}{section*.34}
-\contentsline {section}{\numberline {4.2}Results}{28}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Post hoc}{28}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}A priori}{29}{subsection.4.2.2}
-\contentsline {subsubsection}{Power graphs}{29}{section*.37}
-\contentsline {subsubsection}{A priori manipulation}{29}{section*.39}
-\contentsline {section}{\numberline {4.3}Discussion}{32}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Post hoc}{32}{subsection.4.3.1}
-\contentsline {subsubsection}{Step-wise equations}{32}{section*.43}
-\contentsline {subsubsection}{Time variable based equations}{32}{section*.44}
-\contentsline {subsection}{\numberline {4.3.2}A priori}{33}{subsection.4.3.2}
-\contentsline {chapter}{Bibliography}{35}{section*.45}
-\contentsline {chapter}{\numberline {A}}{39}{appendix.A}
-\contentsline {section}{\numberline {A.1}Site Data}{39}{section.A.1}
-\contentsline {section}{\numberline {A.2}Site data}{39}{section.A.2}
-\contentsline {chapter}{\numberline {B}Descriptive Statistics}{42}{appendix.B}
-\contentsline {chapter}{\numberline {C}Variable selection}{44}{appendix.C}
-\contentsline {chapter}{\numberline {D}Julian Date Coefficients}{45}{appendix.D}
-\contentsline {section}{\numberline {D.1}Step-wise Method}{45}{section.D.1}
-\contentsline {section}{\numberline {D.2}Temporal Variables}{45}{section.D.2}
-\contentsline {chapter}{\numberline {E}ANOVA/Bonferoni}{48}{appendix.E}
-\contentsline {section}{\numberline {E.1}pH}{49}{section.E.1}
-\contentsline {section}{\numberline {E.2}ANC}{50}{section.E.2}
-\contentsline {section}{\numberline {E.3}Nitrate}{51}{section.E.3}
-\contentsline {section}{\numberline {E.4}Sulfate}{52}{section.E.4}
-\contentsline {chapter}{\numberline {F}Post Hoc Power Analsysis}{53}{appendix.F}
-\contentsline {section}{\numberline {F.1}Step-Wise Variables}{53}{section.F.1}
-\contentsline {section}{\numberline {F.2}Temperol variables}{53}{section.F.2}
-\contentsline {chapter}{\numberline {G}A priori analysis}{56}{appendix.G}
-\contentsline {section}{\numberline {G.1}Power graphs}{56}{section.G.1}
-\contentsline {subsection}{\numberline {G.1.1}pH}{56}{subsection.G.1.1}
-\contentsline {subsection}{\numberline {G.1.2}ANC and Nitrate}{56}{subsection.G.1.2}
-\contentsline {subsection}{\numberline {G.1.3}Sulfate}{56}{subsection.G.1.3}
-\contentsline {subsection}{\numberline {G.1.4}Time Variables}{56}{subsection.G.1.4}
-\contentsline {chapter}{Vita}{61}{section*.83}
+\contentsline {chapter}{\numberline {4}Power Analysis}{24}{chapter.4}
+\contentsline {section}{\numberline {4.1}Methods}{24}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Introduction}{24}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Body}{25}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Procedures}{25}{subsection.4.1.3}
+\contentsline {subsubsection}{Post hoc}{25}{section*.33}
+\contentsline {subsubsection}{A priori}{26}{section*.34}
+\contentsline {section}{\numberline {4.2}Results}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Post hoc}{29}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}A priori}{30}{subsection.4.2.2}
+\contentsline {subsubsection}{Power graphs}{30}{section*.37}
+\contentsline {subsubsection}{A priori manipulation}{30}{section*.39}
+\contentsline {section}{\numberline {4.3}Discussion}{33}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Post hoc}{33}{subsection.4.3.1}
+\contentsline {subsubsection}{Step-wise equations}{33}{section*.43}
+\contentsline {subsubsection}{Time variable based equations}{33}{section*.44}
+\contentsline {subsection}{\numberline {4.3.2}A priori}{34}{subsection.4.3.2}
+\contentsline {chapter}{Bibliography}{36}{section*.45}
+\contentsline {chapter}{\numberline {A}}{40}{appendix.A}
+\contentsline {section}{\numberline {A.1}Site Data}{40}{section.A.1}
+\contentsline {section}{\numberline {A.2}Site data}{40}{section.A.2}
+\contentsline {chapter}{\numberline {B}Descriptive Statistics}{43}{appendix.B}
+\contentsline {chapter}{\numberline {C}Variable selection}{45}{appendix.C}
+\contentsline {chapter}{\numberline {D}Julian Date Coefficients}{46}{appendix.D}
+\contentsline {section}{\numberline {D.1}Step-wise Method}{46}{section.D.1}
+\contentsline {section}{\numberline {D.2}Temporal Variables}{46}{section.D.2}
+\contentsline {chapter}{\numberline {E}ANOVA/Bonferoni}{49}{appendix.E}
+\contentsline {section}{\numberline {E.1}pH}{50}{section.E.1}
+\contentsline {section}{\numberline {E.2}ANC}{51}{section.E.2}
+\contentsline {section}{\numberline {E.3}Nitrate}{52}{section.E.3}
+\contentsline {section}{\numberline {E.4}Sulfate}{53}{section.E.4}
+\contentsline {chapter}{\numberline {F}Post Hoc Power Analsysis}{54}{appendix.F}
+\contentsline {section}{\numberline {F.1}Step-Wise Variables}{54}{section.F.1}
+\contentsline {section}{\numberline {F.2}Temperol variables}{54}{section.F.2}
+\contentsline {chapter}{\numberline {G}A priori analysis}{57}{appendix.G}
+\contentsline {section}{\numberline {G.1}Power graphs}{57}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}pH}{57}{subsection.G.1.1}
+\contentsline {subsection}{\numberline {G.1.2}ANC and Nitrate}{57}{subsection.G.1.2}
+\contentsline {subsection}{\numberline {G.1.3}Sulfate}{57}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Time Variables}{57}{subsection.G.1.4}
+\contentsline {chapter}{Vita}{62}{section*.83}
