@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Board et~al., 1983]{board1983acid}
+Board, E.~S. et~al. (1983).
+\newblock {\em Acid Deposition: Atmospheric Processes in Eastern North
+  America}.
+\newblock National Academies Press.
+
 \bibitem[Cai et~al., 2011]{cai2011long}
 Cai, M., Schwartz, J.~S., Robinson, R.~B., Moore, S.~E., and Kulp, M.~A.
   (2011).
@@ -26,8 +32,14 @@ Helsel, D.~R. and Hirsch, R.~M. (1992).
 IBM (2013).
 \newblock Ibm spss statistics base 22.
 
-\bibitem[Meijun~Cai, 2012]{cai2012}
-Meijun~Cai, J. S.~S. (2012).
+\bibitem[Johnson et~al., 1992]{johnson1992atmospheric}
+Johnson, D.~W., Lindberg, S.~E., et~al. (1992).
+\newblock {\em Atmospheric deposition and forest nutrient cycling. A synthesis
+  of the Integrated Forest Study.}
+\newblock Springer-Verlag.
+
+\bibitem[Meijun~Cai, 2013]{cai2013}
+Meijun~Cai, J. S.~S. (2013).
 \newblock Biological effects of stream water quality on aquatic
   macroinvertebrates and fish communities within great smoky mountains national
   park.
@@ -45,6 +57,18 @@ Neff, K.~J., Schwartz, J.~S., Moore, S.~E., and Kulp, M.~A. (2012).
 \newblock Influence of basin characteristics on baseflow and stormflow
   chemistry in the great smoky mountains national park, usa.
 \newblock {\em Hydrological Processes}.
+
+\bibitem[NPS, 2013]{NPS}
+NPS (2013).
+\newblock Nature \& science.
+\newblock \url{http://www.nps.gov/grsm/naturescience/index.htm}.
+\newblock Accessed: 2014-01-05.
+
+\bibitem[Odom, 2003]{odom2003}
+Odom, K.~R. (2003).
+\newblock {\em Assessment and redesign of the synoptic water quality monitoring
+  network in the great smoky mountains national park}.
+\newblock PhD thesis.
 
 \bibitem[Robinson et~al., 2008]{robinson2008ph}
 Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and

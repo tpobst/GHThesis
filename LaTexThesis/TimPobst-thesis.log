@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  4 JAN 2014 23:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.8)  11 JAN 2014 19:20
 entering extended mode
 **D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (D:/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -839,11 +839,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 (D:\GitHub\GHThesis\LaTexThesis\front-matter/abstract.aux)
 (D:\GitHub\GHThesis\LaTexThesis\front-matter/nomenclature.aux)
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.aux)
-(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.aux
-
-LaTeX Warning: Label `fig:pHdata' multiply defined.
-
-) (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.aux)
+(D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.aux)
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux)
 (D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux
 
@@ -1035,18 +1032,6 @@ No file TimPobst-thesis.nls.
 :<+ chapters/chapter-1.tex
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.tex
 Chapter 1.
-<figures/pdf/pHdata.pdf, id=430, 794.97pt x 614.295pt>
-File: figures/pdf/pHdata.pdf Graphic file (type pdf)
-
-<use figures/pdf/pHdata.pdf>
-Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 6.
-(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
-
-Overfull \hbox (78.90524pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid rain is believed to negatively affect The Great Smokey 
-Mountain National Park.[] 
- []
-
 [1
 
 
@@ -1056,281 +1041,120 @@ Mountain National Park.[]
 
 
 
- <D:/GitHub/GHThesis/LaTexThesis/figures/pdf/pHdata.pdf>]
-Overfull \hbox (2857.65662pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid Deposition, more commonly known as Acid Rain, is a cons
-tant problem for the industrialized world. The amount of pollutants released in
-to the atmosphere has risen since the industrial revolution.  The processes tha
-t industrial plants utilize excess sulfur oxides (SOx) and nitrogen oxides (NOx
-) into the atmosphere. This effluent production of chemicals creates problems f
-or the world's environmental systems including acid deposition and other effect
-s that can harm our health, our surface waters, our soils, and our structures.[
-] 
- []
+] [2] [3]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no º in font cmr12!
+Package srcltx Info: Expanded filename `FiguresnTables/Odomtable' to `FiguresnT
+ables/Odomtable.tex' on input line 73.
 
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-
-Overfull \hbox (4710.15753pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid Deposition occurs when the emissions of sulfur oxides (
-SOx), and nitrogen oxides (NOx) react within the atmosphere and then the consti
-tuents and their newly created chemicals are deposited on the earths surface.  
-Acid Deposition has similar characteristics of regular precipitation but it has
- lower average pH of less than 4.5.  These pollutants can come down to ground i
-n three ways: wet deposition (rain and snow), dry deposition (gases and particl
-es), and fog or cloud deposition (occult).  Once the acid deposition constituen
-ts have entered in the environment they react with the surface waters, in the s
-oil, and on man-made structures (Calvert, 1983).  This begins to acidify the su
-rface waters which can harm any life forms that interact with it, it can acidif
-y the soils and harm the plants, and it can degrade buildings.[] 
+:<+ FiguresnTables/Odomtable.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/Odomtable.tex
+Underfull \hbox (badness 1515) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/12 Percent of
  []
 
 
-Overfull \hbox (2493.33144pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid deposition greatly impacts surface water and the surrou
-nding environment. The added pollutants affects the alkalinity of water, or its
- ability to buffer a change in acidity,  and results in a pH change.  As the pH
- level lowers, the ability of surface waters to sustain aquatic life also decli
-ne, this is called acidification. And while many factors affect the ability for
- the survival of aquatic life, acidification can be directly related to a lot o
-f species survival.[] 
+Underfull \hbox (badness 1515) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/12 Percent of
  []
 
 
-Overfull \hbox (3468.98192pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acidification of bodies of water can be either chronic or ep
-isodic. Chronic acidification occurs when the body of water has constant low ac
-id neutralizing capability (ANC); which creates a large area of  nearly un-inha
-bitable water where aquatic life would struggle to survive. Episodic acidificat
-ion describes a rapid increase of acidity. Drastic acidification episodes resul
-t in large surges of nitrates and/or sulfates in surface waters. Episodes often
- occur during snow melts or heavy rains and are detrimental to aquatic life dur
-ing the vulnerable early phases of life. (http://www.epa.gov/acidrain/effects/s
-urface_water.html).[] 
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/n/12 sam-pling
  []
 
-
-Overfull \hbox (12669.73647pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 The Great Smoky Mountains National Park (GRSM) is located in
- the southern Appalachians straddling eastern Tennessee and western North Carol
-ina.  While the second largest National Park in the eastern United States, comp
-rising more than 220,000 hectares, it is the most-visited National Park with ap
-proximately 10 million visitors, twice the number of visitors to any other Nati
-onal Park, each year(Moore, 2001).  Furthermore GRSM is the largest undisturbed
- deciduous or coniferous forest-dominated area in the eastern United States (De
-lcourt and Delcourt, 1991).  The park is home to about 100 species of native tr
-ees, with the majority of the park is forest and nearly a quarter of that is ol
-d growth.  There are over 1,500 flowering plant species located in the GRSM alo
-ng with 200 species of birds, 66 types of mammals, 50 native fish species, 39 k
-inds of reptiles, and 43 species of amphibians,  not to mention insects.  In re
-cognition of the park's unique natural resources, the United Nations has design
-ated GRSM as an International Biosphere Reserve, which are established to show 
-a balance between people and nature (http://www.nps.gov/grsm/naturescience/inde
-x.htm). GRSM streams support a great number of fish species, amphibians, and be
-nthic invertebrates; five streams in the GRSM have been designated as an Outsta
-nding National Resource Waters (Neff, 2009).  The National Park Service (NPS) w
-ishes to conserve the biodiversity of the park.Acid deposition negatively affec
-ts the 3,000 km of streams present in the GRSM and that impacts every living th
-ing in the park which rely on the water quality in the park.  A literature revi
-ew in (Neff 2007) approximates a pH of 6 for biological effects and a pH of 5 f
-or mortality in trout for the park.  Exact threshold values are difficult to fi
-nd because of the large number of influential factors such as species, age, egg
- versus fry versus adult, background water quality, exposure duration, etc.  Wh
-ile pH levels from 5 to 6 can be toxic in the presence of aluminum and can be h
-armful to eggs and fry in very soft waters in the lower end of the range.(Robin
-son 08).[] 
- []
-
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-
-Overfull \hbox (12342.4613pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 In order to monitor acid deposition the park has a program c
-alled the Inventory and Monitoring program.  An aspect of this program is a hig
-h elevation site, Noland Divide Watershed.  NDW is a small, 17.4 ha, watershed 
-about 2 km east of Clingmans Dome, which is the second highest peak in the east
-ern US.  NDW contains sites to measure wet and dry deposition as well as "grab"
- samples to study in the lab.  This site is a continuation of the Integrated Fo
-rest Study (IFS) and was taken over by the park in 1991.  The IFS observed and 
-quantified atmospheric deposition and nutrient cycling in forested watersheds. 
- The study demonstrated the upper elevations of the GRSM receive some of the hi
-ghest loading rates of acidifying nitrogen and sulphur species in North America
- (Johnson and Lindberg, 1992).   The park wide Stream Survey is also part of th
-e IFS and focuses on the park as a whole, this water quality monitoring network
- uses stream survey samples collected throughout the year in order to quantify 
-water quality in the park.  Currently, samples are collected from 32 sites ever
-y two months and an additional 11 samples are collected twice per year.  These 
-samples cover streams from 6 GRSM stream systems.  Every sample collected inclu
-ding NDW is processed in the lab for conductivity, pH, ANC, Chloride, Nitrate, 
-Sulfate, Phosphate, Ammonium, Sodium, Potassium, Magnesium, Calcium, Aluminum, 
-Copper, Iron, Manganese, Silicon, and Zinc.  Information leading to a bettering
- understanding of water quality conditions per watershed characteristics aids G
-RSM resource staff in managing the Parks natural resources.  Other than chemist
-ry the acidity of the park streams can be affected by geographical attributes s
-uch as geology and elevation. Stream acidification is more pronounced in higher
- elevation watersheds with underlying base-poor geology (Herligy et al. 1991, H
-yer et al. 1995; Wigington et al. 1996a,b).  The acidification patterns along a
-n elevational gradient occur throughout the Appalachian region similar to the d
-ata collected in the GRSM streams.[] 
- []
+)
+:<-
+Package srcltx Info: Expanded filename `FiguresnTables/Historic43elevbands' to 
+`FiguresnTables/Historic43elevbands.tex' on input line 75.
+:<+ FiguresnTables/Historic43elevbands.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/Historic43elevbands.tex)
+:<-
 
 
-Overfull \hbox (653.18053pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 This figure shows all pH data from 1993 to 2012 vs. Elevatio
-n (m).  The red trend line includes abrams,  sites 237 and 252.  These outliers
- are removed for the blue trend line.[] 
- []
+pdfTeX warning: pdflatex.EXE (file D:/GitHub/GHThesis/LaTexThesis/figures/pdf/D
+epositionHeat.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<figures/pdf/DepositionHeat.pdf, id=512, 794.97pt x 614.295pt>
+File: figures/pdf/DepositionHeat.pdf Graphic file (type pdf)
+
+<use figures/pdf/DepositionHeat.pdf>
+Package pdftex.def Info: figures/pdf/DepositionHeat.pdf used on input line 85.
+(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
 
 
-Overfull \hbox (7340.70883pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Figure 1 is a graph of all measured pH values for Stream Sur
-vey between the years of 1993 and 2012 graphed against the elevations they were
- collected.  Two notable figures are here, one that contains all pH data from 1
-993 to 2012 and another that has removed the outliers Abrams stream system alon
-g with sites 252 and 237.  The steeper sloped line represents the data set that
- still contains Abrams, sites 237, and 252.  This graph clearly illustrates pH 
-trending downwards as elevation increases.  Increases in sulfate or nitrate in 
-runoff and streams through acid deposition can cause an increase leaching of ba
-se cations, hydrogen ion, aluminum, and decreased ANC (Sullivan, 2004).  Leache
-d aluminum can end up in streams and is toxic to fish (Driscoll 2003).  Rainfal
-l and fog in the GRSM affect elevations above 4000 feet first higher elevations
- have steeper slopes which correlate to both thinner soils and base poor geolog
-y.  All these factors contribute to lower pH in higher elevations.  Neff et al.
- (2013) observed this trend, but found other basin factors correlate to chronic
- and episodic acidification.  Other basins factors include drainage area size, 
-vegetation, and soil properties, which factors all are change within an elevati
-onal gradient.[] 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ú in font cmtt12!
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ù in font cmtt12!
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-Missing character: There is no Œ in font cmtt12!
-Missing character: There is no º in font cmtt12!
-Missing character: There is no Œ in font cmtt12!
-Missing character: There is no º in font cmtt12!
+[4] [5]
+Package srcltx Info: Expanded filename `FiguresnTables/elevationbands' to `Figu
+resnTables/elevationbands.tex' on input line 99.
 
-Overfull \hbox (9007.95966pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 In support of GRSM natural resource management, stream water
- quality has been monitored since 1993, and this long-term dataset was recently
- statistically analyzed and commonly referred to as the Biotic Effects Report (
-Cai et al. 2013).  In this report, elevation was found to be a dominant driver 
-for predicting water quality among the parks stream.  Overall, results in this 
-report found that stream pH and ANC decreased at -.32 units and -35.73 eq L-1 r
-espectively, per 1,000-ft elevation gain.  Conductivity, chloride, and base cat
-ions were also found to significantly decrease with elevation gain.  Sulfate sh
-owed no significant trend with elevation, however nitrate was found to signific
-antly increase with elevation gain.  The GRSM 2011 Annual Water Quality Report 
-compared pH trend lines representing the current 43 sites from 1993-2010 with 2
-011.  The data showed lines of similar slopes with different intercepts, which 
-was interpreted to mean increasing pH at all elevations in GRSM streams.  Acid 
-deposition increases with elevation in the GRSM and the higher elevation stream
-s would experience increased sulfate, and prolonged acidification if soil desor
-ption becomes a dominant geochemical watershed process which could occur if pH 
-increased to 6.0 and sulfate dropped below 50 eq L-1.  From a management perspe
-ctive, the Biotic Effects Report contains limitations in the analyses to assess
- long-term changes because locations sampled have changed over time and most cu
-rrent sample locations are at lower elevations.[] 
- []
+:<+ FiguresnTables/elevationbands.tex
+(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationbands.tex [6 <D:/GitHub
+/GHThesis/LaTexThesis/figures/pdf/DepositionHeat.pdf>])
+:<-
+
+Package natbib Warning: Citation `cai2012' on page 7 undefined on input line 10
+9.
 
 
-Overfull \hbox (1400.3559pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Table 1 shows the current historical elevation classes with 
-the number of sites they include and the percent of sites in each band.  Althou
-gh there were limitations, the biotic effects report provided essential informa
-tion on how to improve future water quality and biological monitoring programs.
-[] 
- []
+Package natbib Warning: Citation `cai2012' on page 7 undefined on input line 11
+2.
+
+[7]
+
+Package natbib Warning: Citation `cai2012' on page 8 undefined on input line 11
+8.
+
+<figures/pdf/pHdata.pdf, id=552, 794.97pt x 614.295pt>
+File: figures/pdf/pHdata.pdf Graphic file (type pdf)
+
+<use figures/pdf/pHdata.pdf>
+Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 131.
+(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
 
 
-Overfull \hbox (5160.93275pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 The National Park Service is currently developing a Vital Si
-gn Monitoring Program for a number of national parks around the country, which 
-includes the GRSM (Annual Administrative Report For Inventories and Vital Signs
- Monitoring FY 2010).  The goal of the GRSM Vital Sign Monitoring Program is to
- assess long-term changes in ecosystem health, including both terrestrial and a
-quatic environments. In addition, the program will integrate these environments
- and and include existing data on basin factors associated with water quality. 
-  Although it is widely recognized that elevational gradient is important, a qu
-estion about what elevation ranges are changing versus those that are not needs
- to be quantified in order to design an effective sampling program.  In additio
-n, data must be collected at a set frequency to provide sufficient statistical 
-power to make valid interpretations of change over time.[] 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[8]
 
-Overfull \hbox (523.50546pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item  characterize time trends in stream pH and acidic anio
-ns among elevation ranges in order to assess whether conditions are improving o
-r degrading, and[] 
- []
+Package natbib Warning: Citation `cai2012' on page 9 undefined on input line 16
+1.
 
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-
-Overfull \hbox (1826.4311pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item characterize sampling variance based on available wate
-r quality data, within the context of time and elevation, to support developmen
-t of the GRSMs Vital Signs Monitoring Program.  In addition to supporting this 
-Program, a cost analysis of selected water quality sampling schemes will be sum
-marized.  The format of this thesis will follow these two objectives.[] 
- []
-
-
-Overfull \hbox (955.75568pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item Has stream pH and acid anion concentrations changed am
-ong three time periods (1993-2002, 2003-2008, and 2009-2012), and among six ele
-vation ranges (1000-2000ft, 2000-2500ft, 2500-3000ft, 3000-3500ft,3500-4500ft, 
-4500<)?[] 
- []
-
-
-Overfull \hbox (381.4804pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item What is the statistical power for water quality parame
-ters based on frequency and elevational location based on historic data?[] 
- []
-
-[2]
-Overfull \hbox (745.80557pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 The thesis is organized into two separate chapters following
- the two above research questions. Each chapter will follow the technical forma
-t of introduction, methods, results, and discussion.[] 
- []
-
-) [3]
+[9 <D:/GitHub/GHThesis/LaTexThesis/figures/pdf/pHdata.pdf>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [10]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [11]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no º in font cmr12!
+ [12])
+[13]
 :<-
 :<+ chapters/chapter-2.tex
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.tex
 Chapter 2.
-[4
+[14
 
 
 
 
 ]
-Package srcltx Info: Expanded filename `FiguresnTables/elevationbands' to `Figu
-resnTables/elevationbands.tex' on input line 16.
-
-:<+ FiguresnTables/elevationbands.tex
-(D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationbands.tex)
-:<-
-[5]
-File: figures/pdf/pHdata.pdf Graphic file (type pdf)
- <use figures/pdf/pHdata.pdf>
-Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 27.
-(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
- [6] [7] [8] [9]
 Package srcltx Info: Expanded filename `FiguresnTables/stepwiseeq' to `Figuresn
-Tables/stepwiseeq.tex' on input line 42.
+Tables/stepwiseeq.tex' on input line 23.
 
 :<+ FiguresnTables/stepwiseeq.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/stepwiseeq.tex
@@ -1371,16 +1195,47 @@ Overfull \hbox (5.80103pt too wide) in paragraph at lines 3--14
 [][]
  []
 
-)
+[15])
 :<-
-[10] [11] [12]
+[16] [17] [18]
 Package srcltx Info: Expanded filename `FiguresnTables/Elevationtrends' to `Fig
-uresnTables/Elevationtrends.tex' on input line 88.
+uresnTables/Elevationtrends.tex' on input line 69.
 
 :<+ FiguresnTables/Elevationtrends.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/Elevationtrends.tex)
 :<-
-[13] [14] [15]) [16] [17]
+[19]
+
+Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 7
+9.
+
+
+Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 8
+2.
+
+[20]
+
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 8
+6.
+
+
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 8
+8.
+
+
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 8
+8.
+
+
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 9
+0.
+
+[21]
+
+Package natbib Warning: Citation `cai2012' on page 22 undefined on input line 9
+2.
+
+) [22]
 :<-
 :<+ chapters/chapter-3.tex
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.tex
@@ -1390,7 +1245,7 @@ Chapter 3.
 pdfTeX warning: pdflatex.EXE (file D:/GitHub/GHThesis/LaTexThesis/figures/pdf/S
 ulfateEmissions.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
 on <1.5> allowed
-<figures/pdf/SulfateEmissions.pdf, id=625, 794.97pt x 614.295pt>
+<figures/pdf/SulfateEmissions.pdf, id=695, 794.97pt x 614.295pt>
 File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
 
 <use figures/pdf/SulfateEmissions.pdf>
@@ -1401,12 +1256,12 @@ Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 12
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18
+[23
 
 
 
 
-] [19 <D:/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateEmissions.pdf>]
+] [24 <D:/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateEmissions.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
 bles/Bontable.tex' on input line 36.
 
@@ -1418,7 +1273,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
 )
 :<-
-[20] [21]) [22] [23]
+[25] [26]) [27] [28]
 :<-
 :<+ chapters/chapter-4.tex
 (D:\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
@@ -1458,39 +1313,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 )
 :<-
-[24
+[29
 
 
 
 
-] [25]
+] [30]
 Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
 snTables/aprioritable.tex' on input line 69.
 
 :<+ FiguresnTables/aprioritable.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritable.tex)
 :<-
-[26]
+[31]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 75.
 
-[27]
+[32]
 Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
 snTables/sytaapeighty.tex' on input line 81.
 
 :<+ FiguresnTables/sytaapeighty.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeighty.tex)
 :<-
-[28]
+[33]
 Package srcltx Info: Expanded filename `FiguresnTables/powergraphtable' to `Fig
 uresnTables/powergraphtable.tex' on input line 120.
 
 :<+ FiguresnTables/powergraphtable.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/powergraphtable.tex)
 :<-
-[29]
+[34]
 Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
 uresnTables/currentyrsto.80.tex' on input line 126.
 
@@ -1522,7 +1377,7 @@ Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--16
 
 )
 :<-
-[30]
+[35]
 Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
 nTables/WQapsenario.tex' on input line 136.
 
@@ -1534,27 +1389,27 @@ nTables/TVapsenario.tex' on input line 137.
 :<+ FiguresnTables/TVapsenario.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario.tex)
 :<-
-[31] [32] [33]) [34] [35]
+[36] [37] [38]) [39] [40]
 :<-
 :<+ TimPobst-thesis.bbl
 (D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
 (D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.brf)
 \tf@brf=\write9
- [36
+ [41
 
 
 
-] [37
+] [42
 
 ]
-Underfull \hbox (badness 1087) in paragraph at lines 66--66
+Underfull \hbox (badness 1087) in paragraph at lines 90--90
 \OT1/cmr/m/n/12 mod-el-ing of at-mo-spheric de-po-si-tion in moun-tain-ous land
 -scapes.  \OT1/cmr/m/it/12 Eco-log-i-cal
  []
 
 )
 :<-
-[38] [39]
+[43] [44]
 :<+ back-matter/appendix-1.tex
 (D:\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
 Appendix A.
@@ -1612,11 +1467,11 @@ Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
 
 )
 :<-
-[40
+[45
 
 
 
-] [41] [42]
+] [46] [47]
 Appendix B.
 Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
 guresnTables/DescriptiveStats.tex' on input line 12.
@@ -1661,16 +1516,16 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 :<-
-[43
+[48
 
-] [44]
+] [49]
 Appendix C.
 Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
 ables/variables.tex' on input line 16.
 :<+ FiguresnTables/variables.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.tex)
 :<-
-[45
+[50
 
 ]
 Appendix D.
@@ -1744,11 +1599,11 @@ LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
 
 )
 :<-
-[46
+[51
 
-] [47] [48]
+] [52] [53]
 Appendix E.
-[49
+[54
 
 ]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
@@ -1787,7 +1642,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--33
 
  []
 
-[50]
+[55]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
 snTables/ANOVANitrate.tex' on input line 35.
 
@@ -1809,7 +1664,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-[51]
+[56]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
 snTables/ANOVASulfate.tex' on input line 38.
 
@@ -1831,7 +1686,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--39
 
  []
 
-[52] [53]
+[57] [58]
 Appendix F.
 Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
 ables/SWposthoc.tex' on input line 43.
@@ -2003,9 +1858,9 @@ Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
 
 )
 :<-
-[54
+[59
 
-] [55] [56]
+] [60] [61]
 Appendix G.
 Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
 snTables/pHPowerGraph.tex' on input line 53.
@@ -2027,12 +1882,12 @@ snTables/TVpowergraph.tex' on input line 59.
 :<+ FiguresnTables/TVpowergraph.tex
 (D:\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergraph.tex)
 :<-
-) [57
+) [62
 
-] [58] [59] [60] [61]
+] [63] [64] [65] [66]
 :<-
 :<+ back-matter/vita.tex
-(D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex) [62
+(D:\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex) [67
 
 
 
@@ -2041,6 +1896,9 @@ snTables/TVpowergraph.tex' on input line 59.
 
 ]
 :<-
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
 (D:\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
@@ -2056,9 +1914,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 408BD95A158E5A085B3661E1FFC797F0;3681.
+(rerunfilecheck)             Checksum: F82CF7D23CBC648F16D8B9A445EB5369;4111.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 736E234680464B0477075FE637578B7B;2338.
+(rerunfilecheck)             Checksum: 3EDEF521547F069A40355EF089B416EF;2241.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2066,13 +1924,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 25986 strings out of 493921
- 561728 string characters out of 3154506
- 806626 words of memory out of 3000000
- 28403 multiletter control sequences out of 15000+200000
+ 26049 strings out of 493921
+ 562935 string characters out of 3154506
+ 807388 words of memory out of 3000000
+ 28442 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 64i,19n,100p,2211b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,19n,100p,1628b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx8.pf
 b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts/type1/p
@@ -2084,9 +1942,9 @@ c/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/M
 ikTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTeX/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/M
 ikTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (74 pages, 639502 bytes).
+Output written on TimPobst-thesis.pdf (79 pages, 835208 bytes).
 PDF statistics:
- 1063 PDF objects out of 1200 (max. 8388607)
- 228 named destinations out of 1000 (max. 500000)
- 495 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1139 PDF objects out of 1200 (max. 8388607)
+ 245 named destinations out of 1000 (max. 500000)
+ 548 words of extra memory for PDF output out of 10000 (max. 10000000)
 
