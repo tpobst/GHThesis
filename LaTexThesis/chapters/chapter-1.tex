@@ -66,9 +66,13 @@ If the two most important location classifications for the survey data is site I
 Elevation was found to be a dominant driver for predicting water quality among the park’s stream.  
 Overall, results from the Biotics Effects report found that stream pH and ANC decreased at -.32 units and -35.73 μeq L-1 respectively, per 1,000-ft elevation gain \citep{cai2013}. 
 This difference in pH due to elevation occurs because of many factors including occult deposition which effects the higher elevations greater.
-When studying pH in the GRSM elevation bands are used to characterize elevation.
-Historically sites were divided into eleven elevation bands of arbitrary 500 ft intervals.
-The resulting distribution of sites are bottom heavy.
+Because pH decreases with an increase of elevation, elevation bands are used to characterize elevation.
+Conductivity, chloride, and base cations were also found to significantly decrease with elevation gain.  
+Sulfate showed no significant trend with elevation, however nitrate was found to significantly increase with elevation gain.  
+The GRSM 2011 Annual Water Quality Report compared pH trend lines representing the current 43 sites from 1993-2010 with 2011.  
+The data showed lines of similar slopes with different intercepts, which was interpreted to mean increasing pH at all elevations in GRSM streams.  
+Acid deposition increases with elevation in the GRSM and the higher elevation streams would experience increased sulfate, and prolonged acidification if soil desorption becomes a dominant geochemical watershed process which could occur if pH increased to 6.0 and sulfate dropped below 50 μeq L-1 \citep{annualreport2012}.  
+From a management perspective, the Biotic Effects Report contains limitations in the analyses to assess long-term changes because locations sampled have changed over time and most current sample locations are at lower elevations.
 
 \input{FiguresnTables/Odomtable}
 
@@ -101,8 +105,8 @@ A cluster analysis was explored for the task but it was not successful, there wa
 \autoref{tab:ElevationBands} contains all the sites of the 43 site survey not removed as outliers, so the 36 sites analyzed in this paper.
 Each of the following statistical analyses will use these elevation bands to classify elevation for the stream survey data.
 
-\section{Literature review}
-% edit below for flow
+\section{Time sets}
+
 Time trends are a common way to asses the health of the streams in the GRSM.
 The analysis can be used for the current quality of the streams in the survey along with trends to determine where the quality is headed. 
 Recently, trend analyses were conducted on the stream survey data in 2002 and published in \citet{robinson2008ph} and then again in 2009 for the Biotics Effects report \citep{cai2012}.
@@ -110,33 +114,34 @@ And even though these paper analyzed similar years (Robinson:1993-2002, Cai: 199
 Of the ten elevation bands analyzed in \citet{robinson2008ph} six had negative Julian date coefficients and the other four had no trend.
 And the conclusion was reached that the pH is headed towards harmful and lethal conditions for aquatic life. 
 In \citet{cai2012} of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and 2 showed a decrease. 
-%time sets
+
 The opposite trends reported in  \citet{robinson2008ph} and \citet{cai2012} suggest an inflection point in the trend line somewhere between 2002 and 2009. 
 For this reason, and for easier comparison of results,  a separate data set will be partitioned off from 1993 to 2002 to equal the years analyzed in \citet{robinson2008ph}.  
 A third data set will be partitioned after the year 2008 because this is the year that the Kingston and Bull run power plants installed scrubbers onto their smoke stack exhaust. 
 The hypothesis being the SO$_4^{2-}$ concentrations will be noticeably different, and this difference could indicate a need for further study. 
 These three time sets will be analyzed separately (1993-2002, 2003-2008, 2009-2012).
 
-\section{Data smoothing}
+\section{Data smoothing}%put seasonality back into trend analysis
+Water quality data is rarely perfectly formated for statistical analysis.
+It is usually  non-parametric and can contain recording errors and other influential values \citep{helsel1992statistical}.
+Four water quality variables will be used as dependents through out this paper: pH, ANC, NO$_3$, SO$_4$.
+Each of these dependents are important for studying acid deposition: pH and ANC directly relate the health of the streams, NO$_3$ and SO$_4$ are the man-made pollutants thought to be causing increased acid deposition.
+Before these variables can be used as dependents they need to be analyzed for distribution, outliers, cycles, missing values, and serial correlation\citep{helsel1992statistical}.
+All of the dependent vectors had outliers, most of these were found as a part of the step-wise regression process which highlights influential data for further analysis.
 
-All of the statistical analysis was completed in statistical software. 
-Initial data smoothing and influential data points were found using JMP 9. 
+The whole data smoothing process will not be shown here but pH will be shown as an example.
+A figure of pH vs. month clearly shows seasonality which is important to address for trend analysis \citep{helsel1992statistical}.
 
 \begin{figure}[h!]
 \centering
-  \includegraphics[width=6in]{pHdata}\\
-  \caption{pH plotted vs. Elevation.  With and without outliers.}\label{fig:pHdata}
+	\includegraphics[width=6in]{pHdata}\\
+	\caption{pH plotted vs. Elevation. With and without outliers.}
+	\label{fig:pHdata}
 \end{figure}
 
-Several plots were created in order to reduce the variance of the data before any statistical analysis was attempted. 
-JMP was chosen for this task based on its ease of use in plotting data. 
-A plot of pH vs. time visually represents the existence of a positive trend in the pH data from 1993 to 2012.
-\autoref{fig:pHdata} shows the pH vs. elevation plot. 
-It shows two trend lines, one which represents the trend of all of the data points and the other represents the trend after the influential points are removed. 
+\autoref{fig:pHdata} shows the pH vs. elevation plot , which shows some outliers but also a negative trend in pH as elevation increases.
+This graph contains two trend lines, one which represents the trend of all of the data points and the other represents the trend after the influential points are removed. 
 Both of the trends are negative as elevation increases but the trend line containing the influential points is steeper. 
-pH was plotted against the month that the sample was collected to check for seasonality. 
-Seasonality was expected and found for pH over one year. 
-The variance caused by seasonality will be removed with sine and cosine functions.
 
 Much of the variance in \autoref{fig:pHdata} can be attributed to known influences in the stream survey data: Abrams creek watershed, sites that are affected by anakeesta geology, and stormflow \citep{neff2012influence}.  
 Comparatively Abrams is a low elevation, low slope area where the underlying geology is Cades Sandstone, which buffers against acid rain very well. 
@@ -154,7 +159,7 @@ Increasing the H$^+$ concentration will lower the pH, and Al is toxic to biotics
 Healthy streams can rebound to normal pH values; unhealthy streams can have permanently lowered ANC due to leaching.  
 Measurements taken from stormflow can show uncharacteristically low pH values and high amounts of metals from leaching. 
 In this way, stormflow is sometimes considered an influential group on the rest of the data, because the measurements are significantly different from the average. 
-Dr. Cai characterized all of the available water quality data between 1993 and 2010 as storm flow or baseflow; this work is summarized in \citet{cai2012}. 
+Dr. Cai characterized all of the available water quality data between 1993 and 2010 as storm flow or baseflow; this work is summarized in \citet{cai2013}. 
 Water quality data after 2010 had not been characterized. 
 If all stormflow observations are to be kept in the data, the years 2011 and 2012 would need to be characterized. 
 Quick analyses were run to see how influential stormflow was on the data as a whole, and it turned out that some were and many were not. 
@@ -164,90 +169,43 @@ They can be removed on a case by case basis during the regression method.
 \section{objectives}
 Objectives of this study were to:
 \begin{itemize}
-\item  characterize time trends in stream pH and acidic anions among elevation ranges in order to assess whether conditions are improving or degrading, and 
-\item characterize sampling variance based on available water quality data, within the context of time and elevation, to support development of the GRSM’s Vital Signs Monitoring Program.  In addition to supporting this Program, a cost analysis of selected water quality sampling schemes will be summarized.  The format of this thesis will follow these two objectives.  
+\item  characterize time trends in stream pH and acidic anions among elevation ranges in order to assess whether conditions are improving or degrading, and to
+\item characterize sampling variance based on available water quality data, within the context of time and elevation, to support development of the GRSM’s Vital Signs Monitoring Program.  The format of this thesis will follow these two objectives.  
 \end{itemize}
 \begin{itemize}
 \item Has stream pH and acid anion concentrations changed among three time periods (1993-2002, 2003-2008, and 2009-2012), and among six elevation ranges (1000-2000ft, 2000-2500ft, 2500-3000ft, 3000-3500ft,3500-4500ft, 4500<)?
 \begin{itemize}
- \item ANOVA
 \item Time trends
+ \item Means Comparisons
 \end{itemize}
-\item What is the statistical power for water quality parameters based on frequency and elevational location based on historic data?
+\item What is the statistical power for water quality parameters based on frequency and elevational location?
 \begin{itemize}
 \item Post Hoc Analysis
 \item A Priori Analysis
 \end{itemize}
 \end{itemize}
-The thesis is organized into two separate chapters following the two above research questions. Each chapter will follow the technical format of introduction, methods, results, and discussion. 
+The thesis is organized into three separate chapters following the two above research questions. Each chapter will follow the technical format of introduction, methods, results, and discussion. 
 
-
-
-
-
-
-
-%Noland Divide
-An aspect of this program is a high elevation site, Noland Divide Watershed.  
-NDW is a small, 17.4 ha, watershed about 2 km east of Clingmans Dome, which is the second highest peak in the eastern US.  
-NDW contains sites to measure wet and dry deposition as well as "grab" samples to study in the lab.  
-This site is a continuation of the Integrated Forest Study (IFS) and was taken over by the park in 1991.  
-
-
-
-
-
-
-
-Information leading to a better understanding of water quality conditions per watershed characteristics aids GRSM resource staff in managing the Park’s natural resources.  
+%Increases in sulfate or nitrate in runoff and streams through acid deposition can cause an increase leaching of base cations, hydrogen ion, aluminum, and decreased ANC (Sullivan, 2004).  
+%Leached aluminum can end up in streams and is toxic to fish (Driscoll 2003).  
+%Rainfall and fog in the GRSM affect elevations above 4000 feet first higher elevations have steeper slopes which correlate to both thinner soils and base poor geology.  
+%All these factors contribute to lower pH in higher elevations.  
 
 %geology
-Other than chemistry the acidity of the park streams can be affected by geographical attributes such as geology and elevation. 
-Stream acidification is more pronounced in higher elevation watersheds with underlying base-poor geology 
+%Stream acidification is more pronounced in higher elevation watersheds with underlying base-poor geology 
 %(Herligy et al. 1991, Hyer et al. 1995; Wigington et al. 1996a,b).  
 
-%elevation and pH 
-The acidification patterns along an elevational gradient occur throughout the Appalachian region similar to the data collected in the GRSM streams.  
-
-This figure shows all pH data from 1993 to 2012 vs. Elevation (m).  
-The red trend line includes abrams,  sites 237 and 252.  
-These outliers are removed for the blue trend line.
-
-Figure 1 is a graph of all measured pH values for Stream Survey between the years of 1993 and 2012 graphed against the elevations they were collected.  
-Two notable figures are here, one that contains all pH data from 1993 to 2012 and another that has removed the outliers Abrams stream system along with sites 252 and 237.  
-The steeper sloped line represents the data set that still contains Abrams, sites 237, and 252.  
-This graph clearly illustrates pH trending downwards as elevation increases.  
-Increases in sulfate or nitrate in runoff and streams through acid deposition can cause an increase leaching of base cations, hydrogen ion, aluminum, and decreased ANC (Sullivan, 2004).  Leached aluminum can end up in streams and is toxic to fish (Driscoll 2003).  
-Rainfall and fog in the GRSM affect elevations above 4000 feet first higher elevations have steeper slopes which correlate to both thinner soils and base poor geology.  
-All these factors contribute to lower pH in higher elevations.  
-
-%other basin factors
-Neff et al. (2013) observed this trend, but found other basin factors correlate to chronic and episodic acidification.  
-Other basins factors include drainage area size, vegetation, and soil properties, which factors all are change within an elevational gradient.  
-
-%elevation/biotics effects report
-In support of GRSM natural resource management, stream water quality has been monitored since 1993, and this long-term dataset was recently statistically analyzed and commonly referred to as the “Biotic Effects Report” (Cai et al. 2013).  
-
-
-%other water quality variables
-Conductivity, chloride, and base cations were also found to significantly decrease with elevation gain.  
-Sulfate showed no significant trend with elevation, however nitrate was found to significantly increase with elevation gain.  
-The GRSM 2011 Annual Water Quality Report compared pH trend lines representing the current 43 sites from 1993-2010 with 2011.  
-The data showed lines of similar slopes with different intercepts, which was interpreted to mean increasing pH at all elevations in GRSM streams.  
-Acid deposition increases with elevation in the GRSM and the higher elevation streams would experience increased sulfate, and prolonged acidification if soil desorption becomes a dominant geochemical watershed process which could occur if pH increased to 6.0 and sulfate dropped below 50 μeq L-1.  
-From a management perspective, the Biotic Effects Report contains limitations in the analyses to assess long-term changes because locations sampled have changed over time and most current sample locations are at lower elevations.
-
-%
-Table 1 shows the current historical elevation classes with the number of sites they include and the percent of sites in each band.  
-Although there were limitations, the biotic effects report provided essential information on how to improve future water quality and biological monitoring programs.
+%episodic acidification
+%Neff et al. (2013) observed this trend, but found other basin factors correlate to chronic and episodic acidification.  
+%Other basins factors include drainage area size, vegetation, and soil properties, which factors all are change within an elevational gradient.  
 
 %vital signs
-The National Park Service is currently developing a Vital Sign Monitoring Program for a number of national parks around the country, which includes the GRSM (Annual Administrative Report For Inventories and Vital Signs Monitoring FY 2010).  
-The goal of the GRSM Vital Sign Monitoring Program is to assess long-term changes in ecosystem health, including both terrestrial and aquatic environments. 
-In addition, the program will integrate these environments and and include existing data on basin factors associated with water quality.   
+%The National Park Service is currently developing a Vital Sign Monitoring Program for a number of national parks around the country, which includes the GRSM (Annual Administrative Report For Inventories and Vital Signs Monitoring FY 2010).  
+%The goal of the GRSM Vital Sign Monitoring Program is to assess long-term changes in ecosystem health, including both terrestrial and aquatic environments. 
+%In addition, the program will integrate these environments and and include existing data on basin factors associated with water quality.   
 
 %data
-Although it is widely recognized that elevational gradient is important, a question about what elevation ranges are changing versus those that are not needs to be quantified in order to design an effective sampling program.  
-In addition, data must be collected at a set frequency to provide sufficient statistical power to make valid interpretations of change over time. 
+%Although it is widely recognized that elevational gradient is important, a question about what elevation ranges are changing versus those that are not needs to be quantified in order to design an effective sampling program.  
+%In addition, data must be collected at a set frequency to provide sufficient statistical power to make valid interpretations of change over time. 
 
  
