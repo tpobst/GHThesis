@@ -20,7 +20,7 @@ Once the pollutants have entered the environment they react with hydroxide, oxyg
 This begins to acidify the surface waters which can harm any life forms that interact with it, including the soils as well as streams.
 The rate of stream acidification can be slowed by the alkalinity of the water which is measured by ANC (acid neutralizing capacity) and is related to the amount of bases present in the water.
 The higher the concentrations of bases the better the ANC is, but acid deposition can deplete the bases through leaching which lowers the ANC.
-Low ANC can cause a stream to rapidly acidify during snow melt or storms.
+And low ANC can cause a stream to rapidly acidify during snow melt or storms.
 
 Acidification of bodies of water can be either chronic or episodic. 
 Chronic acidification occurs when the body of water has constant low ANC; which creates a large area of  nearly un-inhabitable water where aquatic life would struggle to survive. 
@@ -63,32 +63,33 @@ He inherited it from Dr. Robinson of the same department, who inherited it from 
 A difference in analysis and formating methods between the two departments is obvious in the data.
 There are many more outliers present in the data curated by the Forestry Department which makes smoothing and statistically analyzing that half of the data harder.
 In 2003 the survey was improved by carefully decreasing the number of  sites from 90 to the current 43 \citep{odom2003}.
-The inconsistency of the stream suvey data can create problems during statistical analysis.
-Another inconsistency is the baseflow/stormflow classification which ends in 2010, while data up to 2012 will be analyzed here.
-The baseflow/stormflow classification is useful when preparing the data for statistical analysis because most observations are collected during baseflow and are \textit{normal} while the stormflow observations have high outlying metal concentrations and pH values.
+The discontinuation of sites over the years has created an non-uniform database.
+The inconsistency of the stream survey data can create problems during statistical analysis.
+Along with different sites for different years the baseflow/stormflow classification is also inconsistent which starts in 1993 and ends in 2010, while data up to 2012 will be analyzed here.
 
 \subsection{Elevation Bands}
 
-Besides stream sysytem the most important site location characteristic is elevation.
+Besides which stream sysytema site belongs to the most important site location characteristic is elevation.
 Elevation was found to be a dominant driver for predicting water quality among the park's streams. %This sentence might not belong here 
+Many of the water quality variables can be characterized by elevation: pH, ANC, NO$_3^-$, SO$_4^{2-}$, the base cations.
 Overall, results from the Biotics Effects report found that stream pH and ANC decreased at -.32 units and -35.73 μeq L-1 respectively, per 1,000-ft elevation gain \citep{cai2013}. 
-This difference in pH due to elevation occurs because of many factors including occult deposition which effects the higher elevations greater.
-Because pH decreases with an increase of elevation, elevation bands are used to characterize elevation.
+Many factors affect the pH of mountain streams but clouds affect higher elevations a greater amount.
+And because pH decreases with an increase of elevation, elevation bands are used to characterize elevation.
 Conductivity, chloride, and base cations were also found to significantly decrease with elevation gain.  
 Sulfate showed no significant trend with elevation, however nitrate was found to significantly increase with elevation gain.  
 The GRSM 2011 Annual Water Quality Report compared pH trend lines representing the current 43 sites from 1993-2010 with 2011.  
 The data showed lines of similar slopes with different intercepts, which was interpreted to mean increasing pH at all elevations in GRSM streams.  
 Acid deposition increases with elevation in the GRSM and the higher elevation streams would experience increased sulfate, and prolonged acidification if soil desorption becomes a dominant geochemical watershed process which could occur if pH increased to 6.0 and sulfate dropped below 50 μeq L-1 \citep{annualreport2012}.  
-From a management perspective, the Biotic Effects Report contains limitations in the analyses to assess long-term changes because locations sampled have changed over time and most current sample locations are at lower elevations.
+From a management perspective, the Biotic Effects Report contains limitations in the analyses to assess long-term changes because locations sampled have changed over time and most of the current sample locations are at lower elevations.
 
 \input{FiguresnTables/Odomtable}
 
 \input{FiguresnTables/Historic43elevbands}
 
 \autoref{tab:Odomtable} represents the concerns of Kenith Odom presented as table 38 in \citet{odom2003}.
-This dissertation remodeled the survey from 90 sites to 43 and this table was used to suggest more high elevation sites.
+His dissertation suggested a remodel of the survey from 90 sites to 43 and this table was used to suggest more high elevation sites.
 The survey was reduced from 90 sites down to 43 but the elevational distribution was not fixed.
-\autoref{tab:43sitesurvey} shows the percentage of sites per elevation bands for the 43 site survey just as \autoref{tab:Odomtable} does for the 90 site survey.
+For comparison \autoref{tab:43sitesurvey} shows the percentage of sites per elevation bands for the 43 site survey just as \autoref{tab:Odomtable} does for the 90 site survey.
 There is not much difference between the percentages.
 
 \begin{figure}[h!]
@@ -99,28 +100,29 @@ There is not much difference between the percentages.
 
 For overall acidification of the GRSM, the high elevation bands could be the most important in the survey but they have the least amount of representation.
 As can be seen in \autoref{fig:depositionheat}, which is a model, the highest deposition of sulfur and nitrogen is at the highest elevations.
-Sites in these areas continue to receive low pH values in samples.
-The tenth elevation class according to \autoref{tab:43sitesurvey} has only one site in it.
-That whole elevation band is represented by only one spot in the GRSM and that is not very strong.
+Sites in these areas continue to receive low pH values in samples and representation at these elevations is important.
+Unfortunately the tenth elevation class, according to \autoref{tab:43sitesurvey}, has only one site in it and one site cannot represent a whole elevation band.
 
-Without adding sites, the easiest way to fix this is to reorganize the elevation bands. 
-For this paper the elevation bands were redesigned to try and strengthen the higher elevations.
+Without adding sites, the easiest way to fix this poor distribution is to reorganize the elevation bands. 
+For this paper the elevation bands were rethought to try and strengthen the higher elevations.
 A cluster analysis was explored for the task but it was not successful, there was to much variation to cluster by elevation only.
+Therefore the elevation boundaries which divided the bands were moved to include more or less sites.
 
 \input{FiguresnTables/elevationbands}
 
-\autoref{tab:ElevationBands} contains all the sites of the 43 site survey not removed as outliers, so the 36 sites analyzed in this paper.
-Each of the following statistical analyses will use these elevation bands to classify elevation for the stream survey data.
+\autoref{tab:ElevationBands} contains all the sites of the 43 site survey that were not removed as influential, 36 sites are included in this table.
+Each of the statistical analyses in this paper will use these elevation bands to classify elevation for the stream survey data.
 
 \section{Time sets}
 
 Time trends are a common way to asses the health of the streams in the GRSM.
+Instead of representing a single point in in time like each grab sample, the trend analysis represents a site over time.
 The analysis can be used for the current quality of the streams in the survey along with trends to determine where the quality is headed. 
 Recently, trend analyses were conducted on the stream survey data in 2002 and published in \citet{robinson2008ph} and then again in 2009 for the Biotics Effects report \citep{cai2013}.
-And even though these paper analyzed similar years (Robinson:1993-2002, Cai: 1993-2009), the results of these analyses are in disagreement.
+And even though these papers analyzed similar years (Robinson:1993-2002, Cai: 1993-2009), the results of these analyses are in disagreement.
 Of the ten elevation bands analyzed in \citet{robinson2008ph} six had negative Julian date coefficients and the other four had no trend.
 And the conclusion was reached that the pH is headed towards harmful and lethal conditions for aquatic life. 
-In \citet{cai2013}, of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and 2 showed a decrease. 
+In \citet{cai2013}, of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and only 2 showed a decrease. 
 
 The opposite trends reported in  \citet{robinson2008ph} and \citet{cai2013} suggest an inflection point in the trend line somewhere between 2002 and 2009. 
 For this reason, and for easier comparison of results,  a separate data set will be partitioned off from 1993 to 2002 to equal the years analyzed in \citet{robinson2008ph}.  
@@ -129,15 +131,13 @@ The hypothesis being the SO$_4^{2-}$ concentrations will be noticeably different
 These three time sets will be analyzed separately (1993-2002, 2003-2008, 2009-2012).
 
 \section{Data smoothing}%put seasonality back into trend analysis
+
 Water quality data is rarely perfectly formated for statistical analysis.
 It is usually  non-parametric and can contain recording errors and other influential values \citep{helsel1992statistical}.
 Four water quality variables will be used as dependents through out this paper: pH, ANC, NO$_3^-$, SO$_4^{2-}$.
 Each of these dependents are important for studying acid deposition: pH and ANC directly relate the health of the streams, NO$_3^-$ and SO$_4^{2-}$ are the man-made pollutants thought to be causing increased acid deposition.
 Before these variables can be used as dependents they need to be analyzed for distribution, outliers, cycles, missing values, and serial correlation\citep{helsel1992statistical}.
 All of the dependent vectors had outliers, most of these were found as a part of the step-wise regression process which highlights influential data for further analysis.
-
-The whole data smoothing process will not be shown here but pH will be shown as an example.
-A figure of pH vs. month clearly shows seasonality which is important to address for trend analysis \citep{helsel1992statistical}.
 
 \begin{figure}[h!]
 \centering
@@ -146,29 +146,33 @@ A figure of pH vs. month clearly shows seasonality which is important to address
 	\label{fig:pHdata}
 \end{figure}
 
+The entire data smoothing process will not be shown here but pH will be shown as an example.
+A figure of pH vs. month clearly shows seasonality which is important to address for trend analysis \citep{helsel1992statistical}.
 \autoref{fig:pHdata} shows the pH vs. elevation plot , which shows some outliers but also a negative trend in pH as elevation increases.
 This graph contains two trend lines, one which represents the trend of all of the data points and the other represents the trend after the influential points are removed. 
 Both of the trends are negative as elevation increases but the trend line containing the influential points is steeper. 
 
 Much of the variance in \autoref{fig:pHdata} can be attributed to known influences in the stream survey data: Abrams creek watershed, sites that are affected by anakeesta geology, and stormflow \citep{neff2012influence}.  
+The anakeesta formation contains sulfidic slate ,which can have the same negative effect of acid deposition,  and keeps the pH values of streams very low.
+Site numbers 237 and 252 are sites which are down hill of road cuts that have exposed the underlying anakeesta formation to runoff.  
 Comparatively Abrams is a low elevation, low slope area where the underlying geology is Cades Sandstone, which buffers against acid rain very well. 
 This sandstone contributes to high ANC values which in turn keep the mean pH levels higher than the rest of the sites in the survey. 
-Site numbers 237 and 252 are sites which are down hill of road cuts that have exposed the underlying anakeesta formation to runoff.  
-The anakeesta formation contains sulfidic slate ,which can have the same negative effect of acid deposition,  and keeps the pH values of streams very low.
 
 Stormflow is both influential and detrimental  to GRSM water quality. 
-Storms can bring high intensity rain fall which can very quickly reduce the pH and ANC of streams. 
-In streams with low ANC and pH, episodic stream acidification can be harmful to aquatic life \citep{neff2009physiological}.  
-Stormflow runoff can have a higher contribution to stream acidification than baseflow because it transports protons left in the upper layers of the soil by acid deposition. 
-Stream acidification caused by stormflow can cause base cation exchange through the leaching of the surrounding soil. 
-When the inherent base cation minerals run out, excess H$^+$ and Al will be released into the water. 
-Increasing the H$^+$ concentration will lower the pH, and Al is toxic to biotics. 
-Healthy streams can rebound to normal pH values; unhealthy streams can have permanently lowered ANC due to leaching.  
-Measurements taken from stormflow can show uncharacteristically low pH values and high amounts of metals from leaching. 
+Storms can bring high intensity rain fall which can very quickly reduce the pH and ANC of streams by quickly added high amounts of pollutants. 
+Which in streams with already low ANC and pH can be harmful to aquatic life, this is called acidification. \citep{neff2009physiological}.  
+Storms can have a higher contribution to stream acidification than baseflow because it transports, through runoff, protons left in the upper layers of the soil by acid deposition. 
+Stream acidification can increase base cation exchange through the leaching of the surrounding soil. 
+This occurs when the inherent base cation minerals react and run out and then excess H$^+$ and Al are be released into the water. 
+The increase of H$^+$ concentration will lower the pH, and Al can be toxic to life.
+And because ANC is the difference between strong base cations and strong acid anions, lowering the base cations will lower the ANC making the stream more susceptible to greater stream acidification.
+
+Healthy streams have good ANC values and can rebound to normal pH values; unhealthy streams can have permanently lowered ANC due to leaching.  
+Along with measured ANC, measurements taken from stormflow can show uncharacteristically low pH values and high amounts of metals from leaching. 
 In this way, stormflow is sometimes considered an influential group on the rest of the data, because the measurements are significantly different from the average. 
 Dr. Cai characterized all of the available water quality data between 1993 and 2010 as storm flow or baseflow; this work is summarized in \citet{cai2013}. 
-Water quality data after 2010 had not been characterized. 
-If all stormflow observations are to be kept in the data, the years 2011 and 2012 would need to be characterized. 
+Unfortunately the data analyzed for this paper goes through the year 2012 and water quality data after 2010 is not characterized for baselow/stormflow. 
+If all stormflow observations are to be considered influential, the years 2011 and 2012 would need to be characterized. 
 Quick analyses were run to see how influential stormflow was on the data as a whole, and it turned out that some were and many were not. 
 Instead of throwing out all of the stormflow observations at once, single influential observations could be explained by stormflow and removed. 
 They can be removed on a case by case basis during the regression method.

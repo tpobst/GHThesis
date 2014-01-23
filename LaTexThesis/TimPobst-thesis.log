@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  21 JAN 2014 22:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  23 JAN 2014 15:21
 entering extended mode
 **C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -1146,14 +1146,15 @@ Package pdftex.def Info: figures/pdf/SSsites.pdf used on input line 49.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SSsites
-.pdf>]
+[3]
 Missing character: There is no Î in font cmr12!
 Missing character: There is no ¼ in font cmr12!
 Missing character: There is no Î in font cmr12!
 Missing character: There is no ¼ in font cmr12!
+ [4 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SSsites.pd
+f>]
 Package srcltx Info: Expanded filename `FiguresnTables/Odomtable' to `FiguresnT
-ables/Odomtable.tex' on input line 84.
+ables/Odomtable.tex' on input line 85.
 
 :<+ FiguresnTables/Odomtable.tex
 
@@ -1176,7 +1177,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
 )
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/Historic43elevbands' to 
-`FiguresnTables/Historic43elevbands.tex' on input line 86.
+`FiguresnTables/Historic43elevbands.tex' on input line 87.
 :<+ FiguresnTables/Historic43elevbands.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Historic43e
@@ -1187,23 +1188,23 @@ levbands.tex)
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/DepositionHeat.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<figures/pdf/DepositionHeat.pdf, id=527, 794.97pt x 614.295pt>
+<figures/pdf/DepositionHeat.pdf, id=526, 794.97pt x 614.295pt>
 File: figures/pdf/DepositionHeat.pdf Graphic file (type pdf)
 
 <use figures/pdf/DepositionHeat.pdf>
-Package pdftex.def Info: figures/pdf/DepositionHeat.pdf used on input line 96.
+Package pdftex.def Info: figures/pdf/DepositionHeat.pdf used on input line 97.
 (pdftex.def)             Requested size: 433.62pt x 335.07939pt.
  [5] [6] [7 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/De
 positionHeat.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/elevationbands' to `Figu
-resnTables/elevationbands.tex' on input line 110.
+resnTables/elevationbands.tex' on input line 111.
 
 :<+ FiguresnTables/elevationbands.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationba
 nds.tex)
 :<-
-[8] <figures/pdf/pHdata.pdf, id=578, 794.97pt x 614.295pt>
+[8] <figures/pdf/pHdata.pdf, id=575, 794.97pt x 614.295pt>
 File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 
 <use figures/pdf/pHdata.pdf>
@@ -1218,12 +1219,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-) [12]
+) [12] [13]
 :<-
 :<+ chapters/chapter-2.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.tex
 Chapter 2.
-[13
+[14
 
 
 
@@ -1273,9 +1274,9 @@ Overfull \hbox (5.80103pt too wide) in paragraph at lines 3--14
 [][]
  []
 
-[14])
+[15])
 :<-
-[15] [16] [17]
+[16] [17] [18]
 Package srcltx Info: Expanded filename `FiguresnTables/Elevationtrends' to `Fig
 uresnTables/Elevationtrends.tex' on input line 69.
 
@@ -1284,38 +1285,38 @@ uresnTables/Elevationtrends.tex' on input line 69.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Elevationtr
 ends.tex)
 :<-
-[18]
+[19]
 
-Package natbib Warning: Citation `cai2012' on page 19 undefined on input line 7
+Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 7
 9.
 
 
-Package natbib Warning: Citation `cai2012' on page 19 undefined on input line 8
+Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 8
 2.
-
-[19]
-
-Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 8
-6.
-
-
-Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 8
-8.
-
-
-Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 8
-8.
-
-
-Package natbib Warning: Citation `cai2012' on page 20 undefined on input line 9
-0.
 
 [20]
 
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 8
+6.
+
+
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 8
+8.
+
+
+Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 8
+8.
+
+
 Package natbib Warning: Citation `cai2012' on page 21 undefined on input line 9
+0.
+
+[21]
+
+Package natbib Warning: Citation `cai2012' on page 22 undefined on input line 9
 2.
 
-) [21]
+) [22]
 :<-
 :<+ chapters/chapter-3.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.tex
@@ -1325,7 +1326,7 @@ Chapter 3.
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/SulfateEmissions.pdf): PDF inclusion: found PDF version <1.
 7>, but at most version <1.5> allowed
-<figures/pdf/SulfateEmissions.pdf, id=717, 794.97pt x 614.295pt>
+<figures/pdf/SulfateEmissions.pdf, id=721, 794.97pt x 614.295pt>
 File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
 
 <use figures/pdf/SulfateEmissions.pdf>
@@ -1336,12 +1337,12 @@ Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 18
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22
+[23
 
 
 
 
-] [23 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
+] [24 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
 missions.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
 bles/Bontable.tex' on input line 42.
@@ -1356,7 +1357,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
 )
 :<-
-[24] [25]) [26] [27]
+[25] [26]) [27] [28]
 :<-
 :<+ chapters/chapter-4.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
@@ -1398,12 +1399,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 )
 :<-
-[28
+[29
 
 
 
 
-] [29]
+] [30]
 Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
 snTables/aprioritable.tex' on input line 69.
 
@@ -1412,13 +1413,13 @@ snTables/aprioritable.tex' on input line 69.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritabl
 e.tex)
 :<-
-[30]
+[31]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 75.
 
-[31]
+[32]
 Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
 snTables/sytaapeighty.tex' on input line 81.
 
@@ -1427,7 +1428,7 @@ snTables/sytaapeighty.tex' on input line 81.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeight
 y.tex)
 :<-
-[32]
+[33]
 Package srcltx Info: Expanded filename `FiguresnTables/powergraphtable' to `Fig
 uresnTables/powergraphtable.tex' on input line 120.
 
@@ -1436,7 +1437,7 @@ uresnTables/powergraphtable.tex' on input line 120.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/powergrapht
 able.tex)
 :<-
-[33]
+[34]
 Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
 uresnTables/currentyrsto.80.tex' on input line 126.
 
@@ -1470,7 +1471,7 @@ Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--16
 
 )
 :<-
-[34]
+[35]
 Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
 nTables/WQapsenario.tex' on input line 136.
 
@@ -1486,18 +1487,18 @@ nTables/TVapsenario.tex' on input line 137.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario
 .tex)
 :<-
-[35] [36] [37]) [38] [39]
+[36] [37] [38]) [39] [40]
 :<-
 :<+ TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.brf)
 \tf@brf=\write9
 
-[40
+[41
 
 
 
-] [41
+] [42
 
 ]
 Underfull \hbox (badness 1087) in paragraph at lines 90--90
@@ -1507,7 +1508,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 90--90
 
 )
 :<-
-[42] [43]
+[43] [44]
 :<+ back-matter/appendix-1.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
@@ -1570,11 +1571,11 @@ Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
 
 )
 :<-
-[44
+[45
 
 
 
-] [45] [46]
+] [46] [47]
 Appendix B.
 Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
 guresnTables/DescriptiveStats.tex' on input line 12.
@@ -1621,9 +1622,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 :<-
-[47
+[48
 
-] [48]
+] [49]
 Appendix C.
 Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
 ables/variables.tex' on input line 16.
@@ -1632,7 +1633,7 @@ ables/variables.tex' on input line 16.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.t
 ex)
 :<-
-[49
+[50
 
 ]
 Appendix D.
@@ -1710,11 +1711,11 @@ LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
 
 )
 :<-
-[50
+[51
 
-] [51] [52]
+] [52] [53]
 Appendix E.
-[53
+[54
 
 ]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
@@ -1757,7 +1758,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--33
 
  []
 
-[54]
+[55]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
 snTables/ANOVANitrate.tex' on input line 35.
 
@@ -1781,7 +1782,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-[55]
+[56]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
 snTables/ANOVASulfate.tex' on input line 38.
 
@@ -1805,7 +1806,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--39
 
  []
 
-[56] [57]
+[57] [58]
 Appendix F.
 Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
 ables/SWposthoc.tex' on input line 43.
@@ -1981,9 +1982,9 @@ Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
 
 )
 :<-
-[58
+[59
 
-] [59] [60]
+] [60] [61]
 Appendix G.
 Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
 snTables/pHPowerGraph.tex' on input line 53.
@@ -2013,13 +2014,13 @@ snTables/TVpowergraph.tex' on input line 59.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergrap
 h.tex)
 :<-
-) [61
+) [62
 
-] [62] [63] [64] [65]
+] [63] [64] [65] [66]
 :<-
 :<+ back-matter/vita.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex)
-[66
+[67
 
 
 
@@ -2051,7 +2052,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 3DACB03645D68C9B14138E540E25C00D;4103.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 2178617AF13D9064A1D4902FA0803C97;2660.
+(rerunfilecheck)             Checksum: F0E4ED5A032AFEAD27B306C8C25075B3;2667.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2059,9 +2060,9 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 26055 strings out of 493921
- 575047 string characters out of 3144878
- 807895 words of memory out of 3000000
+ 26056 strings out of 493921
+ 575054 string characters out of 3144878
+ 807966 words of memory out of 3000000
  28447 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2082,9 +2083,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
 fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (78 pages, 1203849 bytes).
+Output written on TimPobst-thesis.pdf (79 pages, 1205714 bytes).
 PDF statistics:
- 1165 PDF objects out of 1200 (max. 8388607)
- 245 named destinations out of 1000 (max. 500000)
+ 1172 PDF objects out of 1200 (max. 8388607)
+ 246 named destinations out of 1000 (max. 500000)
  553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
