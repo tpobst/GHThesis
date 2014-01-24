@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  24 JAN 2014 00:01
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  24 JAN 2014 14:20
 entering extended mode
 **C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -1136,7 +1136,7 @@ Chapter 1.
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/SSsites.pdf): PDF inclusion: found PDF version <1.7>, but a
 t most version <1.5> allowed
-<figures/pdf/SSsites.pdf, id=501, 794.97pt x 614.295pt>
+<figures/pdf/SSsites.pdf, id=504, 794.97pt x 614.295pt>
 File: figures/pdf/SSsites.pdf Graphic file (type pdf)
 
 <use figures/pdf/SSsites.pdf>
@@ -1187,7 +1187,7 @@ levbands.tex)
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/DepositionHeat.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<figures/pdf/DepositionHeat.pdf, id=538, 794.97pt x 614.295pt>
+<figures/pdf/DepositionHeat.pdf, id=541, 794.97pt x 614.295pt>
 File: figures/pdf/DepositionHeat.pdf Graphic file (type pdf)
 
 <use figures/pdf/DepositionHeat.pdf>
@@ -1204,7 +1204,7 @@ resnTables/elevationbands.tex' on input line 116.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationba
 nds.tex)
 :<-
-[8] [9] <figures/pdf/pHdata.pdf, id=583, 794.97pt x 614.295pt>
+[8] [9] <figures/pdf/pHdata.pdf, id=586, 794.97pt x 614.295pt>
 File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 
 <use figures/pdf/pHdata.pdf>
@@ -1322,7 +1322,7 @@ Chapter 3.
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/SulfateEmissions.pdf): PDF inclusion: found PDF version <1.
 7>, but at most version <1.5> allowed
-<figures/pdf/SulfateEmissions.pdf, id=719, 794.97pt x 614.295pt>
+<figures/pdf/SulfateEmissions.pdf, id=722, 794.97pt x 614.295pt>
 File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
 
 <use figures/pdf/SulfateEmissions.pdf>
@@ -1497,7 +1497,7 @@ nTables/TVapsenario.tex' on input line 137.
 ] [41
 
 ]
-Underfull \hbox (badness 1087) in paragraph at lines 97--97
+Underfull \hbox (badness 1087) in paragraph at lines 103--103
 \OT1/cmr/m/n/12 mod-el-ing of at-mo-spheric de-po-si-tion in moun-tain-ous land
 -scapes.  \OT1/cmr/m/it/12 Eco-log-i-cal
  []
@@ -2048,7 +2048,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 3DACB03645D68C9B14138E540E25C00D;4103.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 514BC24D6834626393244A980E9526F7;2652.
+(rerunfilecheck)             Checksum: D88DCBE9AEA38CA182485CB20DB3CC1F;2708.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2056,10 +2056,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 26062 strings out of 493921
- 575172 string characters out of 3144878
- 807955 words of memory out of 3000000
- 28453 multiletter control sequences out of 15000+200000
+ 26069 strings out of 493921
+ 575346 string characters out of 3144878
+ 808018 words of memory out of 3000000
+ 28459 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  64i,19n,100p,1649b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2079,9 +2079,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
 fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (78 pages, 1205323 bytes).
+Output written on TimPobst-thesis.pdf (78 pages, 1206281 bytes).
 PDF statistics:
- 1168 PDF objects out of 1200 (max. 8388607)
- 246 named destinations out of 1000 (max. 500000)
+ 1173 PDF objects out of 1200 (max. 8388607)
+ 247 named destinations out of 1000 (max. 500000)
  553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
