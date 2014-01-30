@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  28 JAN 2014 18:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  29 JAN 2014 16:28
 entering extended mode
 **C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -1484,7 +1484,7 @@ Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 19
 ] [12 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
 missions.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
-bles/Bontable.tex' on input line 45.
+bles/Bontable.tex' on input line 48.
 
 :<+ FiguresnTables/Bontable.tex
 
@@ -2166,7 +2166,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 726C839E867580D7ED136AD2826B3A6C;3317.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 5B0F86959D2BD7BB25D6DA95BA62A167;807.
+(rerunfilecheck)             Checksum: 126ED7190D2558D57ED52012E0C0F83B;763.
 
 
 LaTeX Warning: There were undefined references.
@@ -2179,7 +2179,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
 Here is how much of TeX's memory you used:
  25943 strings out of 493921
  572612 string characters out of 3144878
- 805432 words of memory out of 3000000
+ 805404 words of memory out of 3000000
  28398 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2200,9 +2200,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
 fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (66 pages, 583043 bytes).
+Output written on TimPobst-thesis.pdf (66 pages, 583196 bytes).
 PDF statistics:
- 857 PDF objects out of 1000 (max. 8388607)
+ 856 PDF objects out of 1000 (max. 8388607)
  199 named destinations out of 1000 (max. 500000)
  463 words of extra memory for PDF output out of 10000 (max. 10000000)
 

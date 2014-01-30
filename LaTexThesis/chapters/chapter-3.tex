@@ -19,36 +19,38 @@ Interestingly the through fall SO$_4$ concentrations dramatically decline from a
   \includegraphics[width=6in]{SulfateEmissions}\\
   \caption{Sulfate emmisions of Kingstion and Bull run against those measured in Noland high elevation site \citep{annualreport2012}.}\label{fig:sulfateemissions}
 \end{figure}
-The hypothesis is that the decrease in sulfur dioxide emissions could correlate to the decrease in SO$_4$ concentrations measured in Noland Divide through fall.
+A decrease in sulfur dioxide emissions could correlate to the decrease in SO$_4$ concentrations measured in Noland Divide through fall.
 The effects of air pollution will be more pronounced and easier to recognize at a high elevation site such as Noland Divide but one site cannot represent the whole park.
 The geographical spread and number of sites contained within the Stream Survey can give a fuller representation of the affects of air pollution from local power plants.
 And assuming that the sulfur dioxide emissions from Kingston and Bull run power plants affect the whole GRSM park then there may be signals for this affect in the data.
 To explorer for these signals each water quality vector in each time set will be tested against each other by way of means comparison methods.
+A significant difference between the data before and after the scrubbers were installed would indicate reason for further study.
 
 \subsubsection{Instruments}
-ANOVA is the standard means comparison method.
-But it cannot compare more than two groups at once , and a method is needed that can compare all three time sets.
-The Bonferroni multiple comparisons method is an option in the SPSS statistical program and can compare more than two groups at a time.
-The explanation of the Bonferroni method given by the SPSS manual is that this method uses t tests to perform pairwise comparisons between group means and that the observed significance level is adjusted for the fact that multiple comparisons are being made \citep{spss}.
+ANOVA is a common means comparison method, but it is not best when testing more than one hypothesis at once.
+As more hypothesis are added the chances of finding a rare occurrence rises, which is the chance to reject the null hypothesis (the means being equal) when it is true (type I error).
+The proposed analysis requires testing for the equality of three separate time sets and thus three separate hypothesis at once.
+The Bonferroni adjustment solves this by dividing the alpha by the number of hypothesis being tested.
+In this way multiple hypothesis are tested as if there is only one.
 
-The Bonferroni method will create two specific types of outputs.
-The first is a line graph showing the means of each group analyzed.
-And the second is  a table of pairwise listings of all the groups compared to each other.
-This table contains 95$\%$ confidence intervals and the significance associated with each comparison.
-These confidence intervals are produced by the difference in means between the two groups being compared.
+Two outputs are created by the Bonferroni method: one graphical and one numerical.
+The graphical output presents a line graph showing the means of each group analyzed.
+An observer can use this output to see the actual group means along with a visual representation of their differences.
+The numerical output presents a table of pairwise listings of all the groups compared to each other.
+Each pair listed is evaluated by their 95$\%$ confidence intervals and the significance associated with each comparison.
 If the confidence interval includes zero then the groups are statistically the same or equal.
 
 Using SPSS and the Bonferroni method three time sets (93-02, 03-08, 09-12) will be compared at six elevation class levels and across four water quality variables (pH, ANC, NO$_3$, and SO$_4 $).
-Each group compared is the same stream survey data analyzed in chapter 2 and chapter 4 of this paper.
+Each group compared is the same data groups from the stream survey data analyzed in \autoref{ch:TA} and \autoref{ch:poweranslysis}.
 
 \section{Results}%probably shouldn't write so much on how the figures are misleading
+
 \input{FiguresnTables/Bontable}
-\autoref{tab:Bontable} reports the Bonferoni comparison means between the four water quality variables (pH, ANC, NO$_3$, SO$_4$) in one time set against the same water quality variable in another time set by elevation bands.
-In the table there are three columns per water quality variable.
-And each column represents the comparison of two groups of the same variable in different times.
-If the Bonferroni comparison found the groups to be equal then equality was represented by an equal sign.
-If the groups are not equal an not equal sign was used to show this.
-All groups that were found to be equal were insignificant and all groups that were unequal are significant at the 0.05 $\alpha$ level.
+The group means comparisons are represented by equal signs and unequal signs and are take from the 95$\%$ C.I. determined in the analysis.
+In \autoref{tab:Bontable} there are three columns per water quality variable and each column represents the comparison of two groups of the same variable in different times.
+All groups that were found to be equal were insignificant and all groups that were unequal are significant at the familywise 0.05 $\alpha$ level.
+
+The line graph representations of the same mean differences can be more helpful in noticing sizes of differences.%
 The bonferoni figures are presented in \autoref{app:bon}.
 There are six figures for each of the water quality variables, one for each of the elevation classes.
 For the most part the figures representing pH seem to be continuing a similar rate of change through the years, but this is also misleading because the time sets do not contain equal numbers of years.
