@@ -5,23 +5,23 @@
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {3.1}{\ignorespaces Bonferoni comparisons between multiple groups\relax }}{14}{table.caption.21}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces A priori calculation in G*power when alpha, ES, and power are set to .05, .15, and .80 respectively.\relax }}{20}{table.caption.24}
-\contentsline {table}{\numberline {4.2}{\ignorespaces samples/year to achieve a power .80 ($N_b$)\relax }}{21}{table.caption.25}
-\contentsline {table}{\numberline {4.3}{\ignorespaces Years to acheive a power of .80\relax }}{23}{table.caption.28}
-\contentsline {table}{\numberline {4.4}{\ignorespaces Necesary sites scenario for water quality variables\relax }}{24}{table.caption.29}
-\contentsline {table}{\numberline {4.5}{\ignorespaces Necesary sites scenario for time variables\relax }}{24}{table.caption.30}
+\contentsline {table}{\numberline {4.1}{\ignorespaces A priori calculation in G*power when alpha, ES, and power are set to .05, .15, and .80 respectively.\relax }}{21}{table.caption.24}
+\contentsline {table}{\numberline {4.2}{\ignorespaces samples/year to achieve a power .80 ($N_b$)\relax }}{22}{table.caption.25}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Years to acheive a power of .80\relax }}{24}{table.caption.28}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Necesary sites scenario for water quality variables\relax }}{25}{table.caption.29}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Necesary sites scenario for time variables\relax }}{25}{table.caption.30}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces GRSM Stream Survey site descriptions\relax }}{33}{table.caption.33}
-\contentsline {table}{\numberline {A.2}{\ignorespaces Site Data\relax }}{34}{table.caption.34}
+\contentsline {table}{\numberline {A.1}{\ignorespaces GRSM Stream Survey site descriptions\relax }}{34}{table.caption.33}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Site Data\relax }}{35}{table.caption.34}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {B.1}{\ignorespaces Descriptive statistics of Water Quality in the GRSM\relax }}{36}{table.caption.35}
+\contentsline {table}{\numberline {B.1}{\ignorespaces Descriptive statistics of Water Quality in the GRSM\relax }}{37}{table.caption.35}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {C.1}{\ignorespaces List of variables used for step-wise variable selection. X's for variables selected by the step-wise method, O's if variable was added after the step-wise process.\relax }}{37}{table.caption.36}
+\contentsline {table}{\numberline {C.1}{\ignorespaces List of variables used for step-wise variable selection. X's for variables selected by the step-wise method, O's if variable was added after the step-wise process.\relax }}{38}{table.caption.36}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {D.1}{\ignorespaces Time trend results for specific elevation classes using variables from step-wise regression. \textbf {Bold} results are insignificant.\relax }}{39}{table.caption.37}
-\contentsline {table}{\numberline {D.2}{\ignorespaces Time trend results for specific elevation classes using julian date, cosine($\theta $), and sine($\theta $) only. \textbf {Bold} results are insignificant.\relax }}{40}{table.caption.38}
+\contentsline {table}{\numberline {D.1}{\ignorespaces Time trend results for specific elevation classes using variables from step-wise regression. \textbf {Bold} results are insignificant.\relax }}{40}{table.caption.37}
+\contentsline {table}{\numberline {D.2}{\ignorespaces Time trend results for specific elevation classes using julian date, cosine($\theta $), and sine($\theta $) only. \textbf {Bold} results are insignificant.\relax }}{41}{table.caption.38}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {F.1}{\ignorespaces Post hoc power analysis using G*power and a calculated ES, alpha is .05. \textbf {Bold} results are insignificant.\relax }}{47}{table.caption.63}
-\contentsline {table}{\numberline {F.2}{\ignorespaces Post hoc power analysis using G*power a calculated ES, an alpha of .05 with the variables: sine($\theta $), cosine($\theta $), and julian date only. \textbf {Bold} results are insignificant.\relax }}{48}{table.caption.64}
+\contentsline {table}{\numberline {F.1}{\ignorespaces Post hoc power analysis using G*power and a calculated ES, alpha is .05. \textbf {Bold} results are insignificant.\relax }}{48}{table.caption.63}
+\contentsline {table}{\numberline {F.2}{\ignorespaces Post hoc power analysis using G*power a calculated ES, an alpha of .05 with the variables: sine($\theta $), cosine($\theta $), and julian date only. \textbf {Bold} results are insignificant.\relax }}{49}{table.caption.64}
 \addvspace {10\p@ }
