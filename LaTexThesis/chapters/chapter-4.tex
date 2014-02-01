@@ -1,32 +1,39 @@
 \chapter{Power Analysis} \label{ch:poweranslysis}
+
 \section{Methods}
+
 \subsection{Introduction}
+
 The statistics preformed in \autoref{ch:TA} come with an inherent amount of error.  
-This error in trend analysis is defined as type II or $\beta$ and can be seen in \autoref{tab:HypothesisTests}.
 \input{FiguresnTables/HypothesisTests}
-The trend analysis tests the hypothesis that a trend exists in the data.
-The null hypothesis is that there is no trend or the coefficient is zero.
-In simpler terms this means that the hypothesis for the trend analysis is that there is a positive julian date coefficient for each dataset and the null hypothesis is that there is not one.
+The trend analysis tests the hypothesis that a trend exists in the data and the null hypothesis is that there is no trend or the coefficient is zero.
+In relevant terms this means that the hypothesis for the trend analysis is that there is a nonzero julian date coefficient for each dataset and the null hypothesis is that there is not one.
+The error in trend analysis is defined as type II or $\beta$ and can be seen in \autoref{tab:HypothesisTests}.
 $\beta$ describes the failure to reject a false null hypothesis or in the case of this paper a failure to detect a trend in the data when there really is one.
 The opposite of $\beta$ is the probability that a trend will be detected when it exists and is called the power of the test.
-A trend line with a power of 1.00 means that there is a 100$\%$ chance that the calculated slope is not zero.
-The post hoc power of all 144 regression lines from \autoref{ch:TA} were calculated with the help of the statistical program G*power.  
-An a priori power analysis can be used to help plan for the future by choosing a desired power and planning around it.
-This analysis was also completed in G*power.
-% explain ES up here somewhere Cohen thinks of ES values as chances to find a significant result.
-\subsection{Body}
-The objectives of the power analysis are two fold.
+A trend line with a power of 1.00 indicates a 100$\%$ chance that the calculated slope is not zero.
+
+Power analysis may refer to a post hoc or a priori analysis, in this paper both were completed with the help of the statistical program G*power.
+Analysis of the 144 trend lines from \autoref{ch:TA} require a post hoc analysis while any analysis pertaining to the future requires an a priori analysis. 
+Along with values given by the trend analysis, a value for effective size (ES) is needed to calculate power.
+This value is described as the probability to find a significant result by Cohen \citep{cohen1992power}
+
+The objectives of the power analysis are two fold.%
 It will calculate the power of each trend line and also give a more efficient sample size for desired powers.
 The statistical program G*power requires four inputs total.  
 Three of the these inputs are passed from the output of the trend analysis: number of observations (N), adjusted r$^2$ and number of predictors.
 The fourth input is ES or effect size which is calculated by G*power before the analysis.
+
 G*power is a free power analysis program written by four germen psychology professors.
 It can compute both post hoc and a priori analysis for many different statistical tests.
 A post hoc analysis was preformed for both julian date coefficient tables from \autoref{ch:TA},  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
 In contrast to the post hoc analysis the a priori analysis only needs to be calculated for each of the four dependent variables.
-This output then has to be manipulated in excel in order to determine a number of sites per elevation bands.
-%add something about calculating sites per elevation band for a desired power
+Instead of calculating a power the a priori analysis calculates a number of observations for a given power.
+The common output for this is a power graph which includes all powers and the number of observations for each.
+These numbers of observations are then manipulated to determine a more efficient number of sites per elevation band.
+
 \subsection{Procedures}
+
 \subsubsection{Post hoc}
 
 The most popular power analysis methods originate from Jacob Cohen who outlined his approach in " A Power Primer" \citep{cohen1992power}.
@@ -91,7 +98,9 @@ To get an estimation for the number of sites needed per elevation band to achiev
 \end{equation}
 
 \section{Results}
+
 \subsection{Post hoc}
+
 The results of the post hoc analysis on both trend analyses are reported in  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
 The tables of results are broken into the four analyzed water quality variables (pH, ANC, NO$_3$, SO$_4$) and divided into the tree time sets (93-02, 03-08, 09-12), and then further divided into the six elevation classes.
 Each regression line computed in \autoref{ch:TA} are represented by their number of observations, the adjusted $r^2$, the calculated ES, and finally their actual power.
@@ -106,7 +115,9 @@ By convention insignificant trends are ignored and their powers will be ignored 
 11 of the 20 significant trend lines are above a power of .80 and 2 are .99 or greater.
 
 \subsection{A priori}
+
 \subsubsection{Power graphs}
+
 The traditional presentation for an a priori power analysis is the power graph.
 This graph plots power on the y-axis and number of observations on the x-axis and the curve will start at (0,0) and asymptotically approach a power of 1.00.
 Each plotted curve represents an ES of either .15 or .35, .02 is not represented because it was unreasonable.
@@ -122,6 +133,7 @@ This table shows the sample size values for both ES curves at a power of .80.
 Again all are similar except for the time graph, which has at least half as many predictors in its time trend equation as the others.
 
 \subsubsection{A priori manipulation}
+
 In this section a scenario is presented in which the results of the a priori analysis are manipulated to achieve the number of sites required per elevation band to receive a power of .80.
 \input{FiguresnTables/currentyrsto.80}%needs to be cleaned
 This scenario was followed through with both methods of trend lines.
@@ -149,7 +161,9 @@ If four years can be waited there is a surplus of 35 samples which on the right 
 \section{Discussion}
 
 \subsection{Post hoc}
+
 \subsubsection{Step-wise equations}
+
 By reviewing the results of the post hoc analysis after an a priori analysis has been completed using the same regression equations it is easier to see why the results were outstanding for the step-wise equations and awful for the time based equations.
 Knowing that an a priori analysis on the step-wise equations will give the number of observations for a power of .80 and an ES of .15 to be about 110 from \autoref{tab:APN}.
 It can easily be seen that as the number of observations in \autoref{tab:SWposthoc} deviate from 110 the power declines.
@@ -160,13 +174,16 @@ The large conventional ES given by Cohen is .35 and only 3 of the trend lines an
 Assuming that a power of .80 and an ES of .15 is ideal, then this post hoc analysis uses to many observations.
 One way to have less observations would be to use fewer years in the analysis.
 Another way would be to use less sites in the survey.
+
 \subsubsection{Time variable based equations}
+
 The differences in powers between the two post hoc analysis can not be the number of observations because the number of observations used in \autoref{tab:SWposthoc} are the same as those \autoref{tab:TVposthoc}.
 The differences are between the adjusted r$^2$, which are very low for \autoref{tab:TVposthoc}, and leads to the low ES values.
 Overlooking the fact that most of the regression models for the time variable analysis are insignificant, most of the powers calculated in \autoref{tab:SWposthoc} are not terrible.
 Of the 20 significant lines eleven have a power equal to or above .80.
 
 \subsection{A priori}%it is good that the water quality power graphs are similar because they will all be contained in the same survey.
+
 The proper results for the a priori power analysis are \autoref{tab:APN} and the \hyperref[ch:APA]{power graphs}.
 The power graphs themselves show every possible power and the number of observations needed to achieve it.
 But they are based on the specific step-wise equations that were created using this specific dataset.
