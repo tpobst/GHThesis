@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  31 JAN 2014 12:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  5 FEB 2014 18:11
 entering extended mode
 **C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -1122,7 +1122,7 @@ tex)
 :<+ chapters/chapter-1.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.tex
 Chapter 1.
-<figures/pdf/pHdata.pdf, id=408, 794.97pt x 614.295pt>
+<figures/pdf/pHdata.pdf, id=403, 794.97pt x 614.295pt>
 File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 
 <use figures/pdf/pHdata.pdf>
@@ -1469,7 +1469,7 @@ Chapter 3.
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/SulfateEmissions.pdf): PDF inclusion: found PDF version <1.
 7>, but at most version <1.5> allowed
-<figures/pdf/SulfateEmissions.pdf, id=485, 794.97pt x 614.295pt>
+<figures/pdf/SulfateEmissions.pdf, id=480, 794.97pt x 614.295pt>
 File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
 
 <use figures/pdf/SulfateEmissions.pdf>
@@ -1522,7 +1522,7 @@ LaTeX Warning: Reference `fig:ANOVASO46' on page 14 undefined on input line 48.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
 Chapter 4.
 Package srcltx Info: Expanded filename `FiguresnTables/HypothesisTests' to `Fig
-uresnTables/HypothesisTests.tex' on input line 6.
+uresnTables/HypothesisTests.tex' on input line 15.
 :<+ FiguresnTables/HypothesisTests.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/HypothesisT
@@ -1564,42 +1564,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 
 ] [17]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 48.
+
+[18] [19]
 Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
-snTables/aprioritable.tex' on input line 69.
+snTables/aprioritable.tex' on input line 83.
 
 :<+ FiguresnTables/aprioritable.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritabl
 e.tex)
 :<-
-[18]
-
-Package amsmath Warning: Foreign command \over;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 75.
-
-[19]
 Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
-snTables/sytaapeighty.tex' on input line 81.
-
+snTables/sytaapeighty.tex' on input line 95.
 :<+ FiguresnTables/sytaapeighty.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeight
 y.tex)
 :<-
-[20]
+[20] [21]
 Package srcltx Info: Expanded filename `FiguresnTables/powergraphtable' to `Fig
-uresnTables/powergraphtable.tex' on input line 120.
+uresnTables/powergraphtable.tex' on input line 133.
 
 :<+ FiguresnTables/powergraphtable.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/powergrapht
 able.tex)
 :<-
-[21]
 Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
-uresnTables/currentyrsto.80.tex' on input line 126.
-
+uresnTables/currentyrsto.80.tex' on input line 142.
 :<+ FiguresnTables/currentyrsto.80.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/currentyrst
@@ -1628,11 +1624,11 @@ Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--16
 [][]
  []
 
-)
+[22])
 :<-
-[22]
+[23]
 Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
-nTables/WQapsenario.tex' on input line 136.
+nTables/WQapsenario.tex' on input line 152.
 
 :<+ FiguresnTables/WQapsenario.tex
 
@@ -1640,13 +1636,13 @@ nTables/WQapsenario.tex' on input line 136.
 .tex)
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/TVapsenario' to `Figures
-nTables/TVapsenario.tex' on input line 137.
+nTables/TVapsenario.tex' on input line 154.
 :<+ FiguresnTables/TVapsenario.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario
 .tex)
 :<-
-[23] [24] [25]) [26] [27]
+[24] [25] [26]) [27]
 :<-
 :<+ TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
@@ -1657,17 +1653,11 @@ nTables/TVapsenario.tex' on input line 137.
 
 
 
-] [29
-
-]
-Underfull \hbox (badness 1087) in paragraph at lines 66--66
-\OT1/cmr/m/n/12 mod-el-ing of at-mo-spheric de-po-si-tion in moun-tain-ous land
--scapes.  \OT1/cmr/m/it/12 Eco-log-i-cal
- []
-
-)
+])
 :<-
-[30] [31]
+[29
+
+] [30]
 :<+ back-matter/appendix-1.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
@@ -1730,11 +1720,11 @@ Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
 
 )
 :<-
-[32
+[31
 
 
 
-] [33] [34]
+] [32] [33]
 Appendix B.
 Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
 guresnTables/DescriptiveStats.tex' on input line 12.
@@ -1781,9 +1771,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 :<-
-[35
+[34
 
-] [36]
+] [35]
 Appendix C.
 Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
 ables/variables.tex' on input line 16.
@@ -1792,7 +1782,7 @@ ables/variables.tex' on input line 16.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.t
 ex)
 :<-
-[37
+[36
 
 ]
 Appendix D.
@@ -1870,11 +1860,11 @@ LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
 
 )
 :<-
-[38
+[37
 
-] [39] [40]
+] [38] [39]
 Appendix E.
-[41
+[40
 
 ]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
@@ -1917,7 +1907,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--33
 
  []
 
-[42]
+[41]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
 snTables/ANOVANitrate.tex' on input line 35.
 
@@ -1941,7 +1931,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-[43]
+[42]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
 snTables/ANOVASulfate.tex' on input line 38.
 
@@ -1965,7 +1955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--39
 
  []
 
-[44] [45]
+[43] [44]
 Appendix F.
 Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
 ables/SWposthoc.tex' on input line 43.
@@ -2141,9 +2131,9 @@ Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
 
 )
 :<-
-[46
+[45
 
-] [47] [48]
+] [46] [47]
 Appendix G.
 Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
 snTables/pHPowerGraph.tex' on input line 53.
@@ -2173,13 +2163,13 @@ snTables/TVpowergraph.tex' on input line 59.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergrap
 h.tex)
 :<-
-) [49
+) [48
 
-] [50] [51] [52] [53]
+] [49] [50] [51] [52]
 :<-
 :<+ back-matter/vita.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex)
-[54
+[53
 
 
 
@@ -2206,9 +2196,9 @@ aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8A83205D8EC8A700C651F21BDAC6BA6E;3400.
+(rerunfilecheck)             Checksum: 768B868EFB70904E78493978FF2DF20F;3335.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 69B88AA2A28B82CBF4473EBBD27F001C;823.
+(rerunfilecheck)             Checksum: 99503A3399632DB00CB3705F314F4755;946.
 
 
 LaTeX Warning: There were undefined references.
@@ -2219,10 +2209,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 25960 strings out of 493921
- 573141 string characters out of 3144878
- 805825 words of memory out of 3000000
- 28400 multiletter control sequences out of 15000+200000
+ 25931 strings out of 493921
+ 572635 string characters out of 3144878
+ 805744 words of memory out of 3000000
+ 28376 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  64i,19n,100p,2232b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2241,9 +2231,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (66 pages, 585237 bytes).
+Output written on TimPobst-thesis.pdf (65 pages, 583481 bytes).
 PDF statistics:
- 896 PDF objects out of 1000 (max. 8388607)
- 208 named destinations out of 1000 (max. 500000)
- 471 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 883 PDF objects out of 1000 (max. 8388607)
+ 203 named destinations out of 1000 (max. 500000)
+ 463 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,12 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[Cai et~al., 2011]{cai2011long}
-Cai, M., Schwartz, J.~S., Robinson, R.~B., Moore, S.~E., and Kulp, M.~A.
-  (2011).
-\newblock Long-term annual and seasonal patterns of acidic deposition and
-  stream water quality in a great smoky mountains high-elevation watershed.
-\newblock {\em Water, Air, \& Soil Pollution}, 219(1-4):547--562.
-
 \bibitem[Cohen, 1992a]{cohen1992power}
 Cohen, J. (1992a).
 \newblock A power primer.
@@ -17,34 +10,22 @@ Cohen, J. (1992b).
 \newblock Statistical power analysis.
 \newblock {\em Current directions in psychological science}, 1(3):98--101.
 
+\bibitem[Faul et~al., 2009]{faul2009statistical}
+Faul, F., Erdfelder, E., Buchner, A., and Lang, A.-G. (2009).
+\newblock Statistical power analyses using g* power 3.1: Tests for correlation
+  and regression analyses.
+\newblock {\em Behavior research methods}, 41(4):1149--1160.
+
 \bibitem[Helsel and Hirsch, 1992]{helsel1992statistical}
 Helsel, D.~R. and Hirsch, R.~M. (1992).
 \newblock {\em Statistical methods in water resources}, volume~49.
 \newblock Elsevier.
-
-\bibitem[IBM, 2013]{spss}
-IBM (2013).
-\newblock Ibm spss statistics base 22.
 
 \bibitem[Meijun~Cai, 2012]{cai2012}
 Meijun~Cai, J. S.~S. (2012).
 \newblock Biological effects of stream water quality on aquatic
   macroinvertebrates and fish communities within great smoky mountains national
   park.
-
-\bibitem[Neff et~al., 2009]{neff2009physiological}
-Neff, K.~J., Schwartz, J.~S., Henry, T.~B., Robinson, R.~B., Moore, S.~E., and
-  Kulp, M.~A. (2009).
-\newblock Physiological stress in native southern brook trout during episodic
-  stream acidification in the great smoky mountains national park.
-\newblock {\em Archives of environmental contamination and toxicology},
-  57(2):366--376.
-
-\bibitem[Neff et~al., 2012]{neff2012influence}
-Neff, K.~J., Schwartz, J.~S., Moore, S.~E., and Kulp, M.~A. (2012).
-\newblock Influence of basin characteristics on baseflow and stormflow
-  chemistry in the great smoky mountains national park, usa.
-\newblock {\em Hydrological Processes}.
 
 \bibitem[Robinson et~al., 2008]{robinson2008ph}
 Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and
@@ -57,11 +38,5 @@ Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and
 UTK (2012).
 \newblock 2011 water quality annual report.
 \newblock Technical report.
-
-\bibitem[Weathers et~al., 2006]{weathers2006}
-Weathers, K.~C., Simkin, S.~M., Lovett, G.~M., and Lindberg, S.~E. (2006).
-\newblock Empirical modeling of atmospheric deposition in mountainous
-  landscapes.
-\newblock {\em Ecological Applications}, 16(4):1590--1607.
 
 \end{thebibliography}
