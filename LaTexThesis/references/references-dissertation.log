@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdftex 2013.12.17)  17 DEC 2013 19:00
+entering extended mode
+**D:/GitHub/GHThesis/LaTexThesis/references/references-dissertation.bib
+(D:/GitHub/GHThesis/LaTexThesis/references/references-dissertation.bib
+! Misplaced alignment tab character &.
+l.69 ,	title	= {Explanation &
+                              List of Map Units }
+? 
+! Emergency stop.
+l.69 ,	title	= {Explanation &
+                              List of Map Units }
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

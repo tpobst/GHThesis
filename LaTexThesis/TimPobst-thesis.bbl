@@ -1,5 +1,14 @@
 \begin{thebibliography}{}
 
+<<<<<<< HEAD
+=======
+\bibitem[Board et~al., 1983]{board1983acid}
+Board, E.~S. et~al. (1983).
+\newblock {\em Acid Deposition: Atmospheric Processes in Eastern North
+  America}.
+\newblock National Academies Press.
+
+>>>>>>> origin/introductionT
 \bibitem[Cai et~al., 2011]{cai2011long}
 Cai, M., Schwartz, J.~S., Robinson, R.~B., Moore, S.~E., and Kulp, M.~A.
   (2011).
@@ -7,18 +16,52 @@ Cai, M., Schwartz, J.~S., Robinson, R.~B., Moore, S.~E., and Kulp, M.~A.
   stream water quality in a great smoky mountains high-elevation watershed.
 \newblock {\em Water, Air, \& Soil Pollution}, 219(1-4):547--562.
 
+<<<<<<< HEAD
 \bibitem[Cohen, 1992]{cohen1992power}
 Cohen, J. (1992).
 \newblock A power primer.
 \newblock {\em Psychological bulletin}, 112(1):155.
 
+=======
+\bibitem[Cohen, 1992a]{cohen1992power}
+Cohen, J. (1992a).
+\newblock A power primer.
+\newblock {\em Psychological bulletin}, 112(1):155.
+
+\bibitem[Cohen, 1992b]{cohen1992statistical}
+Cohen, J. (1992b).
+\newblock Statistical power analysis.
+\newblock {\em Current directions in psychological science}, 1(3):98--101.
+
+\bibitem[Driscoll et~al., 2003]{driscoll2003effects}
+Driscoll, C.~T., Driscoll, K.~M., Mitchell, M.~J., and Raynal, D.~J. (2003).
+\newblock Effects of acidic deposition on forest and aquatic ecosystems in new
+  york state.
+\newblock {\em Environmental Pollution}, 123(3):327--336.
+
+>>>>>>> origin/introductionT
 \bibitem[Helsel and Hirsch, 1992]{helsel1992statistical}
 Helsel, D.~R. and Hirsch, R.~M. (1992).
 \newblock {\em Statistical methods in water resources}, volume~49.
 \newblock Elsevier.
 
+<<<<<<< HEAD
 \bibitem[Meijun~Cai, 2012]{cai2012}
 Meijun~Cai, J. S.~S. (2012).
+=======
+\bibitem[IBM, 2013]{spss}
+IBM (2013).
+\newblock Ibm spss statistics base 22.
+
+\bibitem[Johnson et~al., 1992]{johnson1992atmospheric}
+Johnson, D.~W., Lindberg, S.~E., et~al. (1992).
+\newblock {\em Atmospheric deposition and forest nutrient cycling. A synthesis
+  of the Integrated Forest Study.}
+\newblock Springer-Verlag.
+
+\bibitem[Meijun~Cai, 2013]{cai2013}
+Meijun~Cai, J. S.~S. (2013).
+>>>>>>> origin/introductionT
 \newblock Biological effects of stream water quality on aquatic
   macroinvertebrates and fish communities within great smoky mountains national
   park.
@@ -37,6 +80,21 @@ Neff, K.~J., Schwartz, J.~S., Moore, S.~E., and Kulp, M.~A. (2012).
   chemistry in the great smoky mountains national park, usa.
 \newblock {\em Hydrological Processes}.
 
+<<<<<<< HEAD
+=======
+\bibitem[NPS, 2013]{NPS}
+NPS (2013).
+\newblock Nature \& science.
+\newblock \url{http://www.nps.gov/grsm/naturescience/index.htm}.
+\newblock Accessed: 2014-01-05.
+
+\bibitem[Odom, 2003]{odom2003}
+Odom, K.~R. (2003).
+\newblock {\em Assessment and redesign of the synoptic water quality monitoring
+  network in the great smoky mountains national park}.
+\newblock PhD thesis.
+
+>>>>>>> origin/introductionT
 \bibitem[Robinson et~al., 2008]{robinson2008ph}
 Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and
   Schwartz, J.~S. (2008).
@@ -44,6 +102,16 @@ Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and
   great smoky mountains national park.
 \newblock {\em Journal of Environmental Engineering}, 134(9):800--808.
 
+<<<<<<< HEAD
+=======
+\bibitem[Sullivan et~al., 2004]{sullivan2004}
+Sullivan, T., Cosby, B., Herlihy, A., Webb, J., Bulger, A., Snyder, K., Brewer,
+  P., Gilbert, E., and Moore, D. (2004).
+\newblock Regional model projections of future effects of sulfur and nitrogen
+  deposition on streams in the southern appalachian mountains.
+\newblock {\em Water Resources Research}, 40(2).
+
+>>>>>>> origin/introductionT
 \bibitem[UTK, 2012]{annualreport2012}
 UTK (2012).
 \newblock 2011 water quality annual report.
