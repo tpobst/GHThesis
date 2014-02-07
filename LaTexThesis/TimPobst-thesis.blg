@@ -1,11 +1,5 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: TimPobst-thesis.aux
-<<<<<<< HEAD
-A level-1 auxiliary file: front-matter/dedication.aux
 A level-1 auxiliary file: front-matter/acknowledgements.aux
-A level-1 auxiliary file: front-matter/quote.aux
-=======
-A level-1 auxiliary file: front-matter/acknowledgements.aux
->>>>>>> origin/introductionT
 A level-1 auxiliary file: front-matter/abstract.aux
 A level-1 auxiliary file: front-matter/nomenclature.aux
 A level-1 auxiliary file: chapters/chapter-1.aux
@@ -16,15 +10,8 @@ The style file: apalike.bst
 A level-1 auxiliary file: back-matter/appendix-1.aux
 A level-1 auxiliary file: back-matter/vita.aux
 Database file #1: references/references-dissertation.bib
-<<<<<<< HEAD
-Warning--empty journal in cai2012
-Warning--empty institution in annualreport2012
-(There were 2 warnings)
-=======
 Warning--I didn't find a database entry for "cai2012"
-Warning--empty journal in spss
 Warning--empty journal in cai2013
 Warning--empty school in odom2003
 Warning--empty institution in annualreport2012
-(There were 5 warnings)
->>>>>>> origin/introductionT
+(There were 4 warnings)
