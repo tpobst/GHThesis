@@ -4,7 +4,11 @@
 \contentsline {figure}{\numberline {1.3}{\ignorespaces pH plotted vs. Elevation. With and without outliers.\relax }}{10}{figure.caption.19}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Sulfate emmisions of Kingstion and Bull run against those measured in Noland high elevation site.\relax }}{23}{figure.caption.31}
+=======
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Sulfate emmisions of Kingstion and Bull run against those measured in Noland high elevation site \citep {annualreport2012}.\relax }}{12}{figure.caption.19}
+>>>>>>> origin/bonferroni
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -13,7 +17,14 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {G.1}{\ignorespaces pH Power Graph}}{60}{figure.caption.78}
 \contentsline {figure}{\numberline {G.2}{\ignorespaces ANC and Nitrate Power Graphs}}{61}{figure.caption.79}
 \contentsline {figure}{\numberline {G.3}{\ignorespaces Sulfate Power Graph}}{62}{figure.caption.80}
 \contentsline {figure}{\numberline {G.4}{\ignorespaces Time Variables Power Graph}}{63}{figure.caption.81}
+=======
+\contentsline {figure}{\numberline {G.1}{\ignorespaces pH Power Graph}}{51}{figure.caption.65}
+\contentsline {figure}{\numberline {G.2}{\ignorespaces ANC and Nitrate Power Graphs}}{52}{figure.caption.66}
+\contentsline {figure}{\numberline {G.3}{\ignorespaces Sulfate Power Graph}}{53}{figure.caption.67}
+\contentsline {figure}{\numberline {G.4}{\ignorespaces Time Variables Power Graph}}{54}{figure.caption.68}
+>>>>>>> origin/bonferroni
