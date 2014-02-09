@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+\backcite {helsel1992statistical}{{viii}{(document)}{Doc-Start}}
 \backcite {weathers2006}{{x}{(document)}{Doc-Start}}
 \backcite {NPS}{{1}{1.1}{section.1.1}}
 \backcite {board1983acid}{{2}{1.2}{section.1.2}}
@@ -26,9 +25,12 @@
 \backcite {neff2012influence}{{11}{1.5}{figure.caption.19}}
 \backcite {cai2013}{{11}{1.5}{figure.caption.19}}
 \backcite {robinson2008ph}{{13}{2.1.1}{subsection.2.1.1}}
+\backcite {cai2013}{{13}{2.1.1}{subsection.2.1.1}}
 \backcite {robinson2008ph}{{13}{2.1.1}{subsection.2.1.1}}
 \backcite {robinson2008ph}{{13}{2.1.1}{subsection.2.1.1}}
+\backcite {cai2013}{{13}{2.1.1}{subsection.2.1.1}}
 \backcite {robinson2008ph}{{13}{2.1.1}{subsection.2.1.1}}
+\backcite {cai2013}{{13}{2.1.1}{subsection.2.1.1}}
 \backcite {helsel1992statistical}{{15}{2.1.2}{equation.2.1.1}}
 \backcite {robinson2008ph}{{15}{2.2}{section.2.2}}
 \backcite {robinson2008ph}{{19}{2.2.4}{subsection.2.2.4}}
@@ -36,7 +38,7 @@
 \backcite {robinson2008ph}{{19}{2.2.4}{subsection.2.2.4}}
 \backcite {robinson2008ph}{{19}{2.2.4}{subsection.2.2.4}}
 \backcite {robinson2008ph}{{19}{2.2.4}{subsection.2.2.4}}
-\backcite {robinson2008ph}{{19}{2.2.4}{subsection.2.2.4}}
+\backcite {robinson2008ph}{{20}{2.2.4}{subsection.2.2.4}}
 \backcite {cai2013}{{20}{2.2.4}{section*.29}}
 \backcite {cai2013}{{20}{2.2.4}{section*.30}}
 \backcite {weathers2006}{{20}{2.2.4}{section*.30}}
@@ -46,38 +48,9 @@
 \backcite {robinson2008ph}{{21}{2.3}{section.2.3}}
 \backcite {cai2013}{{21}{2.3}{section.2.3}}
 \backcite {cai2011long}{{21}{2.3}{section.2.3}}
-\backcite {annualreport2012}{{22}{3.1.1}{subsection.3.1.1}}
-\backcite {cohen1992power}{{28}{4.1.2}{subsection.4.1.2}}
-\backcite {cohen1992power}{{29}{4.1.3}{section*.35}}
-\backcite {cohen1992power}{{33}{4.2.2}{section*.39}}
-\backcite {robinson2008ph}{{37}{4.3.2}{subsection.4.3.2}}
-=======
-\backcite {annualreport2012}{{x}{(document)}{Doc-Start}}
-=======
-\backcite {helsel1992statistical}{{viii}{(document)}{Doc-Start}}
->>>>>>> origin/poweranalysis
-\backcite {robinson2008ph}{{4}{2.1.1}{subsection.2.1.1}}
-\backcite {cai2012}{{4}{2.1.1}{subsection.2.1.1}}
-\backcite {robinson2008ph}{{5}{2.1.2}{section*.15}}
-\backcite {robinson2008ph}{{8}{2.2}{section.2.2}}
-\backcite {robinson2008ph}{{9}{2.2}{section.2.2}}
-\backcite {robinson2008ph}{{9}{2.2}{section.2.2}}
-\backcite {robinson2008ph}{{10}{2.3}{section.2.3}}
-\backcite {robinson2008ph}{{10}{2.3}{section.2.3}}
-<<<<<<< HEAD
-\backcite {annualreport2012}{{12}{3.1}{figure.caption.19}}
-\backcite {cohen1992power}{{19}{4.1.2}{subsection.4.1.2}}
-\backcite {cohen1992power}{{20}{4.1.3}{section*.22}}
-\backcite {cohen1992power}{{24}{4.2.2}{section*.26}}
-\backcite {robinson2008ph}{{28}{4.3.2}{subsection.4.3.2}}
->>>>>>> origin/bonferroni
-=======
-\backcite {annualreport2012}{{11}{3.1.1}{subsection.3.1.1}}
-\backcite {cai2012}{{15}{3.3}{section.3.3}}
-\backcite {helsel1992statistical}{{17}{4.1}{table.caption.23}}
-\backcite {faul2009statistical}{{17}{4.1.1}{table.caption.23}}
-\backcite {cohen1992power}{{17}{4.1.1}{table.caption.23}}
-\backcite {cohen1992power}{{18}{4.1.2}{section*.24}}
-\backcite {cohen1992power}{{19}{4.1.2}{section*.25}}
-\backcite {cohen1992statistical}{{20}{4.1.2}{section*.25}}
->>>>>>> origin/poweranalysis
+\backcite {helsel1992statistical}{{29}{4.1}{table.caption.33}}
+\backcite {faul2009statistical}{{29}{4.1.1}{table.caption.33}}
+\backcite {cohen1992power}{{29}{4.1.1}{table.caption.33}}
+\backcite {cohen1992power}{{30}{4.1.2}{section*.34}}
+\backcite {cohen1992power}{{31}{4.1.2}{section*.35}}
+\backcite {cohen1992statistical}{{32}{4.1.2}{section*.35}}

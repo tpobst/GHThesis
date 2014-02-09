@@ -7,23 +7,23 @@
 Water quality data collected through the Stream Survey can by analyzed for trends through a trend analysis.
 It is used to determine the condition of the parks water bodies while trying to predict where the water quality is headed in the future. 
 The sudden and gradual trends found through analysis are used in resource management by the wildlife and fisheries dept. in the GRSM.
-A trend analysis on the stream survey data was conducted in 2002 and published in \citet{robinson2008ph} and then again in 2009 for the Biotics Effects report \citep{cai2012}.
+A trend analysis on the stream survey data was conducted in 2002 and published in \citet{robinson2008ph} and then again in 2009 for the Biotics Effects report \citep{cai2013}.
 Time trends for water quality variables  in \citet{robinson2008ph} were ascertained by regressing them by a Julian date time vector.
 Of the ten elevation bands analyzed in \citet{robinson2008ph} six had negative Julian date coefficients and the other four had no trend. 
-Of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and 2 showed a decrease\citep{cai2012}. 
-The trend analysis of \citet{robinson2008ph} used data from a 90 site survey while the trend analysis in \citet{cai2012} used only 43.
+Of the 67 sites studied in the biotic effects report most showed no trend, 22 showed an increase in pH and 2 showed a decrease\citep{cai2013}. 
+The trend analysis of \citet{robinson2008ph} used data from the 90 site survey while the trend analysis in \citet{cai2013} used only 43.
 The difference in survey sites may affect the trend analysis, and for this reason both time periods will be analyzed separately here to test this hypothesis.
 The trend analysis will use stream survey data from 1993 to 2012 using the statistical programs JMP and SPSS for analysis.
 
 \subsection{Step-wise regression}
 
-A common method of trend analysis is linear regression with time as a factor.
+A general method of trend analysis is linear regression with time as a factor.
 \begin{equation} \label{eq:regression}
-	Y={\beta_0 + \beta_1  T + \beta_2  X + \epsilon}
+    Y={\beta_0 + \beta_1  T + \beta_2  X + \epsilon}
 \end{equation}
 Regression requires the data to be parametric (normal distribution) and for the data to be adjusted for X, which means that inherent variation should be removed before regression takes place.
 Much of the explained variation was handled in \autoref{sec:smoothing} but some variation comes from single observations which are termed influential observations.
-Removal of excess variation is a normal process in step-wise regression modeling.
+Removal of excess variation is a standard process in step-wise regression modeling.
 Influential observations are identified through several tests available through SPSS.
 The different tests applied for this paper include tests for normality, heteroscedasticity, cook's D, DFBETAS, and DFFITS. 
 As observations were identified by cook's d, DFBETAS, and or DFFITS as influential, they were individually analyzed to determine what made them influential. 
@@ -35,7 +35,7 @@ After sufficient attention was given to the influential observations step-wise r
 
 The step-wise selection process adds and removes predictors based on limits imposed by the user.
 In this case the F test statistic was utilized which is used as a test of fit with the data.
-A variable with a F test statistic of .05 or greater can enter but would be removed if it exceeded .10. 
+A variable with an F test statistic of .05 or higher can enter but would be removed if it exceeded .10. 
 The variables available for selection were chosen from those water quality parameters monitored by the Stream Survey. 
 One benefit of choosing only variables directly from the stream survey dataset is a high ease of repeatability for the future. 
 The models created to explain pH, ANC, NO$_3^-$, and SO$_4^{2-}$ are presented in \autoref{tab:stepwiseeq}.
@@ -57,10 +57,10 @@ Theses equations use only the three time variables to describe each of the depen
 
 \section{Results}
 Trends in \citet{robinson2008ph} are reported by the Julian date time coefficient for the dependent variables (pH, ANC, NO$_3^-$, SO$_4^{2-}$)  for each of the eleven historical elevation bands.
-The julian date coefficient was used in this paper to reflect a time trend as well.
+The Julian date coefficient was used in this paper to reflect a time trend as well.
 144 different Julian date coefficients were calculated and are presented in two tables.  
 \hyperref[app:Step-wise julian date]{Appendix D.1} records the Julian date coefficients calculated using the equations in \autoref{tab:stepwiseeq}  and \hyperref[app:time vars]{appendix D.2} records the Julian date coefficients for  equations containing only the three time variables.  
-Each trend line is represented by its Julian date coefficient, the $r^2$ value for the trend line, and it's statistical significance.
+Each trend line is represented by its Julian date coefficient, the $r^2$ value for the trendline, and its statistical significance.
 
 Only 2 of the 72 trend lines in \hyperref[app:Step-wise julian date]{appendix D.1} are insignificant, while 50 of the 72 trend lines in  \hyperref[app:time vars]{appendix D.2} are insignificant.  
 Insignificance is caused by a regression line with a p-value greater than the chosen $\alpha$ of .05.
@@ -71,7 +71,7 @@ Meaning that there is greater than a 5$\%$ chance that $\beta=0$ or in this case
 
 \subsubsection{pH}
 
-pH time trends in \hyperref[app:Step-wise julian date]{appendix D.1} were negative for only three statistically significant regression lines, all in the time range of 1993-2002, in elevation classes 2, 3, and 5 .   
+pH time trends in \hyperref[app:Step-wise Julian date]{appendix D.1} were negative for only three statistically significant regression lines, all in the time range of 1993-2002, in elevation classes 2, 3, and 5 .   
 There is one insignificant negative trend in the third time set (2009-2012) and in the fifth elevation class.   
 Overall pH in the park is increasing over time.
 
@@ -80,7 +80,7 @@ Overall pH in the park is increasing over time.
 While evaluating across time sets and elevation classes, trends for ANC fluctuate.
 In fact eleven of the lines are positive, and seven are negative.   
 Two of the three negative trends for ANC in set 2 have a smaller slope in set 3, and one of the negative trends in set 2 becomes positive in set 3.  
-When comparing time set 2 to set 3, ANC trends are increasing over time. 
+When comparing time set 2 to set 3, ANC trends are growing over time. 
 
 \subsubsection{Nitrate}
 
@@ -99,7 +99,7 @@ In \hyperref[app:time vars]{appendix D.2} only 20 of the 72 regression lines are
 \subsubsection{pH}
 
 The dependent variable pH in time set 1 has zero significant lines, time sets 2 and 3 combined are slightly less than half insignificant trend lines. 
-The insignificance of the trend lines leaves them untrustworthy, but the trend values themselves are quite similar to those calculated in \hyperref[app:Step-wise julian date]{appendix D.1}.
+The insignificance of the trend lines leaves them untrustworthy, but the trend values themselves are similar to those calculated in \hyperref[app:Step-wise Julian date]{appendix D.1}.
 
 \subsubsection{ANC}
 
@@ -122,9 +122,9 @@ Except for the base cations all of the elevational trends for the water quality 
 
 \subsection{Results by Comparison}
 
-In comparing table 4 from \citet{robinson2008ph} with \hyperref[app:Step-wise julian date]{appendix D.1} from this study, it needs to be noted that along with the elevation classes being different, the stream survey data has changed over the years. 
+In comparing table 4 from \citet{robinson2008ph} with \hyperref[app:Step-wise Julian date]{appendix D.1} from this study, it needs to be noted that along with the elevation classes being different, the stream survey data has changed over the years. 
 The largest difference in the data analyzed in \citet{robinson2008ph} and this paper is the reduction from 90 sites to 43 sites. 
-Another difference is that the Abrams creek sites were not included in this analysis but they were included in \citet{robinson2008ph}. 
+Another difference is that the Abrams creek sites were not included in this study, but they were included in \citet{robinson2008ph}. 
 These changes could explain the different trends seen in the old elevation classes from \citet{robinson2008ph} of 1,2, and 3 and elevation class 1 in this study. 
 And two sites (237, 252) that would be in the new elevation class 6 were left out of this statistical analysis as influential observations, which correspond to the historical elevation class 9 in the other analysis. 
 
@@ -136,9 +136,9 @@ All of the rest of the pH trends for Julian date for both of the current trend a
 \paragraph{pH and ANC}
 
 For a stream survey data set of 92 sites within the time frame of 1993 to 2009 \citet{cai2013} reports a decrease for pH and ANC of -0.32 pH units and -35.73 $\mu$eq L$^{-1}$ per 1000-ft elevation gain or 302-m elevation gain respectively. 
-Multiply these results by 3.3 to convert to meters and ph and ANC are -1.056 pH units and -117.909 $\mu$eq L$^{-1}$ per 1000-m elevation gain respectively.
+Multiply these results by 3.3 to convert to meters and pH and ANC are -1.056 pH units and -117.909 $\mu$eq L$^{-1}$ per 1000-m elevation gain respectively.
 A comparison between these results and those reported in \autoref{Water quality per elevation},
-In time set 3,  both pH and ANC are significantly lower with trends of -.0286 pH units and -35.689 $\mu$eq L$^{-1}$  per 1000-m gain respectively.  
+In time set 3,  both pH and ANC are significantly lower with trends of -.0286 pH units and -35.689 $\mu$eq L$^{-1}$  per 1000-m increase respectively.  
 The differing amounts of time and number of sites in each study could account for these differences.
 
 \paragraph{Nitrate and Sulfate}
@@ -153,7 +153,7 @@ As the trends for  NO$_3^-$ and SO$_4^{2-}$ decrease over the time sets the base
 It is interesting that the step-wise process did not choose elevation as an explanatory independent variable (X) for any of the dependents (Y), because many studies have declared elevation a significant explanation of variation and \autoref{fig:pHdata} clearly shows a decreasing trend for pH while increasing the elevation. 
 Increasing acidification with increased elevation was observed in \citet{cai2013} for data collected between 1993 and 2009.
 This suggests that there is an elevation trend it is just not as important as other factors when studying acidification in the GRSM.
-In fact the elevation classes themselves characterize elevation and the individual elevation classes might be to small to show a significant elevation trend.  
+In fact, the elevation classes themselves characterize elevation and the individual elevation classes might be too small to show a significant elevation trend.  
 % could get some comparative analysis in keil's basin paper
 
 A time trend is also clearly evident with a simple plot of pH vs. time.
@@ -168,15 +168,15 @@ pH and ANC are rising and the pollutants NO$_3^-$ and SO$_4^{2-}$ are decreasing
 The concerns of lowering pH raised in \citet{robinson2008ph} are now not as important as those for SO$_4^{2-}$ desorption raised in \citet{cai2013}.  
 The lack of elevation trend in SO$_4^{2-}$ was attributed to high elevation soil adsorption of depositional SO$_4^{2-}$ and a statement was made that SO$_4^{2-}$ remains absorbed to soil particles as long as soil water chemistry remains high in SO$_4^{2-}$ concentration and low in pH \citep{cai2011long}.  
 The slope for the elevation trend of SO$_4^{2-}$ over the three sets is decreasing but most of the mean SO$_4^{2-}$ concentrations listed in \autoref{tab:Descriptive Statistics} are increasing through time along with pH.
-Which suggests desorption of SO$_4^{2-}$ into the streams, thus raising the lower elevation SO$_4^{2-}$ concentrations to meet the the higher concentrations of upper elevation sites that are more effected by acid deposition.
+This suggests desorption of SO$_4^{2-}$ into the streams, thus raising the lower elevation SO$_4^{2-}$ concentrations up to the higher concentrations of upper elevation sites.
 
 %The advantage of using regression for trend analysis is its prediction abilities but regression is more difficult than the nonparametric methods of trend analysis.  
 %Tests for normality and heteroscedasticity along with variable transformations take care of forcing the usually nonparametric water quality data to be parametric.  
 %Nonparametric tests are more robust and do not require as much preparations to run and in the end are more reliable.  
 
-%\citet{robinson2008ph} predicted negative trends and 9.4 years for the historic elevation class between 914 and 1067 meters to decrease to a ph of 6.00.  
+%\citet{robinson2008ph} predicted negative trends and 9.4 years for the historic elevation class between 914 and 1067 meters to decrease to a pH of 6.00.  
 %This corresponds exactly to this study's elevation band 4 which received an increasing pH trend in all three time sets.  
 %The differences being the data sets and the equations formed through the step-wise process.  
-%The equations in \citet{robinson2008ph} follow the theory behind acidification much more closely where as the equations created in this study used variables already  available in the running stream survey dataset.
+%The equations in \citet{robinson2008ph} follow the theory behind acidification much more closely whereas the equations created in this study used variables already  available in the running stream survey dataset.
   
 %Prediction is hard and unless it is absolutely necessary to use then the Mann-Kendal test for trends would be much easier, more reliable and more robust \citep{helsel1992statistical}.      

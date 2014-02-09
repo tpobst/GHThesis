@@ -1,6 +1,5 @@
 \begin{thebibliography}{}
 
-<<<<<<< HEAD
 \bibitem[Board et~al., 1983]{board1983acid}
 Board, E.~S. et~al. (1983).
 \newblock {\em Acid Deposition: Atmospheric Processes in Eastern North
@@ -14,14 +13,15 @@ Cai, M., Schwartz, J.~S., Robinson, R.~B., Moore, S.~E., and Kulp, M.~A.
   stream water quality in a great smoky mountains high-elevation watershed.
 \newblock {\em Water, Air, \& Soil Pollution}, 219(1-4):547--562.
 
-\bibitem[Cohen, 1992]{cohen1992power}
-Cohen, J. (1992).
-=======
 \bibitem[Cohen, 1992a]{cohen1992power}
 Cohen, J. (1992a).
->>>>>>> origin/poweranalysis
 \newblock A power primer.
 \newblock {\em Psychological bulletin}, 112(1):155.
+
+\bibitem[Cohen, 1992b]{cohen1992statistical}
+Cohen, J. (1992b).
+\newblock Statistical power analysis.
+\newblock {\em Current directions in psychological science}, 1(3):98--101.
 
 \bibitem[Driscoll et~al., 2003]{driscoll2003effects}
 Driscoll, C.~T., Driscoll, K.~M., Mitchell, M.~J., and Raynal, D.~J. (2003).
@@ -40,7 +40,6 @@ Helsel, D.~R. and Hirsch, R.~M. (1992).
 \newblock {\em Statistical methods in water resources}, volume~49.
 \newblock Elsevier.
 
-<<<<<<< HEAD
 \bibitem[Johnson et~al., 1992]{johnson1992atmospheric}
 Johnson, D.~W., Lindberg, S.~E., et~al. (1992).
 \newblock {\em Atmospheric deposition and forest nutrient cycling. A synthesis
@@ -49,15 +48,10 @@ Johnson, D.~W., Lindberg, S.~E., et~al. (1992).
 
 \bibitem[Meijun~Cai, 2013]{cai2013}
 Meijun~Cai, J. S.~S. (2013).
-=======
-\bibitem[Meijun~Cai, 2012]{cai2012}
-Meijun~Cai, J. S.~S. (2012).
->>>>>>> origin/poweranalysis
 \newblock Biological effects of stream water quality on aquatic
   macroinvertebrates and fish communities within great smoky mountains national
   park.
 
-<<<<<<< HEAD
 \bibitem[Neff et~al., 2009]{neff2009physiological}
 Neff, K.~J., Schwartz, J.~S., Henry, T.~B., Robinson, R.~B., Moore, S.~E., and
   Kulp, M.~A. (2009).
@@ -84,8 +78,6 @@ Odom, K.~R. (2003).
   network in the great smoky mountains national park}.
 \newblock PhD thesis.
 
-=======
->>>>>>> origin/poweranalysis
 \bibitem[Robinson et~al., 2008]{robinson2008ph}
 Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and
   Schwartz, J.~S. (2008).
@@ -104,5 +96,11 @@ Sullivan, T., Cosby, B., Herlihy, A., Webb, J., Bulger, A., Snyder, K., Brewer,
 UTK (2012).
 \newblock 2011 water quality annual report.
 \newblock Technical report.
+
+\bibitem[Weathers et~al., 2006]{weathers2006}
+Weathers, K.~C., Simkin, S.~M., Lovett, G.~M., and Lindberg, S.~E. (2006).
+\newblock Empirical modeling of atmospheric deposition in mountainous
+  landscapes.
+\newblock {\em Ecological Applications}, 16(4):1590--1607.
 
 \end{thebibliography}

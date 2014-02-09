@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  7 FEB 2014 15:47
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  31 JAN 2014 12:47
->>>>>>> origin/bonferroni
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  5 FEB 2014 18:11
->>>>>>> origin/poweranalysis
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  7 FEB 2014 16:10
 entering extended mode
 **C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -921,7 +913,10 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \NC@list=\toks48
 \extratabsurround=\skip69
 \backup@length=\skip70
-) (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgeme
 nts.aux)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/abstract.aux)
@@ -937,40 +932,20 @@ aux)
 LaTeX Warning: Label `tab:Site Data' multiply defined.
 
 ) (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.aux))
-<<<<<<< HEAD
-<<<<<<< HEAD
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-=======
-=======
->>>>>>> origin/poweranalysis
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
->>>>>>> origin/bonferroni
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
@@ -1007,16 +982,8 @@ LaTeX Font Info:    ... okay on input line 65.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box44
-<<<<<<< HEAD
-Package backref Info: ** backref set up for natbib ** on input line 66.
-Package hyperref Info: Link coloring ON on input line 66.
-=======
-Package backref Info: ** backref set up for natbib ** on input line 65.
-Package hyperref Info: Link coloring ON on input line 65.
-<<<<<<< HEAD
->>>>>>> origin/bonferroni
-=======
->>>>>>> origin/poweranalysis
+Package backref Info: ** backref set up for natbib ** on input line 67.
+Package hyperref Info: Link coloring ON on input line 67.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1025,9 +992,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 66.
-LaTeX Info: Redefining \pageref on input line 66.
-LaTeX Info: Redefining \nameref on input line 66.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.out)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.out)
@@ -1056,29 +1023,18 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.9} into y
 our preamble.
- on input line 66.
+ on input line 67.
 
-<<<<<<< HEAD
-LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 69.
-=======
-LaTeX Font Info:    Try loading font information for U+msa on input line 68.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 68.
-<<<<<<< HEAD
->>>>>>> origin/bonferroni
-=======
->>>>>>> origin/poweranalysis
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 69.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 70.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1086,12 +1042,12 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 Non-PDF special ignored!
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
  []
 
@@ -1101,19 +1057,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--70
 
 
 ]
-<<<<<<< HEAD
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
-=======
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
-<<<<<<< HEAD
->>>>>>> origin/bonferroni
-=======
->>>>>>> origin/poweranalysis
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
  [2
 
 
@@ -1176,16 +1125,7 @@ tex)
 :<+ chapters/chapter-1.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-1.tex
 Chapter 1.
-<<<<<<< HEAD
-<<<<<<< HEAD
 [1
-=======
-<figures/pdf/pHdata.pdf, id=398, 794.97pt x 614.295pt>
-=======
-<figures/pdf/pHdata.pdf, id=403, 794.97pt x 614.295pt>
->>>>>>> origin/poweranalysis
-File: figures/pdf/pHdata.pdf Graphic file (type pdf)
->>>>>>> origin/bonferroni
 
 
 
@@ -1199,7 +1139,7 @@ File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/SSsites.pdf): PDF inclusion: found PDF version <1.7>, but a
 t most version <1.5> allowed
-<figures/pdf/SSsites.pdf, id=508, 794.97pt x 614.295pt>
+<figures/pdf/SSsites.pdf, id=503, 794.97pt x 614.295pt>
 File: figures/pdf/SSsites.pdf Graphic file (type pdf)
 
 <use figures/pdf/SSsites.pdf>
@@ -1236,273 +1176,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
 \OT1/cmr/m/n/12 sam-pling
  []
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 )
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/Historic43elevbands' to 
 `FiguresnTables/Historic43elevbands.tex' on input line 91.
 :<+ FiguresnTables/Historic43elevbands.tex
-=======
-=======
->>>>>>> origin/poweranalysis
- <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/pHdata.pdf>]
-Overfull \hbox (2857.65662pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid Deposition, more commonly known as Acid Rain, is a cons
-tant problem for the industrialized world. The amount of pollutants released in
-to the atmosphere has risen since the industrial revolution.  The processes tha
-t industrial plants utilize excess sulfur oxides (SOx) and nitrogen oxides (NOx
-) into the atmosphere. This effluent production of chemicals creates problems f
-or the world's environmental systems including acid deposition and other effect
-s that can harm our health, our surface waters, our soils, and our structures.[
-] 
- []
-
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-
-Overfull \hbox (4710.15753pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid Deposition occurs when the emissions of sulfur oxides (
-SOx), and nitrogen oxides (NOx) react within the atmosphere and then the consti
-tuents and their newly created chemicals are deposited on the earths surface.  
-Acid Deposition has similar characteristics of regular precipitation but it has
- lower average pH of less than 4.5.  These pollutants can come down to ground i
-n three ways: wet deposition (rain and snow), dry deposition (gases and particl
-es), and fog or cloud deposition (occult).  Once the acid deposition constituen
-ts have entered in the environment they react with the surface waters, in the s
-oil, and on man-made structures (Calvert, 1983).  This begins to acidify the su
-rface waters which can harm any life forms that interact with it, it can acidif
-y the soils and harm the plants, and it can degrade buildings.[] 
- []
-
-
-Overfull \hbox (2493.33144pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acid deposition greatly impacts surface water and the surrou
-nding environment. The added pollutants affects the alkalinity of water, or its
- ability to buffer a change in acidity,  and results in a pH change.  As the pH
- level lowers, the ability of surface waters to sustain aquatic life also decli
-ne, this is called acidification. And while many factors affect the ability for
- the survival of aquatic life, acidification can be directly related to a lot o
-f species survival.[] 
- []
-
-
-Overfull \hbox (3468.98192pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Acidification of bodies of water can be either chronic or ep
-isodic. Chronic acidification occurs when the body of water has constant low ac
-id neutralizing capability (ANC); which creates a large area of  nearly un-inha
-bitable water where aquatic life would struggle to survive. Episodic acidificat
-ion describes a rapid increase of acidity. Drastic acidification episodes resul
-t in large surges of nitrates and/or sulfates in surface waters. Episodes often
- occur during snow melts or heavy rains and are detrimental to aquatic life dur
-ing the vulnerable early phases of life. (http://www.epa.gov/acidrain/effects/s
-urface_water.html).[] 
- []
-
-
-Overfull \hbox (12669.73647pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 The Great Smoky Mountains National Park (GRSM) is located in
- the southern Appalachians straddling eastern Tennessee and western North Carol
-ina.  While the second largest National Park in the eastern United States, comp
-rising more than 220,000 hectares, it is the most-visited National Park with ap
-proximately 10 million visitors, twice the number of visitors to any other Nati
-onal Park, each year(Moore, 2001).  Furthermore GRSM is the largest undisturbed
- deciduous or coniferous forest-dominated area in the eastern United States (De
-lcourt and Delcourt, 1991).  The park is home to about 100 species of native tr
-ees, with the majority of the park is forest and nearly a quarter of that is ol
-d growth.  There are over 1,500 flowering plant species located in the GRSM alo
-ng with 200 species of birds, 66 types of mammals, 50 native fish species, 39 k
-inds of reptiles, and 43 species of amphibians,  not to mention insects.  In re
-cognition of the park's unique natural resources, the United Nations has design
-ated GRSM as an International Biosphere Reserve, which are established to show 
-a balance between people and nature (http://www.nps.gov/grsm/naturescience/inde
-x.htm). GRSM streams support a great number of fish species, amphibians, and be
-nthic invertebrates; five streams in the GRSM have been designated as an Outsta
-nding National Resource Waters (Neff, 2009).  The National Park Service (NPS) w
-ishes to conserve the biodiversity of the park.Acid deposition negatively affec
-ts the 3,000 km of streams present in the GRSM and that impacts every living th
-ing in the park which rely on the water quality in the park.  A literature revi
-ew in (Neff 2007) approximates a pH of 6 for biological effects and a pH of 5 f
-or mortality in trout for the park.  Exact threshold values are difficult to fi
-nd because of the large number of influential factors such as species, age, egg
- versus fry versus adult, background water quality, exposure duration, etc.  Wh
-ile pH levels from 5 to 6 can be toxic in the presence of aluminum and can be h
-armful to eggs and fry in very soft waters in the lower end of the range.(Robin
-son 08).[] 
- []
-
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-
-Overfull \hbox (12342.4613pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 In order to monitor acid deposition the park has a program c
-alled the Inventory and Monitoring program.  An aspect of this program is a hig
-h elevation site, Noland Divide Watershed.  NDW is a small, 17.4 ha, watershed 
-about 2 km east of Clingmans Dome, which is the second highest peak in the east
-ern US.  NDW contains sites to measure wet and dry deposition as well as "grab"
- samples to study in the lab.  This site is a continuation of the Integrated Fo
-rest Study (IFS) and was taken over by the park in 1991.  The IFS observed and 
-quantified atmospheric deposition and nutrient cycling in forested watersheds. 
- The study demonstrated the upper elevations of the GRSM receive some of the hi
-ghest loading rates of acidifying nitrogen and sulphur species in North America
- (Johnson and Lindberg, 1992).   The park wide Stream Survey is also part of th
-e IFS and focuses on the park as a whole, this water quality monitoring network
- uses stream survey samples collected throughout the year in order to quantify 
-water quality in the park.  Currently, samples are collected from 32 sites ever
-y two months and an additional 11 samples are collected twice per year.  These 
-samples cover streams from 6 GRSM stream systems.  Every sample collected inclu
-ding NDW is processed in the lab for conductivity, pH, ANC, Chloride, Nitrate, 
-Sulfate, Phosphate, Ammonium, Sodium, Potassium, Magnesium, Calcium, Aluminum, 
-Copper, Iron, Manganese, Silicon, and Zinc.  Information leading to a bettering
- understanding of water quality conditions per watershed characteristics aids G
-RSM resource staff in managing the Parks natural resources.  Other than chemist
-ry the acidity of the park streams can be affected by geographical attributes s
-uch as geology and elevation. Stream acidification is more pronounced in higher
- elevation watersheds with underlying base-poor geology (Herligy et al. 1991, H
-yer et al. 1995; Wigington et al. 1996a,b).  The acidification patterns along a
-n elevational gradient occur throughout the Appalachian region similar to the d
-ata collected in the GRSM streams.[] 
- []
-
-
-Overfull \hbox (653.18053pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 This figure shows all pH data from 1993 to 2012 vs. Elevatio
-n (m).  The red trend line includes abrams,  sites 237 and 252.  These outliers
- are removed for the blue trend line.[] 
- []
-
-
-Overfull \hbox (7340.70883pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Figure 1 is a graph of all measured pH values for Stream Sur
-vey between the years of 1993 and 2012 graphed against the elevations they were
- collected.  Two notable figures are here, one that contains all pH data from 1
-993 to 2012 and another that has removed the outliers Abrams stream system alon
-g with sites 252 and 237.  The steeper sloped line represents the data set that
- still contains Abrams, sites 237, and 252.  This graph clearly illustrates pH 
-trending downwards as elevation increases.  Increases in sulfate or nitrate in 
-runoff and streams through acid deposition can cause an increase leaching of ba
-se cations, hydrogen ion, aluminum, and decreased ANC (Sullivan, 2004).  Leache
-d aluminum can end up in streams and is toxic to fish (Driscoll 2003).  Rainfal
-l and fog in the GRSM affect elevations above 4000 feet first higher elevations
- have steeper slopes which correlate to both thinner soils and base poor geolog
-y.  All these factors contribute to lower pH in higher elevations.  Neff et al.
- (2013) observed this trend, but found other basin factors correlate to chronic
- and episodic acidification.  Other basins factors include drainage area size, 
-vegetation, and soil properties, which factors all are change within an elevati
-onal gradient.[] 
- []
-
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ú in font cmtt12!
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ù in font cmtt12!
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-Missing character: There is no Œ in font cmtt12!
-Missing character: There is no º in font cmtt12!
-Missing character: There is no Œ in font cmtt12!
-Missing character: There is no º in font cmtt12!
-
-Overfull \hbox (9007.95966pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 In support of GRSM natural resource management, stream water
- quality has been monitored since 1993, and this long-term dataset was recently
- statistically analyzed and commonly referred to as the Biotic Effects Report (
-Cai et al. 2013).  In this report, elevation was found to be a dominant driver 
-for predicting water quality among the parks stream.  Overall, results in this 
-report found that stream pH and ANC decreased at -.32 units and -35.73 eq L-1 r
-espectively, per 1,000-ft elevation gain.  Conductivity, chloride, and base cat
-ions were also found to significantly decrease with elevation gain.  Sulfate sh
-owed no significant trend with elevation, however nitrate was found to signific
-antly increase with elevation gain.  The GRSM 2011 Annual Water Quality Report 
-compared pH trend lines representing the current 43 sites from 1993-2010 with 2
-011.  The data showed lines of similar slopes with different intercepts, which 
-was interpreted to mean increasing pH at all elevations in GRSM streams.  Acid 
-deposition increases with elevation in the GRSM and the higher elevation stream
-s would experience increased sulfate, and prolonged acidification if soil desor
-ption becomes a dominant geochemical watershed process which could occur if pH 
-increased to 6.0 and sulfate dropped below 50 eq L-1.  From a management perspe
-ctive, the Biotic Effects Report contains limitations in the analyses to assess
- long-term changes because locations sampled have changed over time and most cu
-rrent sample locations are at lower elevations.[] 
- []
-
-
-Overfull \hbox (1400.3559pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 Table 1 shows the current historical elevation classes with 
-the number of sites they include and the percent of sites in each band.  Althou
-gh there were limitations, the biotic effects report provided essential informa
-tion on how to improve future water quality and biological monitoring programs.
-[] 
- []
-
-
-Overfull \hbox (5160.93275pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 The National Park Service is currently developing a Vital Si
-gn Monitoring Program for a number of national parks around the country, which 
-includes the GRSM (Annual Administrative Report For Inventories and Vital Signs
- Monitoring FY 2010).  The goal of the GRSM Vital Sign Monitoring Program is to
- assess long-term changes in ecosystem health, including both terrestrial and a
-quatic environments. In addition, the program will integrate these environments
- and and include existing data on basin factors associated with water quality. 
-  Although it is widely recognized that elevational gradient is important, a qu
-estion about what elevation ranges are changing versus those that are not needs
- to be quantified in order to design an effective sampling program.  In additio
-n, data must be collected at a set frequency to provide sufficient statistical 
-power to make valid interpretations of change over time.[] 
- []
-
-
-Overfull \hbox (523.50546pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item  characterize time trends in stream pH and acidic anio
-ns among elevation ranges in order to assess whether conditions are improving o
-r degrading, and[] 
- []
-
-Missing character: There is no ‚ in font cmtt12!
-Missing character: There is no Ä in font cmtt12!
-Missing character: There is no ô in font cmtt12!
-
-Overfull \hbox (1826.4311pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item characterize sampling variance based on available wate
-r quality data, within the context of time and elevation, to support developmen
-t of the GRSMs Vital Signs Monitoring Program.  In addition to supporting this 
-Program, a cost analysis of selected water quality sampling schemes will be sum
-marized.  The format of this thesis will follow these two objectives.[] 
- []
-
-
-Overfull \hbox (955.75568pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item Has stream pH and acid anion concentrations changed am
-ong three time periods (1993-2002, 2003-2008, and 2009-2012), and among six ele
-vation ranges (1000-2000ft, 2000-2500ft, 2500-3000ft, 3000-3500ft,3500-4500ft, 
-4500<)?[] 
- []
-
-
-Overfull \hbox (381.4804pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 \item What is the statistical power for water quality parame
-ters based on frequency and elevational location based on historic data?[] 
- []
-
-[2]
-Overfull \hbox (745.80557pt too wide) in paragraph at lines 45--45
-[]\OT1/cmtt/m/n/12 The thesis is organized into two separate chapters following
- the two above research questions. Each chapter will follow the technical forma
-t of introduction, methods, results, and discussion.[] 
- []
-
-) [3]
-:<-
-:<+ chapters/chapter-2.tex
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.tex
-Chapter 2.
-[4
->>>>>>> origin/bonferroni
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Historic43e
 levbands.tex)
@@ -1512,7 +1190,7 @@ levbands.tex)
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/DepositionHeat.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<figures/pdf/DepositionHeat.pdf, id=546, 794.97pt x 614.295pt>
+<figures/pdf/DepositionHeat.pdf, id=541, 794.97pt x 614.295pt>
 File: figures/pdf/DepositionHeat.pdf Graphic file (type pdf)
 
 <use figures/pdf/DepositionHeat.pdf>
@@ -1522,24 +1200,14 @@ Package pdftex.def Info: figures/pdf/DepositionHeat.pdf used on input line 101.
  [7 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/Deposition
 Heat.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/elevationbands' to `Figu
-<<<<<<< HEAD
-<<<<<<< HEAD
 resnTables/elevationbands.tex' on input line 116.
-=======
-resnTables/elevationbands.tex' on input line 25.
->>>>>>> origin/bonferroni
-=======
-resnTables/elevationbands.tex' on input line 25.
->>>>>>> origin/poweranalysis
 
 :<+ FiguresnTables/elevationbands.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationba
 nds.tex)
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[8] [9] <figures/pdf/pHdata.pdf, id=592, 794.97pt x 614.295pt>
+[8] [9] <figures/pdf/pHdata.pdf, id=586, 794.97pt x 614.295pt>
 File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 
 <use figures/pdf/pHdata.pdf>
@@ -1555,18 +1223,6 @@ Missing character: There is no ô in font cmr12!
 :<+ chapters/chapter-2.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-2.tex
 Chapter 2.
-
-Package natbib Warning: Citation `cai2012' on page 13 undefined on input line 1
-0.
-
-
-Package natbib Warning: Citation `cai2012' on page 13 undefined on input line 1
-3.
-
-
-Package natbib Warning: Citation `cai2012' on page 13 undefined on input line 1
-4.
-
 [13
 
 
@@ -1575,16 +1231,6 @@ Package natbib Warning: Citation `cai2012' on page 13 undefined on input line 1
 ] [14]
 Package srcltx Info: Expanded filename `FiguresnTables/stepwiseeq' to `Figuresn
 Tables/stepwiseeq.tex' on input line 50.
-=======
-[5] [6]
-Package srcltx Info: Expanded filename `FiguresnTables/stepwiseeq' to `Figuresn
-Tables/stepwiseeq.tex' on input line 44.
->>>>>>> origin/bonferroni
-=======
-[5] [6]
-Package srcltx Info: Expanded filename `FiguresnTables/stepwiseeq' to `Figuresn
-Tables/stepwiseeq.tex' on input line 44.
->>>>>>> origin/poweranalysis
 
 :<+ FiguresnTables/stepwiseeq.tex
 
@@ -1629,8 +1275,6 @@ Overfull \hbox (5.80103pt too wide) in paragraph at lines 3--14
 
 )
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
 [15] [16] [17]
 Package srcltx Info: Expanded filename `FiguresnTables/Elevationtrends' to `Fig
 uresnTables/Elevationtrends.tex' on input line 117.
@@ -1640,78 +1284,28 @@ uresnTables/Elevationtrends.tex' on input line 117.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Elevationtr
 ends.tex)
 :<-
-[18] [19] [20]) [21]
-=======
-[7] [8] [9]) [10]
->>>>>>> origin/bonferroni
-=======
-[7] [8] [9]) [10]
->>>>>>> origin/poweranalysis
+[18] [19] [20]
+
+LaTeX Warning: Reference `fig:sulfateemissions' on page 21 undefined on input l
+ine 164.
+
+) [21]
 :<-
 :<+ chapters/chapter-3.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.tex
 Chapter 3.
 
+LaTeX Warning: Reference `fig:sulfateemissions' on page 22 undefined on input l
+ine 7.
 
-pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
-xThesis/figures/pdf/SulfateEmissions.pdf): PDF inclusion: found PDF version <1.
-7>, but at most version <1.5> allowed
-<<<<<<< HEAD
-<<<<<<< HEAD
-<figures/pdf/SulfateEmissions.pdf, id=733, 794.97pt x 614.295pt>
-=======
-<figures/pdf/SulfateEmissions.pdf, id=480, 794.97pt x 614.295pt>
->>>>>>> origin/poweranalysis
-File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
-
-<use figures/pdf/SulfateEmissions.pdf>
-Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 10
-<<<<<<< HEAD
-=======
-<figures/pdf/SulfateEmissions.pdf, id=474, 794.97pt x 614.295pt>
-File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
-
-<use figures/pdf/SulfateEmissions.pdf>
-Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 19
->>>>>>> origin/bonferroni
-=======
->>>>>>> origin/poweranalysis
-.
-(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
- [11
-
-
-<<<<<<< HEAD
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<<<<<<< HEAD
 [22
-=======
-[11
->>>>>>> origin/poweranalysis
 
 
 
 
-<<<<<<< HEAD
-] [23 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
-missions.pdf>]
+] [23]
 Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
-bles/Bontable.tex' on input line 44.
-=======
-
-
-] [12 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
-missions.pdf>]
-Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
-bles/Bontable.tex' on input line 48.
->>>>>>> origin/bonferroni
-=======
-] [12 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
-missions.pdf>]
-Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
-bles/Bontable.tex' on input line 44.
->>>>>>> origin/poweranalysis
+bles/Bontable.tex' on input line 42.
 
 :<+ FiguresnTables/Bontable.tex
 
@@ -1723,33 +1317,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
 )
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[24]
-=======
-[13]
+[24] [25]
 
-Package caption Warning: \label without proper \caption on input line 9.
-See the caption package documentation for explanation.
+LaTeX Warning: Reference `fig:sulfateemissions' on page 26 undefined on input l
+ine 86.
 
-
-LaTeX Warning: Reference `fig:ANOVApH1' on page 14 undefined on input line 48.
-
-
-Package caption Warning: \label without proper \caption on input line 64.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:ANOVASO46' on page 14 undefined on input line 48.
-
-
-[14]) [15]
+[26]) [27]
 :<-
 :<+ chapters/chapter-4.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
 Chapter 4.
 Package srcltx Info: Expanded filename `FiguresnTables/HypothesisTests' to `Fig
-uresnTables/HypothesisTests.tex' on input line 15.
+uresnTables/HypothesisTests.tex' on input line 16.
 :<+ FiguresnTables/HypothesisTests.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/HypothesisT
@@ -1757,79 +1336,48 @@ ests.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--8
 []|\OT1/cmr/m/n/12 Correct de-ci-sion
  []
->>>>>>> origin/poweranalysis
-
-Package caption Warning: \label without proper \caption on input line 9.
-See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:ANOVApH1' on page 25 undefined on input line 48.
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\OT1/cmr/m/n/12 Type II er-ror
+ []
 
 
-Package caption Warning: \label without proper \caption on input line 64.
-See the caption package documentation for explanation.
+Underfull \hbox (badness 4981) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/12 Type I er-ror Prob
+ []
 
 
-LaTeX Warning: Reference `fig:ANOVASO46' on page 25 undefined on input line 48.
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]|\OT1/cmr/m/n/12 Correct de-ci-sion
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 Prob (cor-rect
+ []
 
-Package natbib Warning: Citation `cai2012' on page 25 undefined on input line 5
-7.
 
-[25]) [26]
-=======
-[13] [14] [15]) [16] [17]
->>>>>>> origin/bonferroni
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 de-ci-sion) = 1-$\OML/cmm/m/it/12 $
+ []
+
+)
 :<-
-<<<<<<< HEAD
-:<+ chapters/chapter-4.tex
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
-Chapter 4.
-<<<<<<< HEAD
-[27
-=======
-[18
->>>>>>> origin/bonferroni
-=======
-[16
->>>>>>> origin/poweranalysis
+[28
 
 
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-] [28] [29]
-=======
-] [19] [20]
->>>>>>> origin/bonferroni
-Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
-snTables/aprioritable.tex' on input line 53.
-
-:<+ FiguresnTables/aprioritable.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritabl
-e.tex)
-:<-
-<<<<<<< HEAD
-[30]
-=======
-[21]
->>>>>>> origin/bonferroni
-Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
-snTables/sytaapeighty.tex' on input line 57.
-=======
-] [17]
+] [29]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 48.
+(amsmath)                 on input line 49.
 
-[18] [19]
+[30] [31]
 Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
-snTables/aprioritable.tex' on input line 83.
->>>>>>> origin/poweranalysis
+snTables/aprioritable.tex' on input line 84.
 
 :<+ FiguresnTables/aprioritable.tex
 
@@ -1837,34 +1385,15 @@ snTables/aprioritable.tex' on input line 83.
 e.tex)
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
-snTables/sytaapeighty.tex' on input line 95.
+snTables/sytaapeighty.tex' on input line 96.
 :<+ FiguresnTables/sytaapeighty.tex
-<<<<<<< HEAD
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeight
 y.tex)
 :<-
-
-<<<<<<< HEAD
-LaTeX Warning: Reference `sytaapeighty' on page 31 undefined on input line 58.
-
-[31] [32]
-=======
-LaTeX Warning: Reference `sytaapeighty' on page 22 undefined on input line 58.
-
-[22] [23]
->>>>>>> origin/bonferroni
-Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
-uresnTables/currentyrsto.80.tex' on input line 83.
-
-=======
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeight
-y.tex)
-:<-
-[20] [21]
+[32] [33]
 Package srcltx Info: Expanded filename `FiguresnTables/powergraphtable' to `Fig
-uresnTables/powergraphtable.tex' on input line 133.
+uresnTables/powergraphtable.tex' on input line 134.
 
 :<+ FiguresnTables/powergraphtable.tex
 
@@ -1872,8 +1401,7 @@ uresnTables/powergraphtable.tex' on input line 133.
 able.tex)
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
-uresnTables/currentyrsto.80.tex' on input line 142.
->>>>>>> origin/poweranalysis
+uresnTables/currentyrsto.80.tex' on input line 143.
 :<+ FiguresnTables/currentyrsto.80.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/currentyrst
@@ -1902,42 +1430,11 @@ Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--16
 [][]
  []
 
-[22])
+[34])
 :<-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-LaTeX Warning: Reference `currentyrsto.80' on page 33 undefined on input line 8
-5.
-
-
-LaTeX Warning: Reference `APN' on page 33 undefined on input line 85.
-
-
-LaTeX Warning: Reference `currentyrsto.80' on page 33 undefined on input line 8
-5.
-
-[33]
-=======
-LaTeX Warning: Reference `currentyrsto.80' on page 24 undefined on input line 8
-5.
-
-
-LaTeX Warning: Reference `APN' on page 24 undefined on input line 85.
-
-
-LaTeX Warning: Reference `currentyrsto.80' on page 24 undefined on input line 8
-5.
-
-[24]
->>>>>>> origin/bonferroni
+[35]
 Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
-nTables/WQapsenario.tex' on input line 87.
-=======
-[23]
-Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
-nTables/WQapsenario.tex' on input line 152.
->>>>>>> origin/poweranalysis
+nTables/WQapsenario.tex' on input line 153.
 
 :<+ FiguresnTables/WQapsenario.tex
 
@@ -1945,102 +1442,34 @@ nTables/WQapsenario.tex' on input line 152.
 .tex)
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/TVapsenario' to `Figures
-<<<<<<< HEAD
-nTables/TVapsenario.tex' on input line 88.
-=======
-nTables/TVapsenario.tex' on input line 154.
->>>>>>> origin/poweranalysis
+nTables/TVapsenario.tex' on input line 155.
 :<+ FiguresnTables/TVapsenario.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario
 .tex)
 :<-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-LaTeX Warning: Reference `WQapsenario' on page 34 undefined on input line 89.
-
-
-LaTeX Warning: Reference `TVapsenario' on page 34 undefined on input line 89.
-
-
-LaTeX Warning: Reference `WQapsenario' on page 34 undefined on input line 90.
-
-[34]
-
-LaTeX Warning: Reference `TVapsenario' on page 35 undefined on input line 91.
-
-
-LaTeX Warning: Reference `WQapsenario' on page 35 undefined on input line 91.
-
-[35] [36]) [37]
-=======
-LaTeX Warning: Reference `WQapsenario' on page 25 undefined on input line 89.
-
-
-LaTeX Warning: Reference `TVapsenario' on page 25 undefined on input line 89.
-
-
-LaTeX Warning: Reference `WQapsenario' on page 25 undefined on input line 90.
-
-[25]
-
-LaTeX Warning: Reference `TVapsenario' on page 26 undefined on input line 91.
-
-
-LaTeX Warning: Reference `WQapsenario' on page 26 undefined on input line 91.
-
-[26] [27]) [28]
->>>>>>> origin/bonferroni
-=======
-[24] [25] [26]) [27]
->>>>>>> origin/poweranalysis
+[36] [37] [38]) [39]
 :<-
 :<+ TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.brf)
 \tf@brf=\write9
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-[38
-=======
->>>>>>> origin/poweranalysis
-
-[28
-
-
-<<<<<<< HEAD
-] [39
-=======
-[29
+[40
 
 
 
-] [30
->>>>>>> origin/bonferroni
+] [41
 
 ]
-Underfull \hbox (badness 1087) in paragraph at lines 94--94
+Underfull \hbox (badness 1087) in paragraph at lines 105--105
 \OT1/cmr/m/n/12 mod-el-ing of at-mo-spheric de-po-si-tion in moun-tain-ous land
 -scapes.  \OT1/cmr/m/it/12 Eco-log-i-cal
  []
 
 )
 :<-
-<<<<<<< HEAD
-[40] [41]
-=======
-[31] [32]
->>>>>>> origin/bonferroni
-=======
-
-])
-:<-
-[29
-
-] [30]
->>>>>>> origin/poweranalysis
+[42] [43]
 :<+ back-matter/appendix-1.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
@@ -2103,27 +1532,11 @@ Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
 
 )
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[42
+[44
 
 
 
-] [43] [44]
-=======
-[33
-
-
-
-] [34] [35]
->>>>>>> origin/bonferroni
-=======
-[31
-
-
-
-] [32] [33]
->>>>>>> origin/poweranalysis
+] [45] [46]
 Appendix B.
 Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
 guresnTables/DescriptiveStats.tex' on input line 12.
@@ -2170,21 +1583,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[45
+[47
 
-] [46]
-=======
-[36
-
-] [37]
->>>>>>> origin/bonferroni
-=======
-[34
-
-] [35]
->>>>>>> origin/poweranalysis
+] [48]
 Appendix C.
 Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
 ables/variables.tex' on input line 16.
@@ -2193,15 +1594,7 @@ ables/variables.tex' on input line 16.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.t
 ex)
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[47
-=======
-[38
->>>>>>> origin/bonferroni
-=======
-[36
->>>>>>> origin/poweranalysis
+[49
 
 ]
 Appendix D.
@@ -2279,27 +1672,11 @@ LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
 
 )
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[48
+[50
 
-] [49] [50]
+] [51] [52]
 Appendix E.
-[51
-=======
-[39
-
-] [40] [41]
-Appendix E.
-[42
->>>>>>> origin/bonferroni
-=======
-[37
-
-] [38] [39]
-Appendix E.
-[40
->>>>>>> origin/poweranalysis
+[53
 
 ]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
@@ -2316,6 +1693,11 @@ Underfull \hbox (badness 4416) in paragraph at lines 2--67
 
 Underfull \hbox (badness 4416) in paragraph at lines 2--67
 $[]$   $[]$
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--68
+[]$[]$ 
  []
 
 )
@@ -2338,19 +1720,16 @@ $[]$   $[]$
 )
 :<-
 
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--33
+[]$[]$
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--33
 
  []
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[52]
-=======
-[43]
->>>>>>> origin/bonferroni
-=======
-[41]
->>>>>>> origin/poweranalysis
+[54]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
 snTables/ANOVANitrate.tex' on input line 35.
 
@@ -2370,19 +1749,16 @@ $[]$   $[]$
 )
 :<-
 
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--36
+[]$[]$
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[53]
-=======
-[44]
->>>>>>> origin/bonferroni
-=======
-[42]
->>>>>>> origin/poweranalysis
+[55]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
 snTables/ANOVASulfate.tex' on input line 38.
 
@@ -2402,19 +1778,16 @@ $[]$   $[]$
 )
 :<-
 
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--39
+[]$[]$
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--39
 
  []
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[54] [55]
-=======
-[45] [46]
->>>>>>> origin/bonferroni
-=======
-[43] [44]
->>>>>>> origin/poweranalysis
+[56] [57]
 Appendix F.
 Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
 ables/SWposthoc.tex' on input line 43.
@@ -2590,21 +1963,9 @@ Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
 
 )
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[56
+[58
 
-] [57] [58]
-=======
-[47
-
-] [48] [49]
->>>>>>> origin/bonferroni
-=======
-[45
-
-] [46] [47]
->>>>>>> origin/poweranalysis
+] [59] [60]
 Appendix G.
 Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
 snTables/pHPowerGraph.tex' on input line 53.
@@ -2634,33 +1995,13 @@ snTables/TVpowergraph.tex' on input line 59.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergrap
 h.tex)
 :<-
-<<<<<<< HEAD
-<<<<<<< HEAD
-) [59
+) [61
 
-] [60] [61] [62] [63]
+] [62] [63] [64] [65]
 :<-
 :<+ back-matter/vita.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex)
-[64
-=======
-) [50
-
-] [51] [52] [53] [54]
-:<-
-:<+ back-matter/vita.tex
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex)
-[55
->>>>>>> origin/bonferroni
-=======
-) [48
-
-] [49] [50] [51] [52]
-:<-
-:<+ back-matter/vita.tex
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex)
-[53
->>>>>>> origin/poweranalysis
+[66
 
 
 
@@ -2669,19 +2010,8 @@ h.tex)
 
 ]
 :<-
-<<<<<<< HEAD
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
-=======
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
-<<<<<<< HEAD
->>>>>>> origin/bonferroni
-=======
->>>>>>> origin/poweranalysis
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgeme
 nts.aux)
@@ -2695,30 +2025,12 @@ aux)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux
 ) (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.aux))
-<<<<<<< HEAD
-<<<<<<< HEAD
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0DEAFB4C95025A35CCF5B283223C3285;4340.
+(rerunfilecheck)             Checksum: 10A5638AC76983C1B9EE46DDFEE97B25;4192.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: DC577E5B16B94CFD5E70580C9A8A90AE;2745.
-=======
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
-Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 726C839E867580D7ED136AD2826B3A6C;3317.
-Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 34C775244778F42F1C03FC43B495A416;763.
->>>>>>> origin/bonferroni
-=======
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
-Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 768B868EFB70904E78493978FF2DF20F;3335.
-Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 99503A3399632DB00CB3705F314F4755;946.
->>>>>>> origin/poweranalysis
+(rerunfilecheck)             Checksum: E317BA0F682FDAF2014B566EDBF5DE21;3035.
 
 
 LaTeX Warning: There were undefined references.
@@ -2726,36 +2038,16 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
-<<<<<<< HEAD
- 26049 strings out of 493921
- 574757 string characters out of 3144878
- 807606 words of memory out of 3000000
- 28452 multiletter control sequences out of 15000+200000
+ 26074 strings out of 493921
+ 575545 string characters out of 3144878
+ 807952 words of memory out of 3000000
+ 28461 multiletter control sequences out of 15000+200000
  14530 words of font info for 58 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  64i,19n,100p,860b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
-=======
- 25944 strings out of 493921
- 572619 string characters out of 3144878
- 805404 words of memory out of 3000000
- 28398 multiletter control sequences out of 15000+200000
- 14530 words of font info for 58 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 64i,19n,100p,2232b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
->>>>>>> origin/bonferroni
-=======
- 25931 strings out of 493921
- 572635 string characters out of 3144878
- 805744 words of memory out of 3000000
- 28376 multiletter control sequences out of 15000+200000
- 14530 words of font info for 58 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 64i,19n,100p,2232b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
->>>>>>> origin/poweranalysis
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
@@ -2769,30 +2061,12 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-<<<<<<< HEAD
 fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmtt12.pfb>
-<<<<<<< HEAD
-Output written on TimPobst-thesis.pdf (76 pages, 1187881 bytes).
+Output written on TimPobst-thesis.pdf (78 pages, 1114633 bytes).
 PDF statistics:
- 1135 PDF objects out of 1200 (max. 8388607)
- 240 named destinations out of 1000 (max. 500000)
- 577 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-Output written on TimPobst-thesis.pdf (67 pages, 584694 bytes).
-PDF statistics:
- 863 PDF objects out of 1000 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 463 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> origin/bonferroni
-=======
-fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (65 pages, 583481 bytes).
-PDF statistics:
- 883 PDF objects out of 1000 (max. 8388607)
- 203 named destinations out of 1000 (max. 500000)
- 463 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> origin/poweranalysis
+ 1173 PDF objects out of 1200 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
 

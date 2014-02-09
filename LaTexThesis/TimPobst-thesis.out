@@ -7,7 +7,6 @@
 \BOOKMARK [0][-]{section*.11}{List of Figures}{}% 7
 \BOOKMARK [0][-]{g.0}{Nomenclature}{}% 8
 \BOOKMARK [0][-]{chapter.1}{1 Introduction}{}% 9
-<<<<<<< HEAD
 \BOOKMARK [1][-]{section.1.1}{1.1 Description of study area}{chapter.1}% 10
 \BOOKMARK [1][-]{section.1.2}{1.2 Acid Deposition and the GRSM}{chapter.1}% 11
 \BOOKMARK [1][-]{section.1.3}{1.3 The Stream Survey}{chapter.1}% 12
@@ -29,107 +28,39 @@
 \BOOKMARK [0][-]{chapter.3}{3 Means Comparison}{}% 28
 \BOOKMARK [1][-]{section.3.1}{3.1 Methods}{chapter.3}% 29
 \BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Introduction}{section.3.1}% 30
-\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Bonferoni Introduction}{section.3.1}% 31
-\BOOKMARK [1][-]{section.3.2}{3.2 Results}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.3}{3.3 Discussion}{chapter.3}% 33
-\BOOKMARK [0][-]{chapter.4}{4 Power Analysis}{}% 34
-\BOOKMARK [1][-]{section.4.1}{4.1 Methods}{chapter.4}% 35
-\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Introduction}{section.4.1}% 36
-\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Body}{section.4.1}% 37
-\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 Procedures}{section.4.1}% 38
-\BOOKMARK [1][-]{section.4.2}{4.2 Results}{chapter.4}% 39
-\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Post hoc}{section.4.2}% 40
-\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 A priori}{section.4.2}% 41
-\BOOKMARK [1][-]{section.4.3}{4.3 Discussion}{chapter.4}% 42
-\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Post hoc}{section.4.3}% 43
-\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 A priori}{section.4.3}% 44
-\BOOKMARK [0][-]{section*.44}{Bibliography}{}% 45
-\BOOKMARK [0][-]{appendix.A}{A }{}% 46
-\BOOKMARK [1][-]{section.A.1}{A.1 Site Data}{appendix.A}% 47
-\BOOKMARK [1][-]{section.A.2}{A.2 Site data}{appendix.A}% 48
-\BOOKMARK [0][-]{appendix.B}{B Descriptive Statistics}{}% 49
-\BOOKMARK [0][-]{appendix.C}{C Variable selection}{}% 50
-\BOOKMARK [0][-]{appendix.D}{D Julian Date Coefficients}{}% 51
-\BOOKMARK [1][-]{section.D.1}{D.1 Step-wise Method}{appendix.D}% 52
-\BOOKMARK [1][-]{section.D.2}{D.2 Temporal Variables}{appendix.D}% 53
-\BOOKMARK [0][-]{appendix.E}{E ANOVA/Bonferoni}{}% 54
-\BOOKMARK [1][-]{section.E.1}{E.1 pH}{appendix.E}% 55
-\BOOKMARK [1][-]{section.E.2}{E.2 ANC}{appendix.E}% 56
-\BOOKMARK [1][-]{section.E.3}{E.3 Nitrate}{appendix.E}% 57
-\BOOKMARK [1][-]{section.E.4}{E.4 Sulfate}{appendix.E}% 58
-\BOOKMARK [0][-]{appendix.F}{F Post Hoc Power Analsysis}{}% 59
-\BOOKMARK [1][-]{section.F.1}{F.1 Step-Wise Variables}{appendix.F}% 60
-\BOOKMARK [1][-]{section.F.2}{F.2 Temperol variables}{appendix.F}% 61
-\BOOKMARK [0][-]{appendix.G}{G A priori analysis}{}% 62
-\BOOKMARK [1][-]{section.G.1}{G.1 Power graphs}{appendix.G}% 63
-\BOOKMARK [2][-]{subsection.G.1.1}{G.1.1 pH}{section.G.1}% 64
-\BOOKMARK [2][-]{subsection.G.1.2}{G.1.2 ANC and Nitrate}{section.G.1}% 65
-\BOOKMARK [2][-]{subsection.G.1.3}{G.1.3 Sulfate}{section.G.1}% 66
-\BOOKMARK [2][-]{subsection.G.1.4}{G.1.4 Time Variables}{section.G.1}% 67
-\BOOKMARK [0][-]{section*.82}{Vita}{}% 68
-=======
-\BOOKMARK [0][-]{chapter.2}{2 Trend Analysis}{}% 10
-\BOOKMARK [1][-]{section.2.1}{2.1 Methods}{chapter.2}% 11
-\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Introduction}{section.2.1}% 12
-\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Body}{section.2.1}% 13
-\BOOKMARK [1][-]{section.2.2}{2.2 Results}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.3}{2.3 Discussion}{chapter.2}% 15
-\BOOKMARK [0][-]{chapter.3}{3 Means Comparison}{}% 16
-\BOOKMARK [1][-]{section.3.1}{3.1 Methods}{chapter.3}% 17
-\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Introduction}{section.3.1}% 18
-<<<<<<< HEAD
-\BOOKMARK [1][-]{section.3.2}{3.2 Results}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.3}{3.3 Discussion}{chapter.3}% 20
-\BOOKMARK [0][-]{chapter.4}{4 Power Analysis}{}% 21
-\BOOKMARK [1][-]{section.4.1}{4.1 Methods}{chapter.4}% 22
-\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Introduction}{section.4.1}% 23
-\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Body}{section.4.1}% 24
-\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 Procedures}{section.4.1}% 25
-=======
-\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Bonferoni Introduction}{section.3.1}% 19
-\BOOKMARK [1][-]{section.3.2}{3.2 Results}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.3}{3.3 Discussion}{chapter.3}% 21
-\BOOKMARK [0][-]{chapter.4}{4 Power Analysis}{}% 22
-\BOOKMARK [1][-]{section.4.1}{4.1 Methods}{chapter.4}% 23
-\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Introduction}{section.4.1}% 24
-\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Procedures}{section.4.1}% 25
->>>>>>> origin/poweranalysis
-\BOOKMARK [1][-]{section.4.2}{4.2 Results}{chapter.4}% 26
-\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Post hoc}{section.4.2}% 27
-\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 A priori}{section.4.2}% 28
-\BOOKMARK [1][-]{section.4.3}{4.3 Discussion}{chapter.4}% 29
-\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Post hoc}{section.4.3}% 30
-\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 A priori}{section.4.3}% 31
-<<<<<<< HEAD
-\BOOKMARK [0][-]{section*.31}{Bibliography}{}% 32
-=======
-\BOOKMARK [0][-]{section*.36}{Bibliography}{}% 32
->>>>>>> origin/poweranalysis
-\BOOKMARK [0][-]{appendix.A}{A }{}% 33
-\BOOKMARK [1][-]{section.A.1}{A.1 Site Data}{appendix.A}% 34
-\BOOKMARK [1][-]{section.A.2}{A.2 Site data}{appendix.A}% 35
-\BOOKMARK [0][-]{appendix.B}{B Descriptive Statistics}{}% 36
-\BOOKMARK [0][-]{appendix.C}{C Variable selection}{}% 37
-\BOOKMARK [0][-]{appendix.D}{D Julian Date Coefficients}{}% 38
-\BOOKMARK [1][-]{section.D.1}{D.1 Step-wise Method}{appendix.D}% 39
-\BOOKMARK [1][-]{section.D.2}{D.2 Temporal Variables}{appendix.D}% 40
-\BOOKMARK [0][-]{appendix.E}{E ANOVA/Bonferoni}{}% 41
-\BOOKMARK [1][-]{section.E.1}{E.1 pH}{appendix.E}% 42
-\BOOKMARK [1][-]{section.E.2}{E.2 ANC}{appendix.E}% 43
-\BOOKMARK [1][-]{section.E.3}{E.3 Nitrate}{appendix.E}% 44
-\BOOKMARK [1][-]{section.E.4}{E.4 Sulfate}{appendix.E}% 45
-\BOOKMARK [0][-]{appendix.F}{F Post Hoc Power Analsysis}{}% 46
-\BOOKMARK [1][-]{section.F.1}{F.1 Step-Wise Variables}{appendix.F}% 47
-\BOOKMARK [1][-]{section.F.2}{F.2 Temperol variables}{appendix.F}% 48
-\BOOKMARK [0][-]{appendix.G}{G A priori analysis}{}% 49
-\BOOKMARK [1][-]{section.G.1}{G.1 Power graphs}{appendix.G}% 50
-\BOOKMARK [2][-]{subsection.G.1.1}{G.1.1 pH}{section.G.1}% 51
-\BOOKMARK [2][-]{subsection.G.1.2}{G.1.2 ANC and Nitrate}{section.G.1}% 52
-\BOOKMARK [2][-]{subsection.G.1.3}{G.1.3 Sulfate}{section.G.1}% 53
-\BOOKMARK [2][-]{subsection.G.1.4}{G.1.4 Time Variables}{section.G.1}% 54
-<<<<<<< HEAD
-\BOOKMARK [0][-]{section*.69}{Vita}{}% 55
->>>>>>> origin/bonferroni
-=======
-\BOOKMARK [0][-]{section*.74}{Vita}{}% 55
->>>>>>> origin/poweranalysis
+\BOOKMARK [1][-]{section.3.2}{3.2 Results}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.3}{3.3 Discussion}{chapter.3}% 32
+\BOOKMARK [0][-]{chapter.4}{4 Power Analysis}{}% 33
+\BOOKMARK [1][-]{section.4.1}{4.1 Methods}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Introduction}{section.4.1}% 35
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Procedures}{section.4.1}% 36
+\BOOKMARK [1][-]{section.4.2}{4.2 Results}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Post hoc}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 A priori}{section.4.2}% 39
+\BOOKMARK [1][-]{section.4.3}{4.3 Discussion}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Post hoc}{section.4.3}% 41
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 A priori}{section.4.3}% 42
+\BOOKMARK [0][-]{section*.46}{Bibliography}{}% 43
+\BOOKMARK [0][-]{appendix.A}{A }{}% 44
+\BOOKMARK [1][-]{section.A.1}{A.1 Site Data}{appendix.A}% 45
+\BOOKMARK [1][-]{section.A.2}{A.2 Site data}{appendix.A}% 46
+\BOOKMARK [0][-]{appendix.B}{B Descriptive Statistics}{}% 47
+\BOOKMARK [0][-]{appendix.C}{C Variable selection}{}% 48
+\BOOKMARK [0][-]{appendix.D}{D Julian Date Coefficients}{}% 49
+\BOOKMARK [1][-]{section.D.1}{D.1 Step-wise Method}{appendix.D}% 50
+\BOOKMARK [1][-]{section.D.2}{D.2 Temporal Variables}{appendix.D}% 51
+\BOOKMARK [0][-]{appendix.E}{E ANOVA/Bonferoni}{}% 52
+\BOOKMARK [1][-]{section.E.1}{E.1 pH}{appendix.E}% 53
+\BOOKMARK [1][-]{section.E.2}{E.2 ANC}{appendix.E}% 54
+\BOOKMARK [1][-]{section.E.3}{E.3 Nitrate}{appendix.E}% 55
+\BOOKMARK [1][-]{section.E.4}{E.4 Sulfate}{appendix.E}% 56
+\BOOKMARK [0][-]{appendix.F}{F Post Hoc Power Analsysis}{}% 57
+\BOOKMARK [1][-]{section.F.1}{F.1 Step-Wise Variables}{appendix.F}% 58
+\BOOKMARK [1][-]{section.F.2}{F.2 Temperol variables}{appendix.F}% 59
+\BOOKMARK [0][-]{appendix.G}{G A priori analysis}{}% 60
+\BOOKMARK [1][-]{section.G.1}{G.1 Power graphs}{appendix.G}% 61
+\BOOKMARK [2][-]{subsection.G.1.1}{G.1.1 pH}{section.G.1}% 62
+\BOOKMARK [2][-]{subsection.G.1.2}{G.1.2 ANC and Nitrate}{section.G.1}% 63
+\BOOKMARK [2][-]{subsection.G.1.3}{G.1.3 Sulfate}{section.G.1}% 64
+\BOOKMARK [2][-]{subsection.G.1.4}{G.1.4 Time Variables}{section.G.1}% 65
+\BOOKMARK [0][-]{section*.84}{Vita}{}% 66
