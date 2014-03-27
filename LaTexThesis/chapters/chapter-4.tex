@@ -1,34 +1,32 @@
+%going to re organize: place the scenario (methods and all) after the results of the official a priori results
 \chapter{Power Analysis} \label{ch:poweranslysis}
 
 \section{Methods}
 
 \subsection{Introduction}
 
-Power is the likelihood of proving the hypothesis correct.
+The Stream Survey has used elevation bands to further organize sites since its conception.
+The trend analysis of this paper along with past analyses have all determined trends within these bands , and the lack of high elevation sites brings the power of these trends into question.
+Power is the probability of correctly rejecting the false null hypothesis.
 The trend analysis  preformed in \autoref{ch:TA} is a hypothesis test which comes with an inherent amount of error.  
-It tests the hypothesis that a trend exists in the data that makes the null hypothesis one of no trend or a coefficient that equals zero.
-The error here is defined as type II error or $\beta$ and can be seen in \autoref{tab:HypothesisTests}.
-$\beta$ describes the failure to reject a false null hypothesis or in the case of this paper a failure to detect a trend in the data when there really is one.
-The opposite of $\beta$ is the probability that a trend will be detected when it exists and is called the power of the test.
+It tests the hypothesis that a trend exists in the data, which makes the null hypothesis one of no trend or a coefficient that equals zero.
+The error here is defined as type II error or $\beta$ and can be seen in \autoref{tab:Hypotests}.
+$\beta$ describes the failure to reject a false null hypothesis or in the case of this paper a failure to reject a "no trend" conclusion when there really is one.
+The opposite of $\beta$ is the probability that a "no trend" conclusion will be rejected when a trend exists and is called the power of the test.
 A trend line with a power of 1.00 indicates a 100$\%$ chance that the calculated slope is not zero, a power of .50 means there is a 50$\%$ chance that the calculated slope might not exist.
 Power indicates the reliability of the trends that are important in determining the health of streams in the GRSM.
 
 \input{FiguresnTables/HypothesisTests}
 
 Power analysis refers to both  post hoc and a priori analyses, in this paper both are completed with the help of the statistical program G*power.
-G*power is a free power analysis program written by four German psychology professors and used by many.
-It can compute both post hoc and a priori analysis for many different statistical tests \citep{faul2009statistical}, power analysis for regression was used here.
+It can compute both post hoc and a priori analysis for many different statistical tests \citep{faul2009statistical}
+Analysis can be run on many different hypothesis tests, power analysis for regression was used here.
 All 144 trend lines from \autoref{ch:TA} were evaluated using a post hoc analysis and a priori analysis was used to project the current stream survey program into the future.
+The two different power analyses are a rearrangement of the same method and have many similarities, but the post hoc analysis determines power while the a priori analysis determines number of observations.
+Post hoc of course is Latin for "after this" and is used to denote a power analysis of the already completed trend analysis from \autoref{ch:TA}.
+A priori is Latin for "from the earlier" and specifies a power analysis used to set a desired power and calculate the number of observations required to achieve it.
 
-The two different power analyses are two sides of the same coin and have many similarities, but different outcomes.
-The main objective of the post hoc analysis is to calculate the power of a given test, and the a priori analysis will calculate the number of observations for a chosen power.
-Unlike the trend analyses and mean comparisons of the first two chapters, the statistical program G*power requires only four inputs instead of whole data vectors.  
-With post hoc analysis, three of these inputs are passed from the output of the trend analysis: number of observations (N), adjusted r$^2$ and number of predictors.
-The fourth input is ES or effect size which is calculated by G*power before the study; ES is described by Cohen as the probability to find a significant result \citep{cohen1992power}.
-A priori analysis also requires an ES value but it is chosen, instead of calculated, along with the power.
-Just like the post hoc analysis the number of predictors is still needed for the a priori analysis and taken from the number of predictors given in the step-wise analysis from \autoref{ch:TA}
-
-A post hoc analysis was preformed for both of the julian date coefficient tables from \autoref{ch:TA},  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
+A post hoc analysis was preformed for both of the Julian date coefficient tables from \autoref{ch:TA}, and are presented in \hyperref[sec:SWPHPA]{Appendix E.1} and \hyperref[sec:TVPHPA]{Appendix E.2}.
 In contrast to the post hoc analysis the a priori analysis only needs to be calculated for each of the four dependent variables.
 This is because for each analysis the three inputs number of predictors, power, and ES remain the same for each variable.
 The front analysis is only for one chosen power, and one chosen ES but G*power will create a power graph which plots each power and the number of observations it needs.
@@ -38,9 +36,7 @@ In this way elevation bands with many sites can be shown to contain more observa
 
 \subsection{Procedures}
 
-\subsubsection{Post hoc}
-
-The most general power analysis methods originate from Jacob Cohen, who outlined his approach in " A Power Primer" \citep{cohen1992power}.
+The most general power analysis methods originate from Jacob Cohen, who outlined his approach in" A Power Primer" \citep{cohen1992power}.
 Cohen displayed ways to calculate the power for eight different tests the last of which is the F test for multiple and multiple partial correlation, which can be used for regression.
 The different tests are represented by their differences in calculating ES.
 ES is the only information that needs to be calculated before the analysis can be completed; the other inputs come from the trend analysis.
@@ -49,10 +45,17 @@ The equation for the ES of a regression model presented by Cohen is equal to the
     ES = {adj. r^2 \over {1-adj. r^2}}
 \end{equation}
 This equation can be described as the ratio of explained to unexplained variation for the regression model.
-For the post hoc analysis this equation will be used to calculate a specific ES for each model presented in \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
+For the post hoc analysis this equation will be used to calculate a specific ES for each model presented in \hyperref[sec:SWPHPA]{Appendix E.1} and \hyperref[sec:TVPHPA]{Appendix E.2}.
 The ES calculation is completed by G*power after inputting the correlation coefficient (adj. r$^2$).
+
+\subsubsection{Post hoc}
+
 G*power uses ES along with the $\alpha$ (.05) used for the regression model, the number observations, and number of predictors in the model to output the power of the F test.
 This power will be between 0 and 1.00 and will be the power acquired by the models using past data and a calculated ES.
+With post hoc analysis, three of these inputs are passed from the output of the trend analysis: number of observations (N), adjusted r$^2$ and number of predictors.
+The fourth input is ES or effect size which is calculated by G*power before the study; ES is described by Cohen as the probability to find a significant result \citep{cohen1992power}.
+A priori analysis also requires an ES value but it is chosen, instead of calculated, along with the power.
+Just like the post hoc analysis the number of predictors is still needed for the a priori analysis and taken from the number of predictors given in the step-wise analysis from \autoref{ch:TA}.
 
 \subsubsection{A priori}
 
@@ -79,9 +82,46 @@ ES values of .35 can acquire small numbers of observations thus achieving a dece
 If no argument can be made for any other desired power then Cohen suggests .80.
 This is chosen for its reasonable ratio of Type I error to Type II error which reflects their importance.
 If the power is .80 then $\beta=.20$ and $\alpha=.05$ and this makes the Type II error four times as likely as Type I error \citep{cohen1992statistical}.
-These choices are presented in \autoref{tab:APN}.
+
+\section{Results}
+
+\subsection{Post hoc}
+
+The results of the post hoc analysis on both trend analyses are reported in  \hyperref[sec:SWPHPA]{Appendix E.1} and \hyperref[sec:TVPHPA]{Appendix E.2}.
+They are broken into the four water quality variables (pH, ANC, NO$_3$, SO$_4$) and divided into the tree time sets (93-02, 03-08, 09-12), and then further divided into the six elevation classes.
+Each trend from \autoref{ch:TA} is described by its number of observations, the adjusted $r^2$, the calculated ES, and finally their observed power.
+Of the 72 lines evaluated for power in \hyperref[sec:SWPHPA]{Appendix E.1} only eight of them were less than 1.00.
+Only two of the trend lines in \hyperref[sec:SWPHPA]{Appendix E.1} were insignificant.
+One of the insignificant trends was the trend for Nitrate, set 3, class 5, and along with insignificance the adjusted $r^2$ was negative and therefore the power could not be found.
+The other insignificant trend was pH, set 3, class 5, which also received the lowest observed power of .28.
+In large dissimilarity from the step-wise trend models, 52 of the 72 trends from \hyperref[sec:TVPHPA]{Appendix E.2} were insignificant.
+Of the 20 significant trends observed powers range from .26 to 1.00, 11 of them are above .80 and 2 are .99 or greater.
+
+\subsection{A priori}
+
+\subsubsection{Power graphs}
+
+The traditional presentation for an a priori power analysis is the power graph.
+Here the powers are lie on the y-axis while the number of observations lie on the x-axis.
+All of the water quality variables and the time model get their own graph except for ANC and NO$_3$, which are the same because they contain the same number of predictors from the step-wise model.
+On each graph two curves are plotted representing an ES of either .15 or .35, they all rise from (0, 0) asymptotically towards a power of 1.00.
+Despite the similar shapes, the more predictors a model has, the greater number of  observations it needs to reach adequate powers, SO$_4$ needs almost 30 samples than the time model to reach a power of .80 with an ES of .15.
+The power graphs for pH, ANC and NO$_3$, SO$_4$, and Time are plotted in \autoref{ch:APA} respectively.
+And \autoref{powergraphtable} was created for easier comparison.
+
+\input{FiguresnTables/powergraphtable}
+
+This table shows the sample size values for both ES curves at a power of .80.
+Again all are similar except for the time graph, which has at least half as many predictors in its time trend equation as the others.
+
+\subsubsection{A priori manipulation}
 
 \input{FiguresnTables/aprioritable}
+
+The results of the a priori analysis are presented in \autoref{tab:APN} but are inconvenient and require manipulation in order to apply them to the Stream Survey.
+There are two different ways for the researcher to achieve these results with a focus on time: by adjusting the frequency of collection or by adding sites.
+Both methods can be used to quickly acquire enough observations(samples) required by \autoref{tab:APN} to have a powerful trend analysis.
+But adding sites is cheaper and can solve the poor elevational distribution of the sites in the Stream Survey.
 
 The a priori power analysis can be manipulated to calculate a number of sites per elevation band for the stream survey in the GRSM.
 First, samples per year per elevation band are counted for the 2012 year and will be represented by n.
@@ -93,7 +133,9 @@ However, in order to get to the number of sites per elevation band needed to rea
 If the future trend analysis is to be completed using the equation with only time variables (instead of the step-wise equations) then 77 samples will need to be collected in one year to reach a power of .80 according to \autoref{tab:APN}.
 But if the future trend analysis is to be completed using the step-wise equations from \autoref{tab:stepwiseeq} then at least 109 samples will need to be collected in one year to satisfy the requirements for ANC and NO$_3$.
 For the step-wise equations N will be rounded up to 110 and labeled $N_b$.
+
 \input{FiguresnTables/sytaapeighty}
+
 These are presented in \autoref{tab:sytaapeighty}, which has been calculated out to four years.
 So that instead of completing the trend analysis after one year, one could wait four years and only need to collect 28 samples per year.
 Subtracting the number of samples collected in one year per elevation band in 2012 from the number of samples needed to be collected per year to reach a power of .80 will provide the number of samples needed per elevation band to receive a power of .80 ($N_c$).
@@ -105,47 +147,12 @@ To get an estimation for the number of sites needed per elevation band to achiev
     \#Sites = {N_c \over 6}
 \end{equation}
 
-\section{Results}
-
-\subsection{Post hoc}
-
-The results of the post hoc analysis on both trend analyses are reported in  \autoref{tab:SWposthoc} and \autoref{tab:TVposthoc}.
-They are broken into the four water quality variables (pH, ANC, NO$_3$, SO$_4$) and divided into the tree time sets (93-02, 03-08, 09-12), and then further divided into the six elevation classes.
-Each trend from \autoref{ch:TA} is described by its number of observations, the adjusted $r^2$, the calculated ES, and finally their observed power.
-Of the 72 lines evaluated for power in \autoref{tab:SWposthoc} only eight of them were less than 1.00.
-And only two of the trend lines in \autoref{tab:SWposthoc} were insignificant.
-One of the insignificant trends was the trend for Nitrate, set 3, class 5 , and along with insignificance the adjusted $r^2$ was negative and therefore the power could not be found.
-The other insignificant trend was pH, set 3, class 5 , which also received the lowest observed power of .28.
-In large dissimilarity from the step-wise trend models, 52 of the 72 trends from \autoref{tab:TVposthoc} were insignificant.
-Of the 20 significant trends observed powers range from .26 to 1.00, 11 of them are above .80 and 2 are .99 or greater.
-
-\subsection{A priori}
-
-\subsubsection{Power graphs}
-
-The traditional presentation for an a priori power analysis is the power graph.
-Here the powers are lie on the y-axis while the number of observations lie on the x-axis.
-All of the water quality variables and the time model get their own graph except for ANC and NO$_3$ which are the same because they contain the same number of predictors from the step-wise model.
-On each graph two curves are plotted representing an ES of either .15 or .35,they all rise from (0,0) asymptotically towards a power of 1.00.
-Despite the similar shapes, the more predictors a model has, the greater number of  observations it needs to reach adequate powers, SO$_4$ needs almost 30 samples than the time model to reach a power of .80 with an ES of .15.
-The power graphs for pH, ANC and NO$_3$, SO$_4$, and Time are plotted in the appendices \autoref{fig:pHPowerGraph}, \autoref{fig:ANCnNPowerGraph}, \autoref{fig:SulfatePowerGraph}, and\autoref{fig:TVPowerGraph} respectively.
-And \autoref{powergraphtable} was created for easier comparison.
-
-\input{FiguresnTables/powergraphtable}
-
-This table shows the sample size values for both ES curves at a power of .80.
-Again all are similar except for the time graph, which has at least half as many predictors in its time trend equation as the others.
-
-\subsubsection{A priori manipulation}
-
-In this section a scenario is presented in which the results of the a priori analysis are manipulated to achieve the number of sites required per elevation band to receive a power of .80.
-
 \input{FiguresnTables/currentyrsto.80}%needs to be cleaned
 
 This scenario was followed through with both methods of trend lines.
 \autoref{tab:currentyrsto.80} records the six elevation bands along with the site numbers that belong to them. 
  In the column labeled, current n per year, the amount of samples collected per elevation band in the year 2012 are tabulated.  
- Then Using \autoref{eq:yrs} the number of years needed for each variable to reach a power of .80 is calculated.
+ Then using \autoref{eq:yrs} the number of years needed for each variable to reach a power of .80 is calculated.
 Looking at the table there are 26  samples collected in elevation band one in one year.  
 In order to compute a trend line for pH using the same step-wise model from \autoref{tab:stepwiseeq} that receives a power of .80,  samples would need to be collected for 3.77 years before the trend line can be computed.   
 The longest waiting period is for ANC or NO$_3$ at elevation class six which requires 9.08 years, presumably because they have the highest number of predictors and elevation class six includes only two sites. 
@@ -163,35 +170,35 @@ In \autoref{tab:WQapsenario} for elevation class 3, 48 more samples need to be c
 But if a trend line can wait to be created after two years, then there is a surplus of seven samples per year.  
 If four years can be waited there is a surplus of 35 samples which on the right side of the table translates into a surplus of 6 whole site locations per year.
 
-\section{Discussion}
+\section{Discussion and Conclusions}
 
 \subsection{Post hoc}
 
 \subsubsection{Step-wise equations}
 
 By reviewing the results of the post hoc analysis after an a priori analysis has been completed it is easier to see why the results were outstanding for the step-wise equations and awful for the time based equations.
-Knowing that an a priori analysis on the step-wise equations will produce a requirement of 110 observations for a power of .80 and an ES of .15, \autoref{tab:APN}, it can easily be seen that as the number of observations in \autoref{tab:SWposthoc} decline from 110 the power also declines.
+Knowing that an a priori analysis on the step-wise equations will produce a requirement of 110 observations for a power of .80 and an ES of .15, \autoref{tab:APN}, it can easily be recognized that as the number of observations in \hyperref[sec:SWPHPA]{Appendix E.1} decline from 110 the power also declines.
 In concert with the large number of observations, the observed ES values are very large compared to the chosen ES of .15 which coincides with the observed powers being close to 1.00.
 The large conventional ES given by Cohen is .35 and only 3 of the trend lines analyzed here were below that, all in pH.
-And because the ES is a ratio of the adjusted r$^2$ it declines as the r$^2$ does, the higher the r$^2$ the better..
+And because the ES is a ratio of the adjusted r$^2$ it declines as the r$^2$ does, the higher the r$^2$ the better.
 But for a calculated ES of .15 the adjusted r$^2$ doesn't need to be very high.
 So as the analyzed trend line for pH in time set 3 elevation class 5 has an adjusted r$^2$ of .158 and the ES is .19, which is larger than .15.
-Assuming that a power of .80 and an ES of .15 is ideal, then this post hoc analysis uses to many observations.
+Assuming that a power of .80 and an ES of .15 is ideal, then this post hoc analysis uses too many observations.
 One way to have fewer observations would be to use fewer years in the study.
 Another way would be to use less sites in the survey.
 
 \subsubsection{Time variable based equations}%
 The two post hoc analyses on the two different models varied considerably.
-The differences in powers between the two post hoc analysis can not be the number of observations because the number of observations used in \autoref{tab:SWposthoc} are the same as those \autoref{tab:TVposthoc}.
-The differences are between the adjusted r$^2$ values, which are very low for \autoref{tab:TVposthoc}, and leads to the low ES values.
-Overlooking the fact that most of the regression models for the time variable analysis are insignificant, most of the powers calculated in \autoref{tab:SWposthoc} are not terrible.
+The differences in powers between the two post hoc analyses cannot be the number of observations because the number of observations used in \hyperref[sec:SWPHPA]{Appendix E.1} are the same as those \hyperref[sec:TVPHPA]{Appendix E.2}.
+The differences are between the adjusted r$^2$ values, which are very low for \hyperref[sec:TVPHPA]{Appendix E.2}, and leads to the low ES values.
+Overlooking the fact that most of the regression models for the time variable analysis are insignificant, most of the powers calculated in \hyperref[sec:SWPHPA]{Appendix E.1} are not terrible.
 Of the 20 significant lines eleven have a power equal to or above .80.
 
 \subsection{A priori}%it is good that the water quality power graphs are similar because they will all be contained in the same survey.
 
 The a priori power graphs themselves show every possible power and the number of observations needed to achieve it.
 However, they are based on the particular step-wise equations that were created using this particular dataset.
-Because the step-wise process uses past data to create the equations, every time new data is added the equations could change.
+Since the step-wise process uses past data to create the equations, every time new data is added the equations could change.
 The a priori analysis assumes that these same equations, with the same number of variables, will be used to detect trends in the future.
 But even if the number of sites remain the same past this point, the data will still be different.
 And if the site numbers do change, such as more sites are added to the upper elevations and sites are removed from the lower elevations, then the step-wise equations are at greater risk of changing.
@@ -208,7 +215,7 @@ The results of this scenario can solve two concerns of the survey, the lack of h
 By following the results in \autoref{tab:WQapsenario}, waiting a minimum of four years before the next trend analysis can lead to the removal of two sites from the survey.
 And assuming that cost of the survey is related to the number of sites, then removing sites will save money.
 But removing two sites is just the sum difference of a redistribution suggested by the scenario.
-In fact one site should be removed from elevation class two and six from class three.
+In fact, one site should be removed from elevation class two and six from class three.
 One site each need to be added to classes five and six and three should be added to class six.
 There are too many sites in the lower elevation classes of two and three and not enough sites in the higher elevation classes of four, five, and six.
 A redistribution of sites is in order.

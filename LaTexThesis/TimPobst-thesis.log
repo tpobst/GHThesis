@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  7 FEB 2014 16:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.10)  19 MAR 2014 17:18
 entering extended mode
 **C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
 (C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/TimPobst-thesis.tex
@@ -916,6 +916,49 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count162
+\calc@Bcount=\count163
+\calc@Adimen=\dimen209
+\calc@Bdimen=\dimen210
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count164
+\calc@Cskip=\skip73
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+)
+Package srcltx Info: Expanded filename `pppdftex.def' to `pppdftex.def.tex' on 
+input line 65.
+
+:<+ pppdftex.def.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+:<-
+\AM@pagebox=\box44
+\AM@toc@title=\toks49
+\c@AM@survey=\count165
+\AM@templatesizebox=\box45
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\bigstrut.sty"
+\bigstrutjot=\dimen211
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty")
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgeme
 nts.aux)
@@ -932,20 +975,20 @@ aux)
 LaTeX Warning: Label `tab:Site Data' multiply defined.
 
 ) (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
@@ -981,20 +1024,20 @@ LaTeX Font Info:    ... okay on input line 67.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box44
-Package backref Info: ** backref set up for natbib ** on input line 67.
-Package hyperref Info: Link coloring ON on input line 67.
+\AtBeginShipoutBox=\box46
+Package backref Info: ** backref set up for natbib ** on input line 72.
+Package hyperref Info: Link coloring ON on input line 72.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count162
+\c@section@level=\count166
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.out)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.out)
@@ -1002,17 +1045,17 @@ LaTeX Info: Redefining \nameref on input line 67.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count163
-\scratchdimen=\dimen209
-\scratchbox=\box45
-\nofMPsegments=\count164
-\nofMParguments=\count165
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count166
-\MPscratchDim=\dimen210
-\MPnumerator=\count167
-\makeMPintoPDFobject=\count168
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count167
+\scratchdimen=\dimen212
+\scratchbox=\box47
+\nofMPsegments=\count168
+\nofMParguments=\count169
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count170
+\MPscratchDim=\dimen213
+\MPnumerator=\count171
+\makeMPintoPDFobject=\count172
+\everyMPtoPDFconversion=\toks51
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -1023,31 +1066,36 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.9} into y
 our preamble.
- on input line 67.
+ on input line 72.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 70.
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 70.
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 70.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 75.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <11.38092> not available
+(Font)              size <10.95> substituted on input line 75.
+
+[1
 Non-PDF special ignored!
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
  []
 
@@ -1057,12 +1105,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
  [2
 
 
@@ -1079,7 +1127,7 @@ nts.tex) [3
 ]
 :<-
 :<+ front-matter/abstract.tex
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/abstract.tex)
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/abstract.tex
 [4
 
 
@@ -1087,35 +1135,36 @@ nts.tex) [3
 
 
 
-]
+]) [5]
 :<-
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.toc
-[5
+[6
 
 
 
 
-] [6])
+] [7] [8])
 \tf@toc=\write5
- [7]
+ [9]
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.lot
-[8
+[10
 
 
 
 ])
 \tf@lot=\write6
- [9]
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.lof)
+ [11]
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.lof
+[12
+
+
+
+])
 \tf@lof=\write7
 \@nomenclaturefile=\write8
 
 Writing nomenclature file TimPobst-thesis.nlo
-[10
-
-
-
-]
+[13]
 No file TimPobst-thesis.nls.
 :<+ front-matter/nomenclature.tex
 
@@ -1139,7 +1188,7 @@ Chapter 1.
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/SSsites.pdf): PDF inclusion: found PDF version <1.7>, but a
 t most version <1.5> allowed
-<figures/pdf/SSsites.pdf, id=503, 794.97pt x 614.295pt>
+<figures/pdf/SSsites.pdf, id=721, 794.97pt x 614.295pt>
 File: figures/pdf/SSsites.pdf Graphic file (type pdf)
 
 <use figures/pdf/SSsites.pdf>
@@ -1156,7 +1205,7 @@ Missing character: There is no ¼ in font cmr12!
 Missing character: There is no Î in font cmr12!
 Missing character: There is no ¼ in font cmr12!
 Package srcltx Info: Expanded filename `FiguresnTables/Odomtable' to `FiguresnT
-ables/Odomtable.tex' on input line 89.
+ables/Odomtable.tex' on input line 91.
 
 :<+ FiguresnTables/Odomtable.tex
 
@@ -1179,7 +1228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
 )
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/Historic43elevbands' to 
-`FiguresnTables/Historic43elevbands.tex' on input line 91.
+`FiguresnTables/Historic43elevbands.tex' on input line 93.
 :<+ FiguresnTables/Historic43elevbands.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Historic43e
@@ -1190,28 +1239,28 @@ levbands.tex)
 pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
 xThesis/figures/pdf/DepositionHeat.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<figures/pdf/DepositionHeat.pdf, id=541, 794.97pt x 614.295pt>
+<figures/pdf/DepositionHeat.pdf, id=757, 794.97pt x 614.295pt>
 File: figures/pdf/DepositionHeat.pdf Graphic file (type pdf)
 
 <use figures/pdf/DepositionHeat.pdf>
-Package pdftex.def Info: figures/pdf/DepositionHeat.pdf used on input line 101.
+Package pdftex.def Info: figures/pdf/DepositionHeat.pdf used on input line 103.
 
 (pdftex.def)             Requested size: 433.62pt x 335.07939pt.
  [7 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/Deposition
 Heat.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/elevationbands' to `Figu
-resnTables/elevationbands.tex' on input line 116.
+resnTables/elevationbands.tex' on input line 120.
 
 :<+ FiguresnTables/elevationbands.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/elevationba
 nds.tex)
 :<-
-[8] [9] <figures/pdf/pHdata.pdf, id=586, 794.97pt x 614.295pt>
+[8] [9] <figures/pdf/pHdata.pdf, id=801, 794.97pt x 614.295pt>
 File: figures/pdf/pHdata.pdf Graphic file (type pdf)
 
 <use figures/pdf/pHdata.pdf>
-Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 149.
+Package pdftex.def Info: figures/pdf/pHdata.pdf used on input line 153.
 (pdftex.def)             Requested size: 433.62pt x 335.07939pt.
  [10 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/pHdata.pd
 f>] [11]
@@ -1275,37 +1324,59 @@ Overfull \hbox (5.80103pt too wide) in paragraph at lines 3--14
 
 )
 :<-
-[15] [16] [17]
+[15]
+Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
+ables/variables.tex' on input line 59.
+
+:<+ FiguresnTables/variables.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.t
+ex
+Overfull \hbox (8.02391pt too wide) in paragraph at lines 4--30
+ [][] 
+ []
+
+)
+:<-
+[16] [17] [18]
 Package srcltx Info: Expanded filename `FiguresnTables/Elevationtrends' to `Fig
-uresnTables/Elevationtrends.tex' on input line 117.
+uresnTables/Elevationtrends.tex' on input line 120.
 
 :<+ FiguresnTables/Elevationtrends.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Elevationtr
 ends.tex)
 :<-
-[18] [19] [20]
-
-LaTeX Warning: Reference `fig:sulfateemissions' on page 21 undefined on input l
-ine 164.
-
-) [21]
+[19] [20] [21]) [22]
 :<-
 :<+ chapters/chapter-3.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-3.tex
 Chapter 3.
 
-LaTeX Warning: Reference `fig:sulfateemissions' on page 22 undefined on input l
-ine 7.
 
-[22
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/pdf/SulfateEmissions.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<figures/pdf/SulfateEmissions.pdf, id=950, 794.97pt x 614.295pt>
+File: figures/pdf/SulfateEmissions.pdf Graphic file (type pdf)
+
+<use figures/pdf/SulfateEmissions.pdf>
+Package pdftex.def Info: figures/pdf/SulfateEmissions.pdf used on input line 11
+.
+(pdftex.def)             Requested size: 433.62pt x 335.07939pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23
 
 
 
 
-] [23]
+] [24 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/pdf/SulfateE
+missions.pdf>]
 Package srcltx Info: Expanded filename `FiguresnTables/Bontable' to `FiguresnTa
-bles/Bontable.tex' on input line 42.
+bles/Bontable.tex' on input line 49.
 
 :<+ FiguresnTables/Bontable.tex
 
@@ -1317,96 +1388,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
 )
 :<-
-[24] [25]
-
-LaTeX Warning: Reference `fig:sulfateemissions' on page 26 undefined on input l
-ine 86.
-
-[26]) [27]
+[25] [26] [27]) [28] [29]
 :<-
 :<+ chapters/chapter-4.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.tex
 Chapter 4.
 Package srcltx Info: Expanded filename `FiguresnTables/HypothesisTests' to `Fig
-uresnTables/HypothesisTests.tex' on input line 16.
+uresnTables/HypothesisTests.tex' on input line 19.
 :<+ FiguresnTables/HypothesisTests.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/HypothesisT
 ests.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\OT1/cmr/m/n/12 Correct de-ci-sion
+Overfull \vbox (21.75002pt too high) detected at line 11
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\OT1/cmr/m/n/12 Type II er-ror
+Overfull \vbox (21.75002pt too high) detected at line 11
  []
 
-
-Underfull \hbox (badness 4981) in paragraph at lines 9--9
-[]|\OT1/cmr/m/n/12 Type I er-ror Prob
- []
+[30
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-[]|\OT1/cmr/m/n/12 Correct de-ci-sion
- []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 Prob (cor-rect
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-\OT1/cmr/m/n/12 de-ci-sion) = 1-$\OML/cmm/m/it/12 $
- []
-
-)
+])
 :<-
-[28
-
-
-
-
-] [29]
+[31]
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 49.
+(amsmath)                 on input line 45.
 
-[30] [31]
-Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
-snTables/aprioritable.tex' on input line 84.
-
-:<+ FiguresnTables/aprioritable.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritabl
-e.tex)
-:<-
-Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
-snTables/sytaapeighty.tex' on input line 96.
-:<+ FiguresnTables/sytaapeighty.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeight
-y.tex)
-:<-
-[32] [33]
+[32] [33] [34]
 Package srcltx Info: Expanded filename `FiguresnTables/powergraphtable' to `Fig
-uresnTables/powergraphtable.tex' on input line 134.
+uresnTables/powergraphtable.tex' on input line 112.
 
 :<+ FiguresnTables/powergraphtable.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/powergrapht
 able.tex)
 :<-
+[35]
+Package srcltx Info: Expanded filename `FiguresnTables/aprioritable' to `Figure
+snTables/aprioritable.tex' on input line 119.
+
+:<+ FiguresnTables/aprioritable.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/aprioritabl
+e.tex)
+:<-
+[36]
+Package srcltx Info: Expanded filename `FiguresnTables/sytaapeighty' to `Figure
+snTables/sytaapeighty.tex' on input line 137.
+
+:<+ FiguresnTables/sytaapeighty.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/sytaapeight
+y.tex)
+:<-
 Package srcltx Info: Expanded filename `FiguresnTables/currentyrsto.80' to `Fig
-uresnTables/currentyrsto.80.tex' on input line 143.
+uresnTables/currentyrsto.80.tex' on input line 150.
 :<+ FiguresnTables/currentyrsto.80.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/currentyrst
 o.80.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
+Overfull \hbox (5.46066pt too wide) in paragraph at lines 5--5
 []|\OT1/cmr/m/n/12 Elevation
  []
 
@@ -1421,20 +1467,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\OT1/cmr/m/n/12 Time
+ []
+
+
 Underfull \hbox (badness 1596) in paragraph at lines 9--9
 []|\OT1/cmr/m/n/12 114, 481, 482, 149,
  []
 
-
-Overfull \hbox (33.59036pt too wide) in paragraph at lines 3--16
-[][]
- []
-
-[34])
+)
 :<-
-[35]
+[37]
 Package srcltx Info: Expanded filename `FiguresnTables/WQapsenario' to `Figures
-nTables/WQapsenario.tex' on input line 153.
+nTables/WQapsenario.tex' on input line 160.
 
 :<+ FiguresnTables/WQapsenario.tex
 
@@ -1442,24 +1488,24 @@ nTables/WQapsenario.tex' on input line 153.
 .tex)
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/TVapsenario' to `Figures
-nTables/TVapsenario.tex' on input line 155.
+nTables/TVapsenario.tex' on input line 162.
 :<+ FiguresnTables/TVapsenario.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVapsenario
-.tex)
+.tex [38])
 :<-
-[36] [37] [38]) [39]
+[39] [40]) [41] [42]
 :<-
 :<+ TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.bbl
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.brf)
 \tf@brf=\write9
 
-[40
+[43
 
 
 
-] [41
+] [44
 
 ]
 Underfull \hbox (badness 1087) in paragraph at lines 105--105
@@ -1469,539 +1515,732 @@ Underfull \hbox (badness 1087) in paragraph at lines 105--105
 
 )
 :<-
-[42] [43]
+[45] [46]
 :<+ back-matter/appendix-1.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.tex
 Appendix A.
+[47
+
+
+
+]
 Package srcltx Info: Expanded filename `FiguresnTables/SiteData1' to `FiguresnT
 ables/SiteData1.tex' on input line 5.
+
 :<+ FiguresnTables/SiteData1.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/SiteData1.t
-ex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
+ex)
 :<-
+[48]
 Package srcltx Info: Expanded filename `FiguresnTables/SiteData2' to `FiguresnT
-ables/SiteData2.tex' on input line 8.
+ables/SiteData2.tex' on input line 7.
+
 :<+ FiguresnTables/SiteData2.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/SiteData2.t
 ex
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/10 Site
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]|\OT1/cmr/m/n/8 Elevation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/10 Elevation
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]|\OT1/cmr/m/n/8 Elevation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/10 Elevation
+Underfull \hbox (badness 1661) in paragraph at lines 6--6
+[]|\OT1/cmr/m/n/8 Historical El-e-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/10 Historical
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]|\OT1/cmr/m/n/8 New
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-\OT1/cmr/m/n/10 El-e-va-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/10 New
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-\OT1/cmr/m/n/10 el-e-va-tion
- []
-
-
-Overfull \hbox (45.0384pt too wide) in paragraph at lines 3--52
-[]  
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/n/8 el-e-va-tion
  []
 
 )
 :<-
-[44
-
-
-
-] [45] [46]
+[49]
 Appendix B.
-Package srcltx Info: Expanded filename `FiguresnTables/DescriptiveStats' to `Fi
-guresnTables/DescriptiveStats.tex' on input line 12.
-:<+ FiguresnTables/DescriptiveStats.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Descriptive
-Stats.tex
-Overfull \hbox (5.60725pt too wide) in paragraph at lines 8--9
-[]|\OT1/cmr/m/n/8 1993-
- []
-
-
-Overfull \hbox (2.77388pt too wide) in paragraph at lines 8--9
-\OT1/cmr/m/n/8 2002| 
- []
-
-
-Overfull \hbox (5.60725pt too wide) in paragraph at lines 15--16
-[]|\OT1/cmr/m/n/8 2003-
- []
-
-
-Overfull \hbox (2.77388pt too wide) in paragraph at lines 15--16
-\OT1/cmr/m/n/8 2008| 
- []
-
-
-Overfull \hbox (1.3572pt too wide) in paragraph at lines 22--23
-[]|\OT1/cmr/m/n/8 209-
- []
-
-
-Overfull \hbox (2.77388pt too wide) in paragraph at lines 22--23
-\OT1/cmr/m/n/8 2012| 
- []
-
-
-Overfull \hbox (56.22632pt too wide) in paragraph at lines 3--32
-[][]
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-:<-
-[47
-
-] [48]
-Appendix C.
-Package srcltx Info: Expanded filename `FiguresnTables/variables' to `FiguresnT
-ables/variables.tex' on input line 16.
-:<+ FiguresnTables/variables.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/variables.t
-ex)
-:<-
-[49
-
-]
-Appendix D.
-Package srcltx Info: Expanded filename `FiguresnTables/SWjuliandate' to `Figure
-snTables/SWjuliandate.tex' on input line 21.
-:<+ FiguresnTables/SWjuliandate.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/SWjuliandat
-e.tex
-Overfull \hbox (5.13503pt too wide) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Time
- []
-
-
-Overfull \hbox (6.36998pt too wide) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Elevation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Elevation
- []
-
-
-Overfull \hbox (1.53241pt too wide) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Number
- []
-
-Missing character: There is no Â in font cmr8!
-Missing character: There is no µ in font cmr8!
-
-Overfull \hbox (40.64685pt too wide) in paragraph at lines 3--65
-[][]
- []
-
-
-LaTeX Warning: Float too large for page by 23.81535pt on input line 65.
-
-)
-:<-
-Package srcltx Info: Expanded filename `FiguresnTables/TVjuliandate' to `Figure
-snTables/TVjuliandate.tex' on input line 24.
-:<+ FiguresnTables/TVjuliandate.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVjuliandat
-e.tex
-Overfull \hbox (5.13503pt too wide) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Time
- []
-
-
-Overfull \hbox (6.36998pt too wide) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Elevation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Elevation
- []
-
-
-Overfull \hbox (1.53241pt too wide) in paragraph at lines 5--5
-[]|\OT1/cmr/m/n/8 Number
- []
-
-Missing character: There is no Â in font cmr8!
-Missing character: There is no µ in font cmr8!
-
-Overfull \hbox (40.64685pt too wide) in paragraph at lines 3--63
-[][]
- []
-
-
-LaTeX Warning: Float too large for page by 23.21037pt on input line 63.
-
-)
-:<-
 [50
 
-] [51] [52]
-Appendix E.
-[53
+]
+Package srcltx Info: Expanded filename `FiguresnTables/DSpH' to `FiguresnTables
+/DSpH.tex' on input line 13.
+
+:<+ FiguresnTables/DSpH.tex
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/DSpH.tex)
+:<-
+[51]
+Package srcltx Info: Expanded filename `FiguresnTables/DSANC' to `FiguresnTable
+s/DSANC.tex' on input line 16.
+
+:<+ FiguresnTables/DSANC.tex
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/DSANC.tex)
+:<-
+[52]
+Package srcltx Info: Expanded filename `FiguresnTables/DSNO3' to `FiguresnTable
+s/DSNO3.tex' on input line 19.
+
+:<+ FiguresnTables/DSNO3.tex
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/DSNO3.tex)
+:<-
+[53]
+Package srcltx Info: Expanded filename `FiguresnTables/DSSO4' to `FiguresnTable
+s/DSSO4.tex' on input line 22.
+
+:<+ FiguresnTables/DSSO4.tex
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/DSSO4.tex)
+:<-
+[54]
+Appendix C.
+[55
+
+]
+Package srcltx Info: Expanded filename `FiguresnTables/Set1SWJD' to `FiguresnTa
+bles/Set1SWJD.tex' on input line 29.
+
+:<+ FiguresnTables/Set1SWJD.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Set1SWJD.te
+x)
+:<-
+[56]
+Package srcltx Info: Expanded filename `FiguresnTables/Set2SWJD' to `FiguresnTa
+bles/Set2SWJD.tex' on input line 32.
+
+:<+ FiguresnTables/Set2SWJD.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Set2SWJD.te
+x)
+:<-
+[57]
+Package srcltx Info: Expanded filename `FiguresnTables/Set3SWJD' to `FiguresnTa
+bles/Set3SWJD.tex' on input line 35.
+
+:<+ FiguresnTables/Set3SWJD.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Set3SWJD.te
+x)
+:<-
+[58]
+Package srcltx Info: Expanded filename `FiguresnTables/Set1TVJD' to `FiguresnTa
+bles/Set1TVJD.tex' on input line 40.
+
+:<+ FiguresnTables/Set1TVJD.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Set1TVJD.te
+x)
+:<-
+[59]
+Package srcltx Info: Expanded filename `FiguresnTables/Set2TVJD' to `FiguresnTa
+bles/Set2TVJD.tex' on input line 43.
+
+:<+ FiguresnTables/Set2TVJD.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Set2TVJD.te
+x)
+:<-
+[60]
+Package srcltx Info: Expanded filename `FiguresnTables/Set3TVJD' to `FiguresnTa
+bles/Set3TVJD.tex' on input line 46.
+
+:<+ FiguresnTables/Set3TVJD.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Set3TVJD.te
+x)
+:<-
+[61]
+Appendix D.
+[62
 
 ]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVApH' to `FiguresnTab
-les/ANOVApH.tex' on input line 29.
+les/ANOVApH.tex' on input line 51.
 
 :<+ FiguresnTables/ANOVApH.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVApH.tex
 
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
+Underfull \hbox (badness 4416) in paragraph at lines 2--73
 []$[]$   $[]$
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
+Underfull \hbox (badness 4416) in paragraph at lines 2--73
 $[]$   $[]$
  []
 
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--68
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--74
 []$[]$ 
  []
 
 )
 :<-
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVAANC' to `FiguresnTa
-bles/ANOVAANC.tex' on input line 32.
+bles/ANOVAANC.tex' on input line 54.
 :<+ FiguresnTables/ANOVAANC.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVAANC.te
 x
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
+Underfull \hbox (badness 4416) in paragraph at lines 2--73
 []$[]$   $[]$
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
+Underfull \hbox (badness 4416) in paragraph at lines 2--73
 $[]$   $[]$
  []
 
 )
 :<-
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--33
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--55
 []$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--33
+Underfull \hbox (badness 10000) in paragraph at lines 1--55
 
  []
 
-[54]
+[63]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVANitrate' to `Figure
-snTables/ANOVANitrate.tex' on input line 35.
+snTables/ANOVANitrate.tex' on input line 57.
 
 :<+ FiguresnTables/ANOVANitrate.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVANitrat
-e.tex
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
-[]$[]$   $[]$
- []
-
-
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
-$[]$   $[]$
- []
-
-)
+e.tex)
 :<-
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--36
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--58
 []$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--36
+Underfull \hbox (badness 10000) in paragraph at lines 1--58
 
  []
 
-[55]
+[64]
 Package srcltx Info: Expanded filename `FiguresnTables/ANOVASulfate' to `Figure
-snTables/ANOVASulfate.tex' on input line 38.
+snTables/ANOVASulfate.tex' on input line 60.
 
 :<+ FiguresnTables/ANOVASulfate.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANOVASulfat
-e.tex
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
-[]$[]$   $[]$
- []
-
-
-Underfull \hbox (badness 4416) in paragraph at lines 2--67
-$[]$   $[]$
- []
-
-)
+e.tex)
 :<-
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--39
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--61
 []$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--39
+Underfull \hbox (badness 10000) in paragraph at lines 1--61
 
  []
 
-[56] [57]
+[65] [66]
+Appendix E.
+[67
+
+]
+Package srcltx Info: Expanded filename `FiguresnTables/pHSWPHPA' to `FiguresnTa
+bles/pHSWPHPA.tex' on input line 67.
+
+:<+ FiguresnTables/pHSWPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/pHSWPHPA.te
+x)
+:<-
+[68]
+Package srcltx Info: Expanded filename `FiguresnTables/ANCSWPHPA' to `FiguresnT
+ables/ANCSWPHPA.tex' on input line 70.
+
+:<+ FiguresnTables/ANCSWPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANCSWPHPA.t
+ex)
+:<-
+[69]
+Package srcltx Info: Expanded filename `FiguresnTables/NO3SWPHPA' to `FiguresnT
+ables/NO3SWPHPA.tex' on input line 73.
+
+:<+ FiguresnTables/NO3SWPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/NO3SWPHPA.t
+ex)
+:<-
+[70]
+Package srcltx Info: Expanded filename `FiguresnTables/SO4SWPHPA' to `FiguresnT
+ables/SO4SWPHPA.tex' on input line 76.
+
+:<+ FiguresnTables/SO4SWPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/SO4SWPHPA.t
+ex)
+:<-
+[71]
+Package srcltx Info: Expanded filename `FiguresnTables/pHTVPHPA' to `FiguresnTa
+bles/pHTVPHPA.tex' on input line 82.
+
+:<+ FiguresnTables/pHTVPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/pHTVPHPA.te
+x)
+:<-
+[72]
+Package srcltx Info: Expanded filename `FiguresnTables/ANCTVPHPA' to `FiguresnT
+ables/ANCTVPHPA.tex' on input line 85.
+
+:<+ FiguresnTables/ANCTVPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANCTVPHPA.t
+ex)
+:<-
+[73]
+Package srcltx Info: Expanded filename `FiguresnTables/NO3TVPHPA' to `FiguresnT
+ables/NO3TVPHPA.tex' on input line 88.
+
+:<+ FiguresnTables/NO3TVPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/NO3TVPHPA.t
+ex)
+:<-
+[74]
+Package srcltx Info: Expanded filename `FiguresnTables/SO4TVPHPA' to `FiguresnT
+ables/SO4TVPHPA.tex' on input line 91.
+
+:<+ FiguresnTables/SO4TVPHPA.tex
+
+(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/SO4TVPHPA.t
+ex)
+:<-
+[75]
 Appendix F.
-Package srcltx Info: Expanded filename `FiguresnTables/SWposthoc' to `FiguresnT
-ables/SWposthoc.tex' on input line 43.
-:<+ FiguresnTables/SWposthoc.tex
+[76
 
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/SWposthoc.t
-ex
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]|\OT1/cmr/m/n/10 1993-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[]|\OT1/cmr/m/n/10 2003-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-[]|\OT1/cmr/m/n/10 2009-
- []
-
-
-Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
-[][]
- []
-
-)
-:<-
-Package srcltx Info: Expanded filename `FiguresnTables/TVposthoc' to `FiguresnT
-ables/TVposthoc.tex' on input line 47.
-:<+ FiguresnTables/TVposthoc.tex
-
-(C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVposthoc.t
-ex
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Adjusted
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Effect
- []
-
-
-Overfull \hbox (0.71399pt too wide) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Actual
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]|\OT1/cmr/m/n/10 1993-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[]|\OT1/cmr/m/n/10 2003-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-[]|\OT1/cmr/m/n/10 2009-
- []
-
-
-Overfull \hbox (68.20792pt too wide) in paragraph at lines 3--31
-[][]
- []
-
-)
-:<-
-[58
-
-] [59] [60]
-Appendix G.
+]
 Package srcltx Info: Expanded filename `FiguresnTables/pHPowerGraph' to `Figure
-snTables/pHPowerGraph.tex' on input line 53.
+snTables/pHPowerGraph.tex' on input line 96.
+
 :<+ FiguresnTables/pHPowerGraph.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/pHPowerGrap
 h.tex)
 :<-
+[77]
 Package srcltx Info: Expanded filename `FiguresnTables/ANCnNitratepowergraph' t
-o `FiguresnTables/ANCnNitratepowergraph.tex' on input line 55.
+o `FiguresnTables/ANCnNitratepowergraph.tex' on input line 99.
+
 :<+ FiguresnTables/ANCnNitratepowergraph.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/ANCnNitrate
 powergraph.tex)
 :<-
+[78]
 Package srcltx Info: Expanded filename `FiguresnTables/Sulfatepowergraph' to `F
-iguresnTables/Sulfatepowergraph.tex' on input line 57.
+iguresnTables/Sulfatepowergraph.tex' on input line 102.
+
 :<+ FiguresnTables/Sulfatepowergraph.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/Sulfatepowe
 rgraph.tex)
 :<-
+[79]
 Package srcltx Info: Expanded filename `FiguresnTables/TVpowergraph' to `Figure
-snTables/TVpowergraph.tex' on input line 59.
+snTables/TVpowergraph.tex' on input line 105.
+
 :<+ FiguresnTables/TVpowergraph.tex
 
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\FiguresnTables/TVpowergrap
 h.tex)
 :<-
-) [61
+[80]
+Appendix G.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[81
 
-] [62] [63] [64] [65]
+]
+Overfull \hbox (39.74551pt too wide) in paragraph at lines 118--137
+[][]
+ []
+
+[82]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [83] [84] [85] [86] [87]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph1.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph1.pdf, id=1373, 794.97pt x 614.295pt>
+File: figures/CAGraph1.pdf Graphic file (type pdf)
+
+<use figures/CAGraph1.pdf>
+Package pdftex.def Info: figures/CAGraph1.pdf used on input line 190.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph1.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+File: figures/CAGraph1.pdf Graphic file (type pdf)
+<use figures/CAGraph1.pdf>
+Package pdftex.def Info: figures/CAGraph1.pdf used on input line 190.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph1.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph1.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph1.pdf, id=1376, page=1, 794.97pt x 614.295pt>
+File: figures/CAGraph1.pdf Graphic file (type pdf)
+
+<use figures/CAGraph1.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph1.pdf, page1 used on input line 190.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph1.pdf Graphic file (type pdf)
+ <use figures/CAGraph1.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph1.pdf, page1 used on input line 190.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph1.pdf Graphic file (type pdf)
+
+<use figures/CAGraph1.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph1.pdf, page1 used on input line 190.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph1.pdf Graphic file (type pdf)
+ <use figures/CAGraph1.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph1.pdf, page1 used on input line 190.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+ [88 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph1.pdf>
+]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph2.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph2.pdf, id=1389, 794.97pt x 614.295pt>
+File: figures/CAGraph2.pdf Graphic file (type pdf)
+
+<use figures/CAGraph2.pdf>
+Package pdftex.def Info: figures/CAGraph2.pdf used on input line 194.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph2.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+File: figures/CAGraph2.pdf Graphic file (type pdf)
+<use figures/CAGraph2.pdf>
+Package pdftex.def Info: figures/CAGraph2.pdf used on input line 194.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph2.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph2.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph2.pdf, id=1392, page=1, 794.97pt x 614.295pt>
+File: figures/CAGraph2.pdf Graphic file (type pdf)
+
+<use figures/CAGraph2.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph2.pdf, page1 used on input line 194.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph2.pdf Graphic file (type pdf)
+ <use figures/CAGraph2.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph2.pdf, page1 used on input line 194.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph2.pdf Graphic file (type pdf)
+
+<use figures/CAGraph2.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph2.pdf, page1 used on input line 194.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph2.pdf Graphic file (type pdf)
+ <use figures/CAGraph2.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph2.pdf, page1 used on input line 194.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+ [89 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph2.pdf>
+]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph3.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph3.pdf, id=1404, 794.97pt x 614.295pt>
+File: figures/CAGraph3.pdf Graphic file (type pdf)
+
+<use figures/CAGraph3.pdf>
+Package pdftex.def Info: figures/CAGraph3.pdf used on input line 198.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph3.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+File: figures/CAGraph3.pdf Graphic file (type pdf)
+<use figures/CAGraph3.pdf>
+Package pdftex.def Info: figures/CAGraph3.pdf used on input line 198.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph3.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph3.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph3.pdf, id=1407, page=1, 794.97pt x 614.295pt>
+File: figures/CAGraph3.pdf Graphic file (type pdf)
+
+<use figures/CAGraph3.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph3.pdf, page1 used on input line 198.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph3.pdf Graphic file (type pdf)
+ <use figures/CAGraph3.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph3.pdf, page1 used on input line 198.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph3.pdf Graphic file (type pdf)
+
+<use figures/CAGraph3.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph3.pdf, page1 used on input line 198.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph3.pdf Graphic file (type pdf)
+ <use figures/CAGraph3.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph3.pdf, page1 used on input line 198.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+ [90 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph3.pdf>
+]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph6.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph6.pdf, id=1419, 794.97pt x 614.295pt>
+File: figures/CAGraph6.pdf Graphic file (type pdf)
+
+<use figures/CAGraph6.pdf>
+Package pdftex.def Info: figures/CAGraph6.pdf used on input line 202.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph6.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+File: figures/CAGraph6.pdf Graphic file (type pdf)
+<use figures/CAGraph6.pdf>
+Package pdftex.def Info: figures/CAGraph6.pdf used on input line 202.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph6.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph6.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph6.pdf, id=1422, page=1, 794.97pt x 614.295pt>
+File: figures/CAGraph6.pdf Graphic file (type pdf)
+
+<use figures/CAGraph6.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph6.pdf, page1 used on input line 202.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph6.pdf Graphic file (type pdf)
+ <use figures/CAGraph6.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph6.pdf, page1 used on input line 202.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph6.pdf Graphic file (type pdf)
+
+<use figures/CAGraph6.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph6.pdf, page1 used on input line 202.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph6.pdf Graphic file (type pdf)
+ <use figures/CAGraph6.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph6.pdf, page1 used on input line 202.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+ [91 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph6.pdf>
+]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph8.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph8.pdf, id=1434, 794.97pt x 614.295pt>
+File: figures/CAGraph8.pdf Graphic file (type pdf)
+
+<use figures/CAGraph8.pdf>
+Package pdftex.def Info: figures/CAGraph8.pdf used on input line 206.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph8.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+File: figures/CAGraph8.pdf Graphic file (type pdf)
+<use figures/CAGraph8.pdf>
+Package pdftex.def Info: figures/CAGraph8.pdf used on input line 206.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph8.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph8.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph8.pdf, id=1437, page=1, 794.97pt x 614.295pt>
+File: figures/CAGraph8.pdf Graphic file (type pdf)
+
+<use figures/CAGraph8.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph8.pdf, page1 used on input line 206.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph8.pdf Graphic file (type pdf)
+ <use figures/CAGraph8.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph8.pdf, page1 used on input line 206.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph8.pdf Graphic file (type pdf)
+
+<use figures/CAGraph8.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph8.pdf, page1 used on input line 206.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph8.pdf Graphic file (type pdf)
+ <use figures/CAGraph8.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph8.pdf, page1 used on input line 206.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+ [92 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph8.pdf>
+]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph9.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph9.pdf, id=1449, 794.97pt x 614.295pt>
+File: figures/CAGraph9.pdf Graphic file (type pdf)
+
+<use figures/CAGraph9.pdf>
+Package pdftex.def Info: figures/CAGraph9.pdf used on input line 210.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph9.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+File: figures/CAGraph9.pdf Graphic file (type pdf)
+<use figures/CAGraph9.pdf>
+Package pdftex.def Info: figures/CAGraph9.pdf used on input line 210.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph9.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph9.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<figures/CAGraph9.pdf, id=1452, page=1, 794.97pt x 614.295pt>
+File: figures/CAGraph9.pdf Graphic file (type pdf)
+
+<use figures/CAGraph9.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph9.pdf, page1 used on input line 210.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph9.pdf Graphic file (type pdf)
+ <use figures/CAGraph9.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph9.pdf, page1 used on input line 210.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph9.pdf Graphic file (type pdf)
+
+<use figures/CAGraph9.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph9.pdf, page1 used on input line 210.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+File: figures/CAGraph9.pdf Graphic file (type pdf)
+ <use figures/CAGraph9.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph9.pdf, page1 used on input line 210.
+(pdftex.def)             Requested size: 1152.70126pt x 890.72368pt.
+ [93 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph9.pdf>
+]
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph10.pdf): PDF inclusion: found PDF version <1.7>, but at 
+most version <1.5> allowed
+<figures/CAGraph10.pdf, id=1465, 614.295pt x 794.97pt>
+File: figures/CAGraph10.pdf Graphic file (type pdf)
+
+<use figures/CAGraph10.pdf>
+Package pdftex.def Info: figures/CAGraph10.pdf used on input line 214.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph10.pdf): PDF inclusion: found PDF version <1.7>, but at 
+most version <1.5> allowed
+File: figures/CAGraph10.pdf Graphic file (type pdf)
+<use figures/CAGraph10.pdf>
+Package pdftex.def Info: figures/CAGraph10.pdf used on input line 214.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph10.pdf): PDF inclusion: found PDF version <1.7>, but at 
+most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file C:/Users/TimZ/Documents/GitHub/GHThesis/LaTe
+xThesis/figures/CAGraph10.pdf): PDF inclusion: found PDF version <1.7>, but at 
+most version <1.5> allowed
+<figures/CAGraph10.pdf, id=1468, page=1, 614.295pt x 794.97pt>
+File: figures/CAGraph10.pdf Graphic file (type pdf)
+
+<use figures/CAGraph10.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph10.pdf, page1 used on input line 214.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: figures/CAGraph10.pdf Graphic file (type pdf)
+ <use figures/CAGraph10.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph10.pdf, page1 used on input line 214.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: figures/CAGraph10.pdf Graphic file (type pdf)
+
+<use figures/CAGraph10.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph10.pdf, page1 used on input line 214.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: figures/CAGraph10.pdf Graphic file (type pdf)
+ <use figures/CAGraph10.pdf, page 1>
+Package pdftex.def Info: figures/CAGraph10.pdf, page1 used on input line 214.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+[94 <C:/Users/TimZ/Documents/GitHub/GHThesis/LaTexThesis/figures/CAGraph10.pdf>
+])
 :<-
 :<+ back-matter/vita.tex
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.tex)
-[66
+[95
 
 
 
@@ -2010,8 +2249,8 @@ h.tex)
 
 ]
 :<-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\TimPobst-thesis.aux
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\front-matter/acknowledgeme
 nts.aux)
@@ -2025,48 +2264,45 @@ aux)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\chapters/chapter-4.aux)
 (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/appendix-1.aux
 ) (C:\Users\TimZ\Documents\GitHub\GHThesis\LaTexThesis\back-matter/vita.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
 Package rerunfilecheck Info: File `TimPobst-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 10A5638AC76983C1B9EE46DDFEE97B25;4192.
+(rerunfilecheck)             Checksum: 36478AB41A8C2D02A1881CD33441317E;5761.
 Package rerunfilecheck Info: File `TimPobst-thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: E317BA0F682FDAF2014B566EDBF5DE21;3035.
+(rerunfilecheck)             Checksum: CBB75A95598A45CBA11EB35B108CE0D8;3571.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.43092pt have occurred.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 26074 strings out of 493921
- 575545 string characters out of 3144878
- 807952 words of memory out of 3000000
- 28461 multiletter control sequences out of 15000+200000
- 14530 words of font info for 58 fonts, out of 3000000 for 9000
+ 26972 strings out of 493921
+ 591872 string characters out of 3144878
+ 757989 words of memory out of 3000000
+ 29209 multiletter control sequences out of 15000+200000
+ 13913 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 64i,19n,100p,860b,2098s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TimPobst-thesis.pdf (78 pages, 1114633 bytes).
+ 64i,19n,100p,2705b,2122s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on TimPobst-thesis.pdf (110 pages, 1489321 bytes).
 PDF statistics:
- 1173 PDF objects out of 1200 (max. 8388607)
- 248 named destinations out of 1000 (max. 500000)
- 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1599 PDF objects out of 1728 (max. 8388607)
+ 325 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
 

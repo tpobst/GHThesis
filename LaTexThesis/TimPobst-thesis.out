@@ -14,7 +14,7 @@
 \BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Elevation Bands}{section.1.3}% 14
 \BOOKMARK [1][-]{section.1.4}{1.4 Time sets}{chapter.1}% 15
 \BOOKMARK [1][-]{section.1.5}{1.5 Data smoothing}{chapter.1}% 16
-\BOOKMARK [1][-]{section.1.6}{1.6 objectives}{chapter.1}% 17
+\BOOKMARK [1][-]{section.1.6}{1.6 Objectives}{chapter.1}% 17
 \BOOKMARK [0][-]{chapter.2}{2 Trend Analysis}{}% 18
 \BOOKMARK [1][-]{section.2.1}{2.1 Methods}{chapter.2}% 19
 \BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Introduction}{section.2.1}% 20
@@ -24,12 +24,12 @@
 \BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Julian date coefficients from time variables only}{section.2.2}% 24
 \BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Elevation trends}{section.2.2}% 25
 \BOOKMARK [2][-]{subsection.2.2.4}{2.2.4 Results by Comparison}{section.2.2}% 26
-\BOOKMARK [1][-]{section.2.3}{2.3 Discussion}{chapter.2}% 27
+\BOOKMARK [1][-]{section.2.3}{2.3 Discussion and Conclusions}{chapter.2}% 27
 \BOOKMARK [0][-]{chapter.3}{3 Means Comparison}{}% 28
 \BOOKMARK [1][-]{section.3.1}{3.1 Methods}{chapter.3}% 29
 \BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Introduction}{section.3.1}% 30
 \BOOKMARK [1][-]{section.3.2}{3.2 Results}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.3}{3.3 Discussion}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.3}{3.3 Discussion and Conclusions}{chapter.3}% 32
 \BOOKMARK [0][-]{chapter.4}{4 Power Analysis}{}% 33
 \BOOKMARK [1][-]{section.4.1}{4.1 Methods}{chapter.4}% 34
 \BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Introduction}{section.4.1}% 35
@@ -37,30 +37,53 @@
 \BOOKMARK [1][-]{section.4.2}{4.2 Results}{chapter.4}% 37
 \BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Post hoc}{section.4.2}% 38
 \BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 A priori}{section.4.2}% 39
-\BOOKMARK [1][-]{section.4.3}{4.3 Discussion}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.3}{4.3 Discussion and Conclusions}{chapter.4}% 40
 \BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Post hoc}{section.4.3}% 41
 \BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 A priori}{section.4.3}% 42
-\BOOKMARK [0][-]{section*.46}{Bibliography}{}% 43
-\BOOKMARK [0][-]{appendix.A}{A }{}% 44
+\BOOKMARK [0][-]{section*.48}{Bibliography}{}% 43
+\BOOKMARK [0][-]{appendix.A}{A Site Data}{}% 44
 \BOOKMARK [1][-]{section.A.1}{A.1 Site Data}{appendix.A}% 45
-\BOOKMARK [1][-]{section.A.2}{A.2 Site data}{appendix.A}% 46
-\BOOKMARK [0][-]{appendix.B}{B Descriptive Statistics}{}% 47
-\BOOKMARK [0][-]{appendix.C}{C Variable selection}{}% 48
-\BOOKMARK [0][-]{appendix.D}{D Julian Date Coefficients}{}% 49
-\BOOKMARK [1][-]{section.D.1}{D.1 Step-wise Method}{appendix.D}% 50
-\BOOKMARK [1][-]{section.D.2}{D.2 Temporal Variables}{appendix.D}% 51
-\BOOKMARK [0][-]{appendix.E}{E ANOVA/Bonferoni}{}% 52
-\BOOKMARK [1][-]{section.E.1}{E.1 pH}{appendix.E}% 53
-\BOOKMARK [1][-]{section.E.2}{E.2 ANC}{appendix.E}% 54
-\BOOKMARK [1][-]{section.E.3}{E.3 Nitrate}{appendix.E}% 55
-\BOOKMARK [1][-]{section.E.4}{E.4 Sulfate}{appendix.E}% 56
-\BOOKMARK [0][-]{appendix.F}{F Post Hoc Power Analsysis}{}% 57
-\BOOKMARK [1][-]{section.F.1}{F.1 Step-Wise Variables}{appendix.F}% 58
-\BOOKMARK [1][-]{section.F.2}{F.2 Temperol variables}{appendix.F}% 59
-\BOOKMARK [0][-]{appendix.G}{G A priori analysis}{}% 60
-\BOOKMARK [1][-]{section.G.1}{G.1 Power graphs}{appendix.G}% 61
-\BOOKMARK [2][-]{subsection.G.1.1}{G.1.1 pH}{section.G.1}% 62
-\BOOKMARK [2][-]{subsection.G.1.2}{G.1.2 ANC and Nitrate}{section.G.1}% 63
-\BOOKMARK [2][-]{subsection.G.1.3}{G.1.3 Sulfate}{section.G.1}% 64
-\BOOKMARK [2][-]{subsection.G.1.4}{G.1.4 Time Variables}{section.G.1}% 65
-\BOOKMARK [0][-]{section*.84}{Vita}{}% 66
+\BOOKMARK [0][-]{appendix.B}{B Descriptive Statistics}{}% 46
+\BOOKMARK [1][-]{section.B.1}{B.1 pH}{appendix.B}% 47
+\BOOKMARK [1][-]{section.B.2}{B.2 ANC}{appendix.B}% 48
+\BOOKMARK [1][-]{section.B.3}{B.3 Nitrate}{appendix.B}% 49
+\BOOKMARK [1][-]{section.B.4}{B.4 Sulfate}{appendix.B}% 50
+\BOOKMARK [0][-]{appendix.C}{C Julian Date Coefficients}{}% 51
+\BOOKMARK [1][-]{section.C.1}{C.1 Step-wise Method}{appendix.C}% 52
+\BOOKMARK [2][-]{subsection.C.1.1}{C.1.1 Set 1: 1993-2002}{section.C.1}% 53
+\BOOKMARK [2][-]{subsection.C.1.2}{C.1.2 Set 2: 2003-2008}{section.C.1}% 54
+\BOOKMARK [2][-]{subsection.C.1.3}{C.1.3 Set 3: 2009-2012}{section.C.1}% 55
+\BOOKMARK [1][-]{section.C.2}{C.2 Temporal Variables}{appendix.C}% 56
+\BOOKMARK [2][-]{subsection.C.2.1}{C.2.1 Set 1: 1993-2002}{section.C.2}% 57
+\BOOKMARK [2][-]{subsection.C.2.2}{C.2.2 Set 2: 2003-2008}{section.C.2}% 58
+\BOOKMARK [2][-]{subsection.C.2.3}{C.2.3 Set 3: 2009-2012}{section.C.2}% 59
+\BOOKMARK [0][-]{appendix.D}{D Bonferoni}{}% 60
+\BOOKMARK [1][-]{section.D.1}{D.1 pH}{appendix.D}% 61
+\BOOKMARK [1][-]{section.D.2}{D.2 ANC}{appendix.D}% 62
+\BOOKMARK [1][-]{section.D.3}{D.3 Nitrate}{appendix.D}% 63
+\BOOKMARK [1][-]{section.D.4}{D.4 Sulfate}{appendix.D}% 64
+\BOOKMARK [0][-]{appendix.E}{E Post Hoc Power Analsysis}{}% 65
+\BOOKMARK [1][-]{section.E.1}{E.1 Step-Wise Variables}{appendix.E}% 66
+\BOOKMARK [2][-]{subsection.E.1.1}{E.1.1 pH}{section.E.1}% 67
+\BOOKMARK [2][-]{subsection.E.1.2}{E.1.2 ANC}{section.E.1}% 68
+\BOOKMARK [2][-]{subsection.E.1.3}{E.1.3 NO3}{section.E.1}% 69
+\BOOKMARK [2][-]{subsection.E.1.4}{E.1.4 SO4}{section.E.1}% 70
+\BOOKMARK [1][-]{section.E.2}{E.2 Temperol variables}{appendix.E}% 71
+\BOOKMARK [2][-]{subsection.E.2.1}{E.2.1 pH}{section.E.2}% 72
+\BOOKMARK [2][-]{subsection.E.2.2}{E.2.2 ANC}{section.E.2}% 73
+\BOOKMARK [2][-]{subsection.E.2.3}{E.2.3 NO3}{section.E.2}% 74
+\BOOKMARK [2][-]{subsection.E.2.4}{E.2.4 SO4}{section.E.2}% 75
+\BOOKMARK [0][-]{appendix.F}{F A priori analysis power graphs}{}% 76
+\BOOKMARK [1][-]{section.F.1}{F.1 pH}{appendix.F}% 77
+\BOOKMARK [1][-]{section.F.2}{F.2 ANC and Nitrate}{appendix.F}% 78
+\BOOKMARK [1][-]{section.F.3}{F.3 Sulfate}{appendix.F}% 79
+\BOOKMARK [1][-]{section.F.4}{F.4 Time Variables}{appendix.F}% 80
+\BOOKMARK [0][-]{appendix.G}{G Cluster Analysis}{}% 81
+\BOOKMARK [1][-]{section.G.1}{G.1 Infuential Observations}{appendix.G}% 82
+\BOOKMARK [1][-]{section.G.2}{G.2 methods}{appendix.G}% 83
+\BOOKMARK [1][-]{section.G.3}{G.3 Results}{appendix.G}% 84
+\BOOKMARK [2][-]{subsection.G.3.1}{G.3.1 5 Clusters}{section.G.3}% 85
+\BOOKMARK [2][-]{subsection.G.3.2}{G.3.2 15 Clusters}{section.G.3}% 86
+\BOOKMARK [1][-]{section.G.4}{G.4 Discussion}{appendix.G}% 87
+\BOOKMARK [1][-]{section.G.5}{G.5 Figures}{appendix.G}% 88
+\BOOKMARK [0][-]{section*.106}{Vita}{}% 89

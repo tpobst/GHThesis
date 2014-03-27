@@ -1,5 +1,6 @@
 \begin{table}[htbp]
-\caption{List of variables used for step-wise variable selection.  X's for variables selected by the step-wise method, O's if variable was added after the step-wise process.}
+\centering
+\caption[List of variables used for step-wise variable selection.]{List of variables used for step-wise variable selection.  X's for variables selected by the step-wise method, O's if variable was added after the step-wise process.}
 \begin{tabular}{lccccc}
 \toprule
                                       &                    & \multicolumn{ 4}{c}{Dependents for step-wise regression}                                                                                                                                               \\ \cline{3-6}\noalign{\smallskip}
@@ -9,21 +10,21 @@ pH                                  & Dependent &                               
 ANC                               &Dependent  &                                                     &                                                      & X                                                           & X \\ 
 NO$_3$                         &Dependent  & X                                                  & X                                                   &                                                              & X \\ 
 SO$_4$                         &Dependent  &X                                                   & X                                                   & X                                                            &  \\ 
-Julian Date                    &                   &                                                      &X                                                    &X                                                             & X \\ 
-Month                            &                   &                                                      &                                                     &                                                                &  \\ 
-Year                               &                   &                                                      &                                                     &                                                                &  \\ 
+Julian Date                    &Time               &                                                      &X                                                    &X                                                             & X \\ 
+Month                            &Time                   &                                                      &                                                     &                                                                &  \\ 
+Year                               &Time                 &                                                      &                                                     &                                                                &  \\ 
 Julian Date Days           &Seasonality & X                                                     &                                                     &                                                                &  \\ 
 $\sin(\theta)$                &Seasonality & O                                                  & X                                                   & X                                                            & O \\ 
 $\cos(\theta)$               &Seasonality & X                                                  & O                                                  & X                                                             & O \\ 
-Sum Base Cations          &                   &                                                     & X                                                   & X                                                             & X \\ 
+Sum Base Cations          & Ca$^{2+}$, Mg$^{2+}$, K$^+$, Na$^+$                   &                                                     & X                                                   & X                                                             & X \\ 
 Conductivity                  &                   &                                                     & X                                                    & X                                                            & X \\ 
 Chloride                         &                   &                                                     & X                                                    & X                                                            &  \\ 
-Elevation (m)                  &                  &                                                     &                                                      &                                                                &  \\ 
+Elevation              &Meters                  &                                                     &                                                      &                                                                &  \\ 
 Slope                               &                 &                                                     &                                                      &                                                                &  \\ 
-$\log_2$ (ANC)               &                 &                                                     &                                                      &                                                                &  \\ 
-$\log_2$ (Base Cations) &                  & X                                                 &                                                      &                                                                &  \\ \hline\noalign{\smallskip}
+$\log_2$ (ANC)               &Transformation                 &                                                     &                                                      &                                                                &  \\ 
+$\log_2$ (Base Cations) &Transformation                  & X                                                 &                                                      &                                                                &  \\ \hline\noalign{\smallskip}
 Number of predictors      &                 & 6                                                  & 8                                                   & 8                                                            & 7 \\ 
 \bottomrule
 \end{tabular}
-\label{variables}
+\label{tab:variables}
 \end{table}
