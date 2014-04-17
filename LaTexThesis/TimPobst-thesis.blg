@@ -10,7 +10,26 @@ The style file: apalike.bst
 A level-1 auxiliary file: back-matter/appendix-1.aux
 A level-1 auxiliary file: back-matter/vita.aux
 Database file #1: references/references-dissertation.bib
-Warning--empty journal in cai2013
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1020 of file apalike.bst
+Warning--empty school in harwell2001
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "John S. Schwartz, Meijun Cai, Matt A. Kulp, Stephen E. Moore, Becky Nichols, Charles Parker" for entry cai2013
+while executing---line 1095 of file apalike.bst
+Warning--empty institution in cai2013
 Warning--empty school in odom2003
 Warning--empty institution in annualreport2012
-(There were 3 warnings)
+(There were 9 error messages)

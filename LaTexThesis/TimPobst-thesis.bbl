@@ -29,16 +29,39 @@ Driscoll, C.~T., Driscoll, K.~M., Mitchell, M.~J., and Raynal, D.~J. (2003).
   york state.
 \newblock {\em Environmental Pollution}, 123(3):327--336.
 
+\bibitem[EPA, 2012]{EPA2}
+EPA (2012).
+\newblock What is acid rain?
+\newblock \url{http://www.epa.gov/acidrain/what/index.html}.
+\newblock Accessed: 2014-04-02.
+
 \bibitem[Faul et~al., 2009]{faul2009statistical}
 Faul, F., Erdfelder, E., Buchner, A., and Lang, A.-G. (2009).
 \newblock Statistical power analyses using g* power 3.1: Tests for correlation
   and regression analyses.
 \newblock {\em Behavior research methods}, 41(4):1149--1160.
 
+\bibitem[Harwell, 2001]{harwell2001}
+Harwell, G.~R. (2001).
+\newblock Water quality characteristiccs, temporal trends, and influencing
+  factors for selected streams in the great smoky mountains national park.
+\newblock Master's thesis.
+
 \bibitem[Helsel and Hirsch, 1992]{helsel1992statistical}
 Helsel, D.~R. and Hirsch, R.~M. (1992).
 \newblock {\em Statistical methods in water resources}, volume~49.
 \newblock Elsevier.
+
+\bibitem[IBM, 2013]{spss}
+IBM (2013).
+\newblock {\em IBM SPSS Statistics Base 22}.
+
+\bibitem[John S.~Schwartz, 2014]{cai2013}
+John S.~Schwartz, Meijun~Cai, M. A. K. S. E. M. B. N. C.~P. (2014).
+\newblock Biological effects of stream water quality on aquatic
+  macroinvertebrates and fish communities within great smoky mountains national
+  park.
+\newblock Technical report, National Park Service, Fort Collins, Colorado.
 
 \bibitem[Johnson et~al., 1992]{johnson1992atmospheric}
 Johnson, D.~W., Lindberg, S.~E., et~al. (1992).
@@ -46,11 +69,11 @@ Johnson, D.~W., Lindberg, S.~E., et~al. (1992).
   of the Integrated Forest Study.}
 \newblock Springer-Verlag.
 
-\bibitem[Meijun~Cai, 2013]{cai2013}
-Meijun~Cai, J. S.~S. (2013).
-\newblock Biological effects of stream water quality on aquatic
-  macroinvertebrates and fish communities within great smoky mountains national
-  park.
+\bibitem[Lovett, 1994]{lovett1994atmospheric}
+Lovett, G.~M. (1994).
+\newblock Atmospheric deposition of nutrients and pollutants in north america:
+  an ecological perspective.
+\newblock {\em Ecological Applications}, 4(4):629--650.
 
 \bibitem[Neff et~al., 2009]{neff2009physiological}
 Neff, K.~J., Schwartz, J.~S., Henry, T.~B., Robinson, R.~B., Moore, S.~E., and
@@ -84,6 +107,12 @@ Robinson, R.~B., Barnett, T.~W., Harwell, G.~R., Moore, S.~E., Kulp, M., and
 \newblock ph and acid anion time trends in different elevation ranges in the
   great smoky mountains national park.
 \newblock {\em Journal of Environmental Engineering}, 134(9):800--808.
+
+\bibitem[Shubzda et~al., 1995]{shubzda1995}
+Shubzda, J., Lindberg, S., Garten, C., and Nodvin, S. (1995).
+\newblock Elevational trends in the fluxes of sulphur and nitrogen in
+  throughfall in the southern appalachian mountains: Some surprising results.
+\newblock {\em Water, Air, and Soil Pollution}, 85(4):2265--2270.
 
 \bibitem[Sullivan et~al., 2004]{sullivan2004}
 Sullivan, T., Cosby, B., Herlihy, A., Webb, J., Bulger, A., Snyder, K., Brewer,

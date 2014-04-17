@@ -1,15 +1,15 @@
-\chapter{Means Comparison}\label{ch:mc}
+\chapter{ANOVA Means Comparison}\label{ch:mc}
 \section{Methods}
 \subsection{Introduction}
 
-Bull run and Kingston power plants installed scrubbers on their smokestacks in the year 2008 in order to reduce sulfate and nitrate emissions.
+Both the Bull Run and Kingston power plants installed scrubbers on their smokestacks in the year 2008 in order to reduce sulfate and nitrate emissions.
 These scrubbers have significantly reduced the amount of sulfur dioxide emitted by the smoke stacks.
-According to \autoref{fig:sulfateemissions}, which is a bar chart depicting the sum of sulfur dioxide emissions of Kingston and Bull run power plants,  the sulfur dioxide concentration dropped from 80 thousand tons in 2008 to about 15 thousand tons in 2009.
+According to \autoref{fig:sulfateemissions}, which is a bar chart depicting the sum of sulfur dioxide emissions of Kingston and Bull Run power plants,  the sulfur dioxide concentration dropped from 80 thousand tons in 2008 to about 15 thousand tons in 2009.
 
 \begin{figure}[h!]
   \centering
   \includegraphics[width=6in]{SulfateEmissions}\\
-	\caption{Yearly sulfur dioxide emissions for Kingston and Bull run, with yearly Noland Divide high elevation site sulfate concentrations. Figure borrowed from \citet{cai2013}.}
+	\caption{Yearly sulfur dioxide emissions for Kingston and Bull Run, with yearly Noland Divide high elevation site sulfate concentrations. Figure borrowed from \citet{cai2013}.}
   \label{fig:sulfateemissions}
 \end{figure}
 
@@ -17,14 +17,14 @@ Noland divide is a high elevation site located just below Clingman's Dome, which
 It has been studied for acid deposition since the late 80's and contains three separate sample collection sites.
 The through fall site collects deposition that has had a chance to fall through the trees and thus collects extra pollutants resting there.
 There is also an open to air site, which is designed to collect deposition that has not run through the trees and then grab samples are collected from two nearby streams.
-Samples from Noland Divide are continuously collected and analyzed every two weeks with the same lab processes as the Stream Survey samples.
+Samples from Noland Divide are continuously collected and analyzed every two weeks with the same lab processes as the Park-wide Stream Survey samples.
 
-Interestingly the through fall SO$_4$ concentrations dramatically decline from about 115 $\mu$eq L$^{-1}$ in 2007 to about 30 $\mu$eq L$^{-1}$ in 2010.
-A reduction in sulfur dioxide emissions could correlate to a reduction in SO$_4$ concentrations measured in Noland Divide through fall.
+Interestingly the through fall SO$_4^{2-}$ concentrations dramatically decline from about 115 $\mu$eq L$^{-1}$ in 2007 to about 30 $\mu$eq L$^{-1}$ in 2010.
+A reduction in sulfur dioxide emissions could correlate to a reduction in SO$_4^{2-}$ concentrations measured from the Noland Divide through fall.
 The effects of air pollution will be more pronounced and easier to recognize at a high elevation site such as Noland Divide but one site cannot represent the whole park.
-The geographical spread and number of sites contained within the Stream Survey can give a fuller representation of the affects of air pollution from local power plants.
-So assuming that the sulfur dioxide emissions from Kingston and Bull run power plants affect the whole GRSM park, there may be signals for this effect in the data.
-To explore for these signals each water quality vector in each time set will be tested against each other by way of means comparison methods.
+The geographical spread and number of sites contained within the Park-wide Stream Survey can give a fuller representation of the effects of air pollution from local power plants.
+Assuming that the sulfur dioxide emissions from Kingston and Bull Run power plants affect the whole GRSM park, there may be signals for this effect in the data.
+To explore for these signals each water quality variable in each time set will be tested against each other by way of means comparison methods.
 A significant difference between the data before and after the scrubbers were installed would indicate reason for further study.
 
 \subsubsection{Instruments}
@@ -32,6 +32,7 @@ ANOVA is a common means comparison method, but it is not best when testing multi
 As more hypotheses are added the chances of finding a rare occurrence rises, which is the chance to reject the null hypothesis (the means being equal) when it is actually true (type I error).
 The proposed study requires testing for the equality of three separate time sets and thus three separate hypotheses at once.
 The Bonferroni adjustment solves this by dividing the alpha by the number of hypotheses being tested.
+Technically SPSS multiplies the p-value of the least significant differences (LSD) by the number of tests \citep{spss}.
 In this way multiple hypothesis are tested as if there is only one.
 
 Two outputs are created by the Bonferroni method: one graphical and one numerical.
@@ -41,66 +42,80 @@ The numerical output presents a table of pairwise listings of all the groups com
 Each pair listed is evaluated by their 95$\%$ confidence intervals and the significance associated with each comparison.
 If the confidence interval includes zero then the groups are statistically the same or equal.
 
-Using SPSS and the Bonferroni method three time sets (93-02, 03-08, 09-12) will be compared at six elevation class levels and across four water quality variables (pH, ANC, NO$_3$, and SO$_4 $).
-Each group compared is the same data groups from the stream survey data analyzed in \autoref{ch:TA} and \autoref{ch:poweranslysis}.
+Using SPSS and the Bonferroni method three time sets (93-02, 03-08, 09-12) will be compared at six elevation class levels and across four water quality variables (pH, ANC, NO$_3^-$, and SO$_4^{2-}$).
+Each group compared are the same data groups from the park-wide stream survey data analyzed for trend analysis (\autoref{ch:TA}) and power analysis (\autoref{ch:poweranslysis}).
 
 \section{Results}%add numbers to the results
 
 \input{FiguresnTables/Bontable}
-The group means comparisons are represented by equal signs and unequal signs and are taken from the 95$\%$ C.I. determined in the study.
+The group means comparisons are represented by equal signs and unequal signs and are taken from the 95$\%$ C.I. determined by SPSS.
 In \autoref{tab:Bontable} there are three columns per water quality variable and each column represents the comparison of two groups of the same variable in different times.
 All groups that were found to be equal were insignificant, and all groups that were unequal are significant at the family wise 0.05 $\alpha$ level.
 
 The line graphs can be helpful in comparing the sizes of mean differences between the three time sets.
 These figures are not as definitive as the results in \autoref{tab:Bontable} because a noticeable visual difference does not always correspond to a significant difference, but they can still be useful as visual tools.
 There are six figures for each of the water quality variables, one for each of the elevation classes.
-They are presented in \hyperref[app:bon]{Appendix D.1}.
+
+\input{FiguresnTables/ANOVApH}
+
+\input{FiguresnTables/ANOVAANC}
+
+\input{FiguresnTables/ANOVANitrate}
+
+\input{FiguresnTables/ANOVASulfate}\pagebreak
 
 %For the most part the figures representing pH seem to be continuing a similar rate of change through the years, but this is also misleading because the time sets do not contain equal numbers of years.
 
-The set comparisons for pH are the first comparisons presented, they include more unequal sets than any other water quality variable.
-Much of the comparisons are unequal except between elevation class 2 which are all equal and class 4 and 6 which show are equal in sets 1 and 2.
+\paragraph{pH}
+
+The time set comparisons for pH are the first presented, they include 13 unequal comparisons out of 18,  more inequalities than any other water quality variable.
+Elevation class 2 contains all three equal comparisons and class 4 and 6 are equal across sets 1 and 2.
 If a pronounced elevational trend existed for pH in the GRSM, this trend would be visible in the Bonferroni line graphs.
-Following the means of each time set through the different elevation classes the largest mean should be in elevation class 1 and the smallest in elevation class 6.
-Unfortunately elevation class 2 always contains the lowest means instead of Elevation class 6.
-And elevation class 3 behaves as if it should be between elevation class 5 and 6.
+Following the means of each time set through the different elevation classes the largest mean should be in elevation class 1 (\autoref{fig:ANOVApH1}) and the smallest in elevation class 6 (\autoref{fig:ANOVApH6}).
+Unfortunately elevation class 2 (\autoref{fig:ANOVApH2}) always contains the lowest means instead of elevation class 6 (\autoref{fig:ANOVApH6}).
+And elevation class 3 (\autoref{fig:ANOVApH3}) behaves as if it should be between elevation class 5 (\autoref{fig:ANOVApH5}) and 6 (\autoref{fig:ANOVApH6}).
 
+\paragraph{ANC}
 In contrast to the pH line graphs, the ANC line graphs do not all have similar rates of change.
-In the odd numbered classes ANC reached a peak in set 2 and dropped for set 3.
-All of the ANC figures have a decreasing trend from set 2 to 3 except for class 2 which is steadily increasing. 
-The set means presented in the ANC figures vary greatly in concentration.
-Classes and 1 and 2 are more than double the means of the other classes.
-The ANC concentrations of elevation class 2 are the lowest which helps explain why the pH of elevation class 2 is also the lowest.
-It is important to note here that even though class 2's concentrations are the lowest, they are also the only concentrations that are increasing.
-The study found more equality than inequality in ANC, and in fact all three time sets in elevation classes 1, 4, and 6 were are all found to be equal.  
-Only 4 set comparisons were found to be unequal: comparisons between time sets 1 and 3 at elevation classes 2, 3, and 5, and the comparison between time sets 2 and 3 at elevation class 5.
+In the odd numbered elevation classes ANC reached a peak in time set 2 and decreased for time set 3.
+All of the ANC figures have a decreasing trend from time set 2 to 3 except for elevation class 2 which is steadily increasing. 
+The time set means presented in the ANC figures vary greatly in concentration.
+Elevation classes and 1 (\autoref{fig:ANOVAANC1}) and 2 (\autoref{fig:ANOVAANC2}) are more than double the means of the other classes.
+The ANC concentrations of elevation class 2 (\autoref{fig:ANOVAANC2}) are the lowest which helps explain why the pH of elevation class 2 (\autoref{fig:ANOVApH2}) is also the lowest.
+It is important to note here that even though elevation class 2's concentrations are the lowest, they are also the only concentrations that are increasing over time.
+The study found more equality than inequality while comparing time sets, and in fact all three time sets in elevation classes 1, 4, and 6 were found to be equal.  
+Only 4 time set comparisons were found to be unequal: comparisons between time sets 1 and 3 at elevation classes 2, 3, and 5, and the comparison between time sets 2 and 3 at elevation class 5.
 
-NO$_3$ elevation classes 4 and 6 are equal across all time sets and elevation class 3 shows time sets 1 and 2 being equal while 3 is not.  
-Elevation class 1 is the opposite of expected, which is all time sets being unequal with time set 3, showing all being equal except for sets 1 and 2.%Why was this expected?
-In elevation class 2 sets 3 and 2 are equal and in elevation class 5 sets 3 and 1 are equal.
-The line graphs for the odd numbered elevation classes of NO$_3$ all have decreased mean values from set 2 to 3.
-In elevation classes, 2 and 4 the mean values for set 3 are higher than those in set 2 but the difference of the means over times is decreasing.
-Overall the NO$_3$ figures show mostly decreasing concentrations over time, except for class 6 which is always increasing.
-The odd classes all have decreasing negative trends from set 2 to set 3 while classes 2 and 4 have decreasing positive trends between set 2 and 3.
+\paragraph{Nitrate}
 
-SO$_4$ points to all three time sets being equal across all elevation classes except for class 2, which shows equality for time sets 2 and 3.  
+NO$_3^-$ elevation classes 4 and 6 are statistically equal across all time sets and elevation class 3 shows time sets 1 and 2 being equal while 3 is not.  
+Elevation class 1 is the opposite of expected (all time sets are unequal with time set 3) showing all being equal except for sets 1 and 2.
+In elevation class 2 time sets 2 and 3 are equal and in elevation class 5 time sets 1 and 3 are equal.
+The line graphs for the odd numbered elevation classes of NO$_3^-$ all have decreased mean values from sets 2 to 3.
+In elevation classes 2 (\autoref{fig:ANOVANO32}) and 4 (\autoref{fig:ANOVANO34}) the mean values for time set 3 are higher than those in time set 2 but the difference of the means over time is decreasing.
+Overall the NO$_3^-$ figures show mostly decreasing concentrations over time, except for elevation class 6 (\autoref{fig:ANOVANO36}) which is always increasing.
+The odd classes all have decreasing negative trends from time sets 2 to 3 while elevation classes 2 and 4 have decreasing positive trends between sets 2 and 3.
+
+\paragraph{Sulfate}
+
+The time set comparisons of SO$_4^{2-}$ point to all three time sets being equal across all elevation classes except for class 2 (\autoref{fig:ANOVASO42}), which shows equality between time sets 2 and 3.  
 The line graphs can sometimes be misleading when visually comparing the time set means, and it is always best to have the confidence intervals on hand.
-For example when looking at the SO$_4$ figures many of the means look different across the time sets, but according to the table, except for class 2, they are all equal across time sets.
-All of the set 3 means for SO$_4$ are larger than their respective set 2 means except for those in class 2 which throughout has negative trends.
+For example when looking at the SO$_4^{2-}$ figures many of the means look different across the time sets, but according to the table, except for class 2, they are all equal across time sets.
+All of the set 3 means for SO$_4^{2-}$ are larger than their respective set 2 means except for those in elevation class 2 (\autoref{fig:ANOVASO42}) which has negative trends throughout.
 
 \section{Discussion and Conclusions}
 This analysis was completed in expectation of patterns similar to time sets 1 and 2 having significantly different means from time set 3.
-This expectation was based on the installation of scrubbers on the Kingston and Bull-run power plants and \autoref{fig:sulfateemissions}.
-Overall these patterns were not noticed, the clearest evidence is the complete equality down the column of time sets 2 and 3 for SO$_4$.
-Other outcomes were also unexpected such as the increase in pH over time and the abnormal ANC concentrations.%why was an increase in pH over time unexpected?
-The apparent decrease in ANC overtime as indicated in the Bonferroni figures was unexpected both because this is in contrast to the Julian date coefficients for ANC and pH has an increasing trend overtime.
-Because the Bonferroni method calculates significant means for the water quality vector the difference between the figures and the trends suggests error in the trend analysis models.
+This expectation was based on the installation of scrubbers on the Kingston and Bull Run power plants and \autoref{fig:sulfateemissions}.
+Overall these patterns were not noticed, the clearest evidence is the complete equality down the column of time sets 2 and 3 for SO$_4^{2-}$ concentrations.
+Other outcomes were also unexpected such as pH always increasing over time and the abnormal ANC concentrations.
+The decrease in ANC overtime as indicated in the Bonferroni figures was unexpected both because it is in contrast to the Julian date coefficients for ANC, which are mostly positive, and because pH is increasing over time.
+The Bonferroni method calculates significant means for the water quality variable, therefore the difference between the figures and the time trends suggest error in the trend analysis models.
 
-The focus of this chapter was to investigate the decline in sulfur dioxide emissions from the Kingston and Bull run power plants and how it may have impacted the decline in SO$_4$  concentrations in the through fall measurements of the Noland divide high elevation site.
-If a correlation existed it would be apparent in the pH results, but especially in the SO$_4$ results.
-A significant negative difference in means for set 3 compared to sets 1 and 2 would support the hypothesis.
-The inequalities present between the sets of pH data display a possible connection to the decline in sulfur dioxide pollution but there are many other factors that effect stream pH.
-The comparisons between the SO$_4$ sets are unfortunately mostly equal.
-This suggests a bank of SO$_4$ where previous SO$_4$ pollution is collected and a steady concentration is being released into the steams which are being measured with grab samples.
-In this way until that bank is depleted a significant difference in means may not be found.
+The focus of this chapter was to investigate the decline in sulfur dioxide emissions from the Kingston and Bull Run power plants and how it may have impacted the decline in SO$_4^{2-}$  concentrations in the through fall measurements of the Noland divide high elevation site.
+If a correlation existed it would be apparent in the pH results, but especially in the SO$_4^{2-}$ results.
+A significant difference in means from time sets 3 to time sets 1 and 2 would support the hypothesis.
+The inequalities present between the time sets of pH data display a possible connection to the decline in sulfur dioxide pollution but there are many other factors that effect stream pH.
+The comparisons between the SO$_4^{2-}$ sets are unfortunately mostly equal.
+This suggests SO$_4^{2-}$ sequestration and a steady concentration being released into the steams which are being measured with grab samples.
+Until the sequestered pollution is depleted a significant difference in means may not be found.
 %sulfate sequestration?
